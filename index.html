@@ -13,10 +13,17 @@ body{
   background:#f6f6f6;
 }
 
+/* 🔥 STICKY TOP BAR */
 .top{
+  position:sticky;
+  top:0;
+  z-index:100;
+  background:#f6f6f6;
+
   display:flex;
   gap:8px;
-  flex-wrap:wrap;
+  align-items:center;
+  padding-bottom:10px;
   margin-bottom:12px;
 }
 
@@ -27,17 +34,6 @@ input, select{
   background:#fff;
 }
 
-.grid{
-  display:grid;
-  gap:12px;
-}
-
-.top{
-  display:flex;
-  gap:8px;
-  align-items:center;
-}
-
 #q{
   flex:1;        /* zauzima sav slobodan prostor */
   min-width:0;
@@ -46,6 +42,11 @@ input, select{
 #group,
 #cols{
   flex:0 0 auto; /* ostaju svoje širine */
+}
+
+.grid{
+  display:grid;
+  gap:12px;
 }
 
 /* KARTICA */
@@ -64,7 +65,7 @@ input, select{
   border:1px solid #f53636;
 }
 
-/* 1+1 GRATIS – blago žuto */
+/* 1+1 GRATIS – plavo */
 .card-11{
   background:linear-gradient(0deg,#cbe6fc,#0673f0);
   border:1px solid #498ef5;
@@ -118,7 +119,7 @@ input, select{
 <body>
 
 <div class="top">
-  <input id="q" placeholder="Pretraga: naziv, šifra, grupa...                   ">
+  <input id="q" placeholder="Pretraga: naziv, šifra, grupa...">
   <select id="group"><option value="">Sve grupe</option></select>
   <select id="cols">
     <option value="1">Prikaz 1</option>
