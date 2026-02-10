@@ -4,6 +4,9 @@ const groupSel = document.getElementById("group");
 const colsSel = document.getElementById("cols");
 
 let items = [];
+let filtered = [];
+let prikazano = 0;
+const KORAK = 30;
 
 /* GRID */
 function setCols(n){
@@ -46,31 +49,57 @@ function cardClass(x){
   return "card";
 }
 
+/* UČITAJ JOŠ ARTIKALA (LAZY RENDER) */
+function ucitajJos(){
+
+  let kraj = Math.min(prikazano + KORAK, filtered.length);
+  let html = "";
+
+  for(let i = prikazano; i < kraj; i++){
+    const x = filtered[i];
+
+    html += `
+      <div class="${cardClass(x)}">
+        ${renderBadge(x)}
+        <img class="img" loading="lazy" decoding="async" src="images/${x.slika}" onerror="this.src='no-image.png'">
+        <div class="t">${x.naziv}</div>
+        <div class="meta">
+          Šifra: <b>${x.sifra}</b><br>
+          VPC: <b>${x.vpc}</b> KM | MPC: <b>${x.mpc}</b> KM<br> 
+          Pakovanje: <b>${x.pakovanje}</b>
+        </div>
+      </div>
+    `;
+  }
+
+  grid.insertAdjacentHTML("beforeend", html);
+  prikazano = kraj;
+}
+
 /* RENDER */
 function render(){
+
   const term = q.value.toLowerCase();
   const g = groupSel.value;
 
-  const filtered = items
+  filtered = items
     .filter(x => x && x.sifra && x.naziv)
     .filter(x => (x.aktivno||"").toUpperCase()!=="NE")
     .filter(x => !g || x.grupa===g)
     .filter(x => !term || (`${x.naziv} ${x.sifra}`).toLowerCase().includes(term))
     .sort((a,b)=>Number(a.redoslijed||0)-Number(b.redoslijed||0));
 
-  grid.innerHTML = filtered.map(x=>`
-    <div class="${cardClass(x)}">
-      ${renderBadge(x)}
-      <img class="img" src="images/${x.slika}" onerror="this.src='no-image.png'">
-      <div class="t">${x.naziv}</div>
-      <div class="meta">
-        Šifra: <b>${x.sifra}</b><br>
-        VPC: <b>${x.vpc}</b> KM | MPC: <b>${x.mpc}</b> KM<br> 
-        Pakovanje: <b>${x.pakovanje}</b>
-      </div>
-    </div>
-  `).join("");
+  grid.innerHTML = "";
+  prikazano = 0;
+  ucitajJos();
 }
+
+/* SKROL DETEKCIJA */
+window.addEventListener("scroll", () => {
+  if(window.innerHeight + window.scrollY >= document.body.offsetHeight - 500){
+    ucitajJos();
+  }
+});
 
 /* GRUPE */
 function fillGroups(){
