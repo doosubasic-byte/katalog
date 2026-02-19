@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Katalog</title>
 
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#ffffff">
+
 <style>
 body{
   font-family:system-ui;
@@ -35,13 +38,13 @@ input, select{
 }
 
 #q{
-  flex:1;        /* zauzima sav slobodan prostor */
+  flex:1;
   min-width:0;
 }
 
 #group,
 #cols{
-  flex:0 0 auto; /* ostaju svoje širine */
+  flex:0 0 auto;
 }
 
 .grid{
@@ -133,6 +136,17 @@ input, select{
 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 <script src="app.js"></script>
+
+<!-- SERVICE WORKER REGISTRACIJA (OFFLINE) -->
+<script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js")
+      .then(() => console.log("SW registered"))
+      .catch(err => console.log("SW error", err));
+  });
+}
+</script>
 
 </body>
 </html>
