@@ -1242,3 +1242,793 @@ group_filter_dropdown.bind("<<ComboboxSelected>>", lambda e: search())
 set_light()
 
 root.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------
+import json
+import os
+import shutil
+import copy
+import tkinter as tk
+from tkinter import filedialog, messagebox
+from tkinter import ttk
+from PIL import Image, ImageTk
+import webbrowser
+from pathlib import Path
+import subprocess
+import uuid
+
+products = []
+filtered_products = []
+file_path = ""
+selected_index = None
+current_sort_col = None
+sort_reverse = False
+current_view_mode = "order"   # "order" ili "sorted"
+dirty = False
+undo_stack = []
+
+# ---------------- HELPERS ----------------
+
+def current_term():
+    return (search_entry.get() or "").lower()
+
+def rebuild_filtered():
+    global filtered_products
+
+    term = current_term()
+    status = status_var.get() if 'status_var' in globals() else "Svi"
+    grupa_filter = group_filter_var.get() if 'group_filter_var' in globals() else "Sve"
+
+    filtered_products = []
+
+    for p in products:
+
+        # SEARCH
+        if term not in str(p.get("sifra", "")).lower() and \
+           term not in str(p.get("naziv", "")).lower():
+            continue
+
+        # STATUS
+        if status == "Aktivni" and p.get("aktivno") == "NE":
+            continue
+
+        if status == "Neaktivni" and p.get("aktivno") != "NE":
+            continue
+
+        # GRUPA
+        if grupa_filter != "Sve" and p.get("grupa") != grupa_filter:
+            continue
+
+        filtered_products.append(p)
+
+    if current_sort_col:
+        filtered_products.sort(
+            key=lambda x: str(x.get(current_sort_col, "")).lower(),
+            reverse=sort_reverse
+        )
+
+def clear_form():
+    global selected_index
+    selected_index = None
+    for key in fields:
+        if key in entries:
+            entries[key].delete(0, tk.END)
+    grupa_var.set("")
+    active_var.set(True)
+    image_label.config(image="")
+    image_label.image = None
+
+def mark_dirty():
+    global dirty
+    dirty = True
+
+def push_undo():
+    undo_stack.append(copy.deepcopy(products))
+
+def undo():
+    global products
+    if not undo_stack:
+        return
+    products = undo_stack.pop()
+    mark_dirty()
+    rebuild_filtered()
+    refresh_table()
+    clear_form()
+
+# ---------------- THEME ----------------
+
+def set_dark():
+    style.theme_use("clam")
+    style.configure("Treeview",
+                    background="#2b2b2b",
+                    foreground="white",
+                    fieldbackground="#2b2b2b")
+    style.configure("Treeview.Heading",
+                    background="#1e1e1e",
+                    foreground="white")
+
+def set_light():
+    style.theme_use("clam")
+    style.configure("Treeview",
+                    background="white",
+                    foreground="black",
+                    fieldbackground="white")
+    style.configure("Treeview.Heading",
+                    background="#dddddd",
+                    foreground="black")
+
+# ---------------- LOAD / SAVE ----------------
+
+def load_file():
+    global products, file_path, dirty, current_sort_col, sort_reverse
+
+    file_path = filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
+    if not file_path:
+        return
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        products = json.load(f)
+
+    # dodaj uid ako fali (stabilno za drag/drop)
+    for p in products:
+        if "uid" not in p or not p["uid"]:
+            p["uid"] = uuid.uuid4().hex
+
+    # postavi redoslijed 1..N
+    update_redoslijed()
+
+    dirty = False
+    current_sort_col = None
+    sort_reverse = False
+
+    populate_groups()
+    refresh_group_filter()
+    rebuild_filtered()
+    refresh_table()
+    clear_form()
+
+# ---------------- SAVE ----------------
+
+def save_file():
+    global dirty
+
+    if not file_path:
+        messagebox.showerror("Greška", "Nije učitan fajl")
+        return
+
+    # prvo upiši izmjene iz forme u products
+    if selected_index is not None:
+        update_product()
+
+    try:
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(products, f, indent=2, ensure_ascii=False)
+
+        dirty = False
+        messagebox.showinfo("OK", "JSON uspješno sačuvan!")
+
+    except Exception as e:
+        messagebox.showerror("Greška", f"Ne mogu sačuvati fajl:\n{e}")
+
+# ---------------- PREVIEW (LIVE SERVER STYLE) ----------------
+
+def open_preview():
+    """Pokrene lokalni server i otvori katalog."""
+    try:
+        repo_path = r"C:\Users\dell\Documents\GitHub\katalogkopija"
+
+        # pokreni python lokalni server
+        subprocess.Popen(
+            ["python", "-m", "http.server", "8000"],
+            cwd=repo_path
+        )
+
+        # otvori browser
+        webbrowser.open("http://localhost:8000")
+
+    except Exception as e:
+        messagebox.showerror("Greška", f"Ne mogu pokrenuti preview:\n{e}")
+
+# ---------------- SEARCH ----------------
+
+def search():
+    rebuild_filtered()
+    refresh_table()
+    clear_form()
+
+# ---------------- SORT ----------------
+
+def sort_by(column):
+    global sort_reverse, current_view_mode
+
+    current_view_mode = "sorted"
+    sort_reverse = not sort_reverse
+
+    items = list(tree.get_children())
+
+    def get_value(iid):
+        values = tree.item(iid)["values"]
+        if column == "sifra":
+            return str(values[1]).lower()
+        if column == "naziv":
+            return str(values[2]).lower()
+        return ""
+
+    items.sort(key=get_value, reverse=sort_reverse)
+
+    for index, iid in enumerate(items):
+        tree.move(iid, "", index)
+
+def sort_by_redoslijed():
+    global current_view_mode
+    current_view_mode = "order"
+    refresh_table()
+
+def refresh_table():
+    tree.delete(*tree.get_children())
+
+    for p in filtered_products:
+        tree.insert(
+            "",
+            "end",
+            iid=p["uid"],   # <--- STABILNO
+            values=(
+                p.get("redoslijed"),
+                p.get("sifra"),
+                p.get("naziv")
+            )
+        )
+
+def update_redoslijed():
+    for i, p in enumerate(products):
+        p["redoslijed"] = i + 1
+
+drag_item = None
+
+def on_tree_press(event):
+    global drag_item
+    item = tree.identify_row(event.y)
+    if item:
+        drag_item = item
+        tree.selection_set(item)
+        tree.item(item, tags=("dragging",))
+
+def on_tree_motion(event):
+    global drag_item
+    if not drag_item:
+        return
+
+    target = tree.identify_row(event.y)
+    if not target or target == drag_item:
+        return
+
+    tree.move(drag_item, "", tree.index(target))
+
+def on_tree_release(event):
+    global drag_item, current_view_mode
+
+    if not drag_item:
+        return
+
+    # ako nisi u originalnom (#) modu – samo prekini tiho
+    if current_view_mode != "order": 
+        drag_item = None
+        return
+
+    push_undo()
+    mark_dirty()
+
+    # redoslijed samo za trenutno prikazane (filtered) u tabeli
+    ordered_uids = list(tree.get_children())
+    uid_to_p = {p["uid"]: p for p in products}
+
+    # napravi listu proizvoda u tom novom redoslijedu (samo filtered subset)
+    ordered_subset = [uid_to_p[uid] for uid in ordered_uids if uid in uid_to_p]
+    subset_uids = set(p["uid"] for p in ordered_subset)
+    it = iter(ordered_subset)
+
+    # sastavi products tako da NE-dirnuti ostanu na mjestu,
+    # a samo filtered dio dobije novi poredak
+    new_products = []
+    for p in products:
+        if p.get("uid") in subset_uids:
+            new_products.append(next(it))
+        else:
+            new_products.append(p)
+
+    products[:] = new_products
+
+    update_redoslijed()
+    rebuild_filtered()
+    refresh_table()
+
+    tree.item(drag_item, tags=())
+    drag_item = None
+
+# ---------------- TABLE ----------------
+
+
+def on_select(event):
+    global selected_index
+
+    sel = tree.selection()
+    if not sel:
+        return
+
+    uid = sel[0]
+    p = next((x for x in products if x.get("uid") == uid), None)
+    if not p:
+        selected_index = None
+        return
+
+    selected_index = products.index(p)
+
+    for key in fields:
+        if key == "aktivno":
+            active_var.set(p.get("aktivno", "DA") != "NE")
+        elif key == "grupa":
+            grupa_var.set(p.get("grupa", ""))
+        else:
+            entries[key].delete(0, tk.END)
+            entries[key].insert(0, str(p.get(key, "")))
+
+    show_image(p.get("slika"))
+
+# ---------------- UPDATE ----------------
+
+def update_product():
+    global selected_index
+    if selected_index is None:
+        return
+
+    push_undo()
+    mark_dirty()
+
+    p = products[selected_index]
+    for key in fields:
+        if key == "aktivno":
+            p["aktivno"] = "DA" if active_var.get() else "NE"
+        elif key == "grupa":
+            p["grupa"] = grupa_var.get()
+        else:
+            p[key] = entries[key].get()
+
+    populate_groups()
+    rebuild_filtered()
+    refresh_table()
+
+# ---------------- NEW / DELETE ----------------
+
+def new_product():
+    refresh_group_filter()
+    push_undo()
+    mark_dirty()
+
+    empty = {k: "" for k in fields}
+    empty["uid"] = uuid.uuid4().hex   # <--- DODAJ OVO
+    empty["aktivno"] = "DA"
+    empty["grupa"] = ""
+    products.append(empty)
+
+    update_redoslijed()
+    populate_groups()
+    rebuild_filtered()
+    refresh_table()
+
+    search_entry.delete(0, tk.END)
+    rebuild_filtered()
+    refresh_table()
+
+    # selektuj novog
+    tree.selection_set(empty["uid"])
+    on_select(None)
+
+def delete_product():
+    refresh_group_filter()
+    global selected_index
+    if selected_index is None:
+        return
+
+    if not messagebox.askyesno("Potvrda", "Da li želite obrisati odabrani artikal?"):
+        return
+
+    push_undo()
+    mark_dirty()
+
+    products.pop(selected_index)
+    selected_index = None
+
+    populate_groups()
+    rebuild_filtered()
+    refresh_table()
+    clear_form()
+
+
+# ---------------- IMAGE ----------------
+
+def upload_image():
+    if selected_index is None:
+        return
+
+    img_path = filedialog.askopenfilename(
+        filetypes=[("Image files", "*.jpg *.png *.jpeg")]
+    )
+    if not img_path:
+        return
+
+    if not file_path:
+        messagebox.showerror("Greška", "Prvo učitaj JSON")
+        return
+
+    images_folder = os.path.join(os.path.dirname(file_path), "..", "images")
+    os.makedirs(images_folder, exist_ok=True)
+
+    filename = os.path.basename(img_path)
+    dest_path = os.path.join(images_folder, filename)
+    shutil.copy(img_path, dest_path)
+
+    push_undo()
+    mark_dirty()
+
+    entries["slika"].delete(0, tk.END)
+    entries["slika"].insert(0, filename)
+    products[selected_index]["slika"] = filename
+
+    show_image(filename)
+
+def show_image(filename):
+    if not file_path or not filename:
+        image_label.config(image="")
+        image_label.image = None
+        return
+
+    img_path = os.path.join(os.path.dirname(file_path), "..", "images", filename)
+    if not os.path.exists(img_path):
+        image_label.config(image="")
+        image_label.image = None
+        return
+
+    img = Image.open(img_path)
+    img.thumbnail((150, 150))
+    photo = ImageTk.PhotoImage(img)
+    image_label.config(image=photo)
+    image_label.image = photo
+
+# ---------------- CLOSE EVENT ----------------
+
+def on_closing():
+    if dirty:
+        ans = messagebox.askyesnocancel(
+            "Nespremljene izmjene",
+            "Imate nespremljene izmjene.\nŽelite li sačuvati prije izlaska?"
+        )
+        if ans is None:
+            return
+        if ans:
+            save_file()
+    root.destroy()
+
+# ---------------- FILTER VIEW ----------------
+
+def show_all():
+    rebuild_filtered()
+    refresh_table()
+
+def show_active():
+    global filtered_products
+    filtered_products = [p for p in products if p.get("aktivno") != "NE"]
+    refresh_table()
+
+def show_inactive():
+    global filtered_products
+    filtered_products = [p for p in products if p.get("aktivno") == "NE"]
+    refresh_table()
+
+
+# ---------------- GROUP MANAGER ----------------
+
+def manage_groups():
+    win = tk.Toplevel(root)
+    win.title("Upravljanje grupama")
+    win.geometry("400x500")
+
+    tk.Label(win, text="Grupe robe", font=("Segoe UI", 12, "bold")).pack(pady=10)
+
+    listbox = tk.Listbox(win)
+    listbox.pack(fill="both", expand=True, padx=10, pady=5)
+
+    groups = sorted(set(p.get("grupa", "") for p in products if p.get("grupa")))
+    for g in groups:
+        listbox.insert(tk.END, g)
+
+    def delete_group():
+        sel = listbox.curselection()
+        if not sel:
+            return
+
+        group_name = listbox.get(sel[0])
+
+        if not messagebox.askyesno("Potvrda", f"Obrisati grupu '{group_name}'?"):
+            return
+
+        for p in products:
+            if p.get("grupa") == group_name:
+                p["grupa"] = ""
+
+        listbox.delete(sel[0])
+        populate_groups()
+        rebuild_filtered()
+        refresh_table()
+
+    tk.Button(win, text="Obriši grupu", command=delete_group).pack(pady=5)
+
+
+def populate_groups():
+    groups = sorted(set(
+        p.get("grupa", "")
+        for p in products
+        if p.get("grupa")
+    ))
+    grupa_dropdown["values"] = groups
+
+
+def refresh_group_filter():
+    groups = sorted(set(
+        p.get("grupa", "")
+        for p in products
+        if p.get("grupa")
+    ))
+    group_filter_dropdown["values"] = ["Sve"] + groups
+    group_filter_var.set("Sve")
+
+# ---------------- UI ----------------
+
+root = tk.Tk()
+root.title("Katalog Subašić")
+root.state("zoomed")
+root.protocol("WM_DELETE_WINDOW", on_closing)
+
+style = ttk.Style()
+
+menubar = tk.Menu(root)
+
+# FILE
+file_menu = tk.Menu(menubar, tearoff=0)
+file_menu.add_command(label="Učitaj JSON", command=load_file)
+file_menu.add_command(label="Sačuvaj JSON", command=save_file)
+file_menu.add_separator()
+file_menu.add_command(label="Exit", command=on_closing)
+menubar.add_cascade(label="File", menu=file_menu)
+
+# EDIT
+edit_menu = tk.Menu(menubar, tearoff=0)
+edit_menu.add_command(label="Undo", command=undo)
+edit_menu.add_command(label="Novi artikal", command=new_product)
+edit_menu.add_command(label="Obriši artikal", command=delete_product)
+menubar.add_cascade(label="Edit", menu=edit_menu)
+
+# TOOLS
+tools_menu = tk.Menu(menubar, tearoff=0)
+tools_menu.add_command(label="Upravljanje grupama", command=manage_groups)
+menubar.add_cascade(label="Tools", menu=tools_menu)
+
+# VIEW
+view_menu = tk.Menu(menubar, tearoff=0)
+view_menu.add_command(label="Dark Mode", command=set_dark)
+view_menu.add_command(label="Light Mode", command=set_light)
+view_menu.add_separator()
+view_menu.add_command(label="Prikaži sve", command=show_all)
+view_menu.add_command(label="Samo aktivne", command=show_active)
+view_menu.add_command(label="Samo neaktivne", command=show_inactive)
+menubar.add_cascade(label="View", menu=view_menu)
+
+root.config(menu=menubar)
+# LEFT PANEL
+left_frame = tk.Frame(root)
+left_frame.pack(side="left", fill="y", padx=10, pady=10)
+
+search_entry = tk.Entry(left_frame, font=("Segoe UI", 11))
+search_entry.pack(fill="x", pady=5)
+search_entry.bind("<KeyRelease>", lambda e: search())
+
+# Tree + scrollbar
+tree_frame = tk.Frame(left_frame)
+tree_frame.pack(fill="both", expand=True)
+
+tree = ttk.Treeview(
+    tree_frame,
+    columns=("redoslijed", "sifra", "naziv"),
+    show="headings",
+    height=30
+)
+
+tree.heading("redoslijed", text="#", command=sort_by_redoslijed)
+tree.heading("sifra", text="ŠIFRA", command=lambda: sort_by("sifra"))
+tree.heading("naziv", text="NAZIV", command=lambda: sort_by("naziv"))
+
+tree.column("redoslijed", width=60, anchor="center")
+tree.column("sifra", width=120)
+tree.column("naziv", width=240)
+
+tree.tag_configure("dragging", background="#d0e7ff")
+tree.heading("sifra", text="ŠIFRA", command=lambda: sort_by("sifra"))
+tree.heading("naziv", text="NAZIV", command=lambda: sort_by("naziv"))
+tree.column("sifra", width=120)
+tree.column("naziv", width=240)
+tree.pack(side="left", fill="both", expand=True)
+tree.bind("<<TreeviewSelect>>", on_select)
+
+tree.bind("<ButtonPress-1>", on_tree_press)
+tree.bind("<B1-Motion>", on_tree_motion)
+tree.bind("<ButtonRelease-1>", on_tree_release)
+
+ys = ttk.Scrollbar(tree_frame, orient="vertical", command=tree.yview)
+ys.pack(side="right", fill="y")
+tree.configure(yscrollcommand=ys.set)
+
+tk.Button(left_frame, text="Novi artikal", command=new_product).pack(fill="x", pady=5)
+tk.Button(left_frame, text="Obriši", command=delete_product).pack(fill="x")
+tk.Button(left_frame, text="Undo", command=undo).pack(fill="x", pady=5)
+
+
+# RIGHT PANEL
+right_frame = tk.Frame(root)
+right_frame.pack(side="right", fill="both", expand=True, padx=10, pady=10)
+
+# Dodao sam i GRUPA + AKTIVNO u fields za “sve”
+fields = [
+    "sifra", "naziv", "vpc", "mpc",
+    "pakovanje", "redoslijed", "oznaka",
+    "akcija_postotak", "slika", "grupa", "aktivno"
+]
+
+entries = {}
+
+# Polja koja su entry (ne uključujemo grupa/aktivno jer su posebni)
+entry_fields = [
+    "sifra", "naziv", "vpc", "mpc",
+    "pakovanje", "redoslijed", "oznaka",
+    "akcija_postotak", "slika"
+]
+
+for i, field in enumerate(entry_fields):
+    tk.Label(right_frame, text=field.upper()).grid(row=i, column=0, sticky="w")
+    entry = tk.Entry(right_frame, width=40)
+    entry.grid(row=i, column=1, pady=3, sticky="w")
+    entries[field] = entry
+
+# GRUPA dropdown
+row_g = len(entry_fields)
+tk.Label(right_frame, text="GRUPA").grid(row=row_g, column=0, sticky="w")
+grupa_var = tk.StringVar()
+grupa_dropdown = ttk.Combobox(right_frame, textvariable=grupa_var, width=37)
+grupa_dropdown.grid(row=row_g, column=1, pady=3, sticky="w")
+
+# AKTIVNO checkbox
+row_a = row_g + 1
+active_var = tk.BooleanVar(value=True)
+tk.Checkbutton(right_frame, text="AKTIVNO", variable=active_var).grid(row=row_a, column=1, sticky="w")
+
+# IMAGE PREVIEW
+image_label = tk.Label(right_frame)
+image_label.grid(row=row_a + 1, column=1, pady=10, sticky="w")
+
+# BUTTONS
+btn_row = row_a + 2
+tk.Button(right_frame, text="Upload slika", command=upload_image).grid(row=btn_row, column=0, pady=3, sticky="w")
+tk.Button(right_frame, text="Sačuvaj izmjene", command=update_product).grid(row=btn_row, column=1, pady=3, sticky="w")
+
+btn_row2 = btn_row + 1
+tk.Button(right_frame, text="Sačuvaj JSON", command=save_file).grid(row=btn_row2, column=1, pady=3, sticky="w")
+tk.Button(right_frame, text="Učitaj JSON", command=load_file).grid(row=btn_row2, column=0, pady=3, sticky="w")
+
+btn_row3 = btn_row2 + 1
+tk.Button(right_frame, text="Preview katalog (Browser)", command=open_preview).grid(row=btn_row3, column=1, pady=6, sticky="w")
+
+# ---------------- STATUS FILTER (DESNO) ----------------
+
+status_row = btn_row3 + 1
+
+tk.Label(right_frame, text="FILTER STATUSA").grid(
+    row=status_row, column=0, sticky="w", pady=(15,0)
+)
+
+status_var = tk.StringVar(value="Svi")
+
+status_dropdown = ttk.Combobox(
+    right_frame,
+    textvariable=status_var,
+    values=["Svi", "Aktivni", "Neaktivni"],
+    state="readonly",
+    width=37
+)
+
+status_dropdown.grid(
+    row=status_row,
+    column=1,
+    sticky="w",
+    pady=(15,0)
+)
+
+
+# ---------------- GRUPA FILTER ----------------
+
+group_filter_row = status_row + 1
+
+tk.Label(right_frame, text="FILTER GRUPE").grid(
+    row=group_filter_row,
+    column=0,
+    sticky="w",
+    pady=(10, 0)
+)
+
+group_filter_var = tk.StringVar(value="Sve")
+
+group_filter_dropdown = ttk.Combobox(
+    right_frame,
+    textvariable=group_filter_var,
+    state="readonly",
+    width=37
+)
+
+group_filter_dropdown.grid(
+    row=group_filter_row,
+    column=1,
+    sticky="w",
+    pady=(10, 0)
+)
+
+# bind filtera (mora biti nakon što su dropdowni kreirani)
+status_dropdown.bind("<<ComboboxSelected>>", lambda e: search())
+group_filter_dropdown.bind("<<ComboboxSelected>>", lambda e: search())
+
+# default tema
+set_light()
+
+refresh_group_filter()
+populate_groups()
+rebuild_filtered()
+refresh_table()
+
+root.mainloop()
