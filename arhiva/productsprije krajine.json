@@ -81,7 +81,7 @@
     "mpc": "1,35",
     "pakovanje": "1/20",
     "grupa": "Tjestenina",
-    "redoslijed": 6,
+    "redoslijed": "6",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "32.webp",
@@ -102,7 +102,7 @@
     "slika": "34.webp",
     "aktivno": "",
     "uid": "ba72c3b8171546759d72b870245eb62d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "35",
@@ -117,7 +117,7 @@
     "slika": "35.webp",
     "aktivno": "",
     "uid": "e9d8e54a39644a7784914e5c43daffa1",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "36",
@@ -132,7 +132,7 @@
     "slika": "36.webp",
     "aktivno": "DA",
     "uid": "39c8f6c332b6476f972856827b66042a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "37",
@@ -147,7 +147,7 @@
     "slika": "37.webp",
     "aktivno": "",
     "uid": "cd81d2778bde4cc7adb5192ad43e49f0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "42",
@@ -162,7 +162,7 @@
     "slika": "42.webp",
     "aktivno": "",
     "uid": "ed85345fd567460a82c4ad76edc69d5d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "43",
@@ -177,7 +177,7 @@
     "slika": "43.webp",
     "aktivno": "",
     "uid": "6899a734e0b14c62bce972fe7455cb5d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "44",
@@ -192,7 +192,7 @@
     "slika": "44.webp",
     "aktivno": "",
     "uid": "0afddc42dbd64b5a9898716e3f5afd11",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "45",
@@ -207,7 +207,7 @@
     "slika": "45.webp",
     "aktivno": "",
     "uid": "58bb8088f5684a4f9420c6381bf27889",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "47",
@@ -237,7 +237,7 @@
     "slika": "10047.webp",
     "aktivno": "DA",
     "uid": "51f63e1cd285455487d13d4071438c97",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "10043",
@@ -252,7 +252,7 @@
     "slika": "10043.webp",
     "aktivno": "",
     "uid": "845c5e1db5a94ed68dc19e7a891bdfd2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "10044",
@@ -267,7 +267,7 @@
     "slika": "10044.webp",
     "aktivno": "",
     "uid": "71148861591a4f5d973ff19ff0bde43e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "10029",
@@ -282,7 +282,7 @@
     "slika": "10029.webp",
     "aktivno": "",
     "uid": "5df42907ad69454f855f7be7c4948678",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "10031",
@@ -297,7 +297,7 @@
     "slika": "10031.webp",
     "aktivno": "",
     "uid": "808f5aa80b2a472f9709664e4b4a8a32",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "10030",
@@ -312,7 +312,7 @@
     "slika": "10030.webp",
     "aktivno": "",
     "uid": "c9e118df13c841a686aacab7355dee0d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J27",
@@ -327,7 +327,7 @@
     "slika": "J27.webp",
     "aktivno": "",
     "uid": "5f8d54113c17405e89084b2d62432fb5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J28",
@@ -342,7 +342,7 @@
     "slika": "J28.webp",
     "aktivno": "",
     "uid": "b4079b7f55484077a28882712d11e4b4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J29",
@@ -357,7 +357,7 @@
     "slika": "J29.webp",
     "aktivno": "",
     "uid": "53e8cb03edd645d18d00106df027efb4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J30",
@@ -372,7 +372,7 @@
     "slika": "J44.webp",
     "aktivno": "",
     "uid": "0f8ae327180e4ce8b103b4ccdfa716a0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J31",
@@ -387,7 +387,7 @@
     "slika": "J31.webp",
     "aktivno": "",
     "uid": "7c5179a9d6284188bbff6d6b4b13efbf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J32",
@@ -402,7 +402,7 @@
     "slika": "J32.webp",
     "aktivno": "",
     "uid": "2799cc297740458fb17250e1dd3aa79d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J34",
@@ -417,7 +417,7 @@
     "slika": "J34.webp",
     "aktivno": "",
     "uid": "6fbe41441e1d403ea91688e2f3c7369b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J35",
@@ -432,7 +432,7 @@
     "slika": "J35.webp",
     "aktivno": "",
     "uid": "238e9690eae04980a124dd94d9a468b2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J36",
@@ -447,7 +447,7 @@
     "slika": "J36.webp",
     "aktivno": "",
     "uid": "9334927d4d7748b3a580bfa7bcf8530b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J42",
@@ -462,7 +462,7 @@
     "slika": "J42.webp",
     "aktivno": "",
     "uid": "04bdff5b8f114ac8ae7513333ac24072",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J44",
@@ -477,7 +477,7 @@
     "slika": "J44.webp",
     "aktivno": "",
     "uid": "4e57dcc087f6443c9ce26f0c100fda05",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "J47",
@@ -492,7 +492,7 @@
     "slika": "J47.webp",
     "aktivno": "",
     "uid": "edb836c3dd854119ab0f8bf22c668f64",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "17",
@@ -507,7 +507,7 @@
     "slika": "17.webp",
     "aktivno": "DA",
     "uid": "05edc16d7c4e490e9b9d7f32284f54a4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "59",
@@ -522,7 +522,7 @@
     "slika": "59.webp",
     "aktivno": "DA",
     "uid": "0fa23e4cf4f74954acaa3749812990ce",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "46",
@@ -537,7 +537,7 @@
     "slika": "46.webp",
     "aktivno": "DA",
     "uid": "3624358817bf494db9a9847ace528559",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "55",
@@ -552,7 +552,7 @@
     "slika": "55.webp",
     "aktivno": "",
     "uid": "03a5931358584712a4084c530d128f3d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "67",
@@ -567,7 +567,7 @@
     "slika": "67.webp",
     "aktivno": "",
     "uid": "721d5b3a000c4b1a91fb6f6d1e4a886a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "52B",
@@ -582,7 +582,7 @@
     "slika": "52B.webp",
     "aktivno": "",
     "uid": "5be265e7d2284223ab251917232b5d83",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "52BK",
@@ -597,7 +597,7 @@
     "slika": "52BK.webp",
     "aktivno": "",
     "uid": "6988b3912fcb4ef9a1ff3c7932e3ee37",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "21B",
@@ -612,7 +612,7 @@
     "slika": "21B.webp",
     "aktivno": "",
     "uid": "6b4a82c422ff4aa5b3b9695a49afca72",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "21VB",
@@ -627,7 +627,7 @@
     "slika": "21VB.webp",
     "aktivno": "",
     "uid": "1856b49291704f67806d07ee61c34d83",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "22B",
@@ -642,7 +642,7 @@
     "slika": "22B.webp",
     "aktivno": "",
     "uid": "b3c49b9068444a58bdb39e797af07b60",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02",
@@ -657,7 +657,7 @@
     "slika": "02.webp",
     "aktivno": "",
     "uid": "ec1f91494546458388beb1b274168901",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "12",
@@ -672,7 +672,7 @@
     "slika": "12.webp",
     "aktivno": "",
     "uid": "5e3aa152d47d414ca4cf64eb723cf8b7",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "23",
@@ -687,7 +687,7 @@
     "slika": "23.webp",
     "aktivno": "",
     "uid": "ae97525d29b54e0691217f659a5e948e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "13",
@@ -702,7 +702,7 @@
     "slika": "13.webp",
     "aktivno": "",
     "uid": "4adae4820cfb45239ae18114ae483f7f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "25",
@@ -717,7 +717,7 @@
     "slika": "25.webp",
     "aktivno": "",
     "uid": "eed0123a337944ac99ec70663dd867b4",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "26",
@@ -732,7 +732,7 @@
     "slika": "26n.webp",
     "aktivno": "",
     "uid": "952aede93fb945aab89d55e5768d51bb",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "26P",
@@ -747,7 +747,7 @@
     "slika": "26P.webp",
     "aktivno": "",
     "uid": "de0dc464d17440df9f935867c4ff703d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "38",
@@ -762,7 +762,7 @@
     "slika": "38.webp",
     "aktivno": "",
     "uid": "0c7ad66fde644d33801df34b4d95f2b5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "98",
@@ -777,7 +777,7 @@
     "slika": "98.webp",
     "aktivno": "",
     "uid": "47980adf05924c06928270f68d1e3943",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00226",
@@ -792,7 +792,7 @@
     "slika": "00226.webp",
     "aktivno": "",
     "uid": "7ff4cfb0cf60440293ef9b4918371060",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "39",
@@ -807,7 +807,7 @@
     "slika": "39n.webp",
     "aktivno": "DA",
     "uid": "c326fa89c1564051b0d504f183431bc5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "112V",
@@ -822,7 +822,7 @@
     "slika": "112V.webp",
     "aktivno": "",
     "uid": "46f992fcac294f5e860e615595be7de4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "112N",
@@ -837,7 +837,7 @@
     "slika": "112N.webp",
     "aktivno": "",
     "uid": "e2597f77e8b54ff79b648544c17ce806",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "112G",
@@ -852,7 +852,7 @@
     "slika": "112G.webp",
     "aktivno": "",
     "uid": "b35194b6818a4bc79842976537843ce0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "112M",
@@ -867,7 +867,7 @@
     "slika": "112M.webp",
     "aktivno": "",
     "uid": "a2a9614bcf254cc297b6d1b21f2391b3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "112J",
@@ -882,7 +882,7 @@
     "slika": "112J.webp",
     "aktivno": "",
     "uid": "e52d66820e7b4e239c4e50af4ff6c918",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00010",
@@ -897,7 +897,7 @@
     "slika": "00010.webp",
     "aktivno": "",
     "uid": "cf4edcd7a9c0454c93882ae3eb25d7c4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00480",
@@ -912,7 +912,7 @@
     "slika": "00480.webp",
     "aktivno": "NE",
     "uid": "f3548b3ace514d1898eb227adcc08e4e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00481",
@@ -927,7 +927,7 @@
     "slika": "00481.webp",
     "aktivno": "",
     "uid": "ae06ec29ec904b26993ec396c4d301d3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01383",
@@ -942,7 +942,7 @@
     "slika": "01383.webp",
     "aktivno": "",
     "uid": "7d046c4f4330468b94301ce3797c523c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01384",
@@ -957,7 +957,7 @@
     "slika": "01384.webp",
     "aktivno": "NE",
     "uid": "e1629149c94b4223b5062dfaec0c55d3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "104",
@@ -972,7 +972,7 @@
     "slika": "104.webp",
     "aktivno": "",
     "uid": "91589a61510f448cb6bb18cb51c0cff8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "105",
@@ -987,7 +987,7 @@
     "slika": "105.webp",
     "aktivno": "",
     "uid": "6420fae6756441c9903a2ea792bb51a4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "106",
@@ -1002,7 +1002,7 @@
     "slika": "106.webp",
     "aktivno": "",
     "uid": "3a2c47d7686146dbbe38a5898fb5a36e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "110",
@@ -1017,7 +1017,7 @@
     "grupa": "Ostalo Subašić",
     "aktivno": "DA",
     "uid": "260da6433bb94f20882de92aebf47bb1",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02016",
@@ -1032,7 +1032,7 @@
     "slika": "02016.webp",
     "aktivno": "",
     "uid": "6fadc5193e6a4cc29948da83ac819108",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "76",
@@ -1047,7 +1047,7 @@
     "slika": "76.webp",
     "aktivno": "",
     "uid": "67210b186c754251a3ef258223e52a61",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "81M",
@@ -1062,7 +1062,7 @@
     "slika": "81m.webp",
     "aktivno": "",
     "uid": "1a6c500b95ae489f98a61e73f05c7dde",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "82",
@@ -1077,7 +1077,7 @@
     "slika": "82.webp",
     "aktivno": "",
     "uid": "d3d37b32d6f94f1ca191c121f920ea1c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "78",
@@ -1092,7 +1092,7 @@
     "slika": "78.webp",
     "aktivno": "",
     "uid": "0944456ebaad40feb6815c684eeef6d2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "79",
@@ -1107,7 +1107,7 @@
     "slika": "79.webp",
     "aktivno": "",
     "uid": "5ab89e5d037140d8aae2e760b2f70b84",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "80",
@@ -1122,7 +1122,7 @@
     "slika": "80.webp",
     "aktivno": "",
     "uid": "6bf9877aad924fe686ca443d3af76016",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "86",
@@ -1137,7 +1137,7 @@
     "slika": "86.webp",
     "aktivno": "",
     "uid": "6eb7525410454282aed4644172e9c281",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00581",
@@ -1152,7 +1152,7 @@
     "slika": "00581.webp",
     "aktivno": "",
     "uid": "a91cbd3df2624434a4f2026f20d5977b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00890",
@@ -1167,7 +1167,7 @@
     "slika": "00890n.webp",
     "aktivno": "",
     "uid": "29815430a16d4aa9a443b408d11c4f83",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00891",
@@ -1182,7 +1182,7 @@
     "slika": "00891n.webp",
     "aktivno": "",
     "uid": "b94eedd24b2b49aaa2d63ad569433ccf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00546",
@@ -1197,7 +1197,7 @@
     "slika": "00546n.webp",
     "aktivno": "",
     "uid": "18f794e7d4f1418a824cd6c2d7afc8b5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01134",
@@ -1212,7 +1212,7 @@
     "slika": "01134.webp",
     "aktivno": "",
     "uid": "dda69286570441f0a426b4607ae2f8ae",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01135",
@@ -1227,7 +1227,7 @@
     "slika": "01135.webp",
     "aktivno": "",
     "uid": "2ace20480024421a83fbdc789e93e11d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01136",
@@ -1242,7 +1242,7 @@
     "slika": "01136.webp",
     "aktivno": "",
     "uid": "ea56c790f2c9400db3084892e4c384d7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01137",
@@ -1257,7 +1257,7 @@
     "slika": "01137.webp",
     "aktivno": "",
     "uid": "c3d93ee901d644ec987a10d265fae41d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00610",
@@ -1272,7 +1272,7 @@
     "slika": "00610.webp",
     "aktivno": "",
     "uid": "c3fbde6c39bb492cb7f807769e09215a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01984",
@@ -1281,13 +1281,13 @@
     "mpc": "9,50",
     "pakovanje": "",
     "grupa": "Candy",
-    "redoslijed": "86",
+    "redoslijed": 86,
     "oznaka": "AKCIJA",
     "akcija_postotak": "20",
     "slika": "01984.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "1d570763e7904a2c9ebabd18616a02b3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "60",
@@ -1302,7 +1302,7 @@
     "slika": "60.webp",
     "aktivno": "",
     "uid": "bd3d9caa13be42d3b1f2c86a31fe9c38",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "60G",
@@ -1317,7 +1317,7 @@
     "slika": "60G.webp",
     "aktivno": "",
     "uid": "c4ad0a275e0e4ab1b6c4d3715b026f80",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "60M",
@@ -1332,7 +1332,7 @@
     "slika": "60m.webp",
     "aktivno": "",
     "uid": "a8f8e39a6e4b46cfa18eff9d852cf96c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "60K",
@@ -1347,7 +1347,7 @@
     "slika": "60K.webp",
     "aktivno": "",
     "uid": "6a850a6de488465296f4e83c04f24677",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "99",
@@ -1362,7 +1362,7 @@
     "slika": "99.webp",
     "aktivno": "",
     "uid": "7b6a3db423bf4e528e9ba5f6a2a7d166",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "97",
@@ -1377,7 +1377,7 @@
     "slika": "97.webp",
     "aktivno": "",
     "uid": "3708cec201bd46548dac8bd57f7dfa36",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "97V",
@@ -1392,7 +1392,7 @@
     "slika": "97V.webp",
     "aktivno": "",
     "uid": "30d1365bbd9147c5aef02cc1f85e62e7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "61",
@@ -1407,7 +1407,7 @@
     "slika": "61.webp",
     "aktivno": "",
     "uid": "e71098b6954c4fb480271658acf72bca",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "96",
@@ -1422,7 +1422,7 @@
     "slika": "96.webp",
     "aktivno": "",
     "uid": "9e882a906fe2479ebba1dcedf22d38b2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "91",
@@ -1437,7 +1437,7 @@
     "slika": "91.webp",
     "aktivno": "",
     "uid": "8b5202dc1d02414e92b7b52112297098",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "118",
@@ -1452,7 +1452,7 @@
     "slika": "118.webp",
     "aktivno": "",
     "uid": "8c142799b1bd4eeba4e168158fd17708",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "120",
@@ -1467,7 +1467,7 @@
     "slika": "120.webp",
     "aktivno": "",
     "uid": "4a1bbc87975a486b835b78c875818546",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "121",
@@ -1482,7 +1482,7 @@
     "slika": "121.webp",
     "aktivno": "",
     "uid": "59631139b6104a9085fe025bba032543",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "123",
@@ -1497,7 +1497,7 @@
     "slika": "123.webp",
     "aktivno": "",
     "uid": "a55a23625cc74deab577067dd0a09929",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "102",
@@ -1512,7 +1512,7 @@
     "slika": "102.webp",
     "aktivno": "",
     "uid": "33990e8d4413415685e81f5616d6be6a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "90",
@@ -1527,7 +1527,7 @@
     "slika": "90.webp",
     "aktivno": "",
     "uid": "ca9079abe2024d719d1f24e86d165573",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F01",
@@ -1542,7 +1542,7 @@
     "slika": "F01.webp",
     "aktivno": "",
     "uid": "8d6b22a06f514b7f95cd725b9e0f7abb",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F02",
@@ -1557,7 +1557,7 @@
     "slika": "F02.webp",
     "aktivno": "",
     "uid": "6c80962742814dffaa0e9ed9f8fbd403",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F03",
@@ -1572,7 +1572,7 @@
     "slika": "F03.webp",
     "aktivno": "",
     "uid": "e5afbc4ebaa3488b80b0f7f64727e742",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F04",
@@ -1587,7 +1587,7 @@
     "slika": "F04.webp",
     "aktivno": "",
     "uid": "028747393d1f453ea261b28bdbce1136",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F05",
@@ -1602,7 +1602,7 @@
     "slika": "F05.webp",
     "aktivno": "",
     "uid": "a28914c39f624a10851dd4b5912ea0ee",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F07",
@@ -1617,7 +1617,7 @@
     "slika": "F07.webp",
     "aktivno": "",
     "uid": "270dbcd5fb224f0bad663cbeb7646a19",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F09",
@@ -1632,7 +1632,7 @@
     "slika": "F09.webp",
     "aktivno": "",
     "uid": "abf13825209b4b669182f4b6c5826796",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "F08",
@@ -1647,7 +1647,7 @@
     "slika": "F08.webp",
     "aktivno": "NE",
     "uid": "576f2e14c2f64c52bf1b9a3e4f56b88e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02148",
@@ -1662,7 +1662,7 @@
     "slika": "02148.webp",
     "aktivno": "",
     "uid": "7f8db3f0279d49148a3d0e9c85d9c15d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02149",
@@ -1677,7 +1677,7 @@
     "slika": "02149.webp",
     "aktivno": "",
     "uid": "f33977103118468fb0beab0c05b410de",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02150",
@@ -1692,7 +1692,7 @@
     "slika": "02150.webp",
     "aktivno": "",
     "uid": "4cfc2ce20b4844feba61ea28bec318e5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01410",
@@ -1707,7 +1707,7 @@
     "slika": "01410.webp",
     "aktivno": "",
     "uid": "65cf1f0cdd8d474ca8a173abebff5560",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01411",
@@ -1722,7 +1722,7 @@
     "slika": "01411.webp",
     "aktivno": "",
     "uid": "29ca00a1551f4e42a498c080255b0d84",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01412",
@@ -1737,7 +1737,7 @@
     "slika": "01412.webp",
     "aktivno": "",
     "uid": "49150122e5d84ff986c549c77bc0d732",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00423",
@@ -1752,7 +1752,7 @@
     "slika": "00423.webp",
     "aktivno": "",
     "uid": "6dc6d80418274ec19a00c1acb360f788",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00424",
@@ -1767,7 +1767,7 @@
     "slika": "00424.webp",
     "aktivno": "",
     "uid": "e44c9e4447174d3893c7ac5deea69ae6",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00425",
@@ -1782,7 +1782,7 @@
     "slika": "00425.webp",
     "aktivno": "",
     "uid": "636e72ec5180419b916c89b877bffe8c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01619",
@@ -1797,7 +1797,7 @@
     "slika": "01619.webp",
     "aktivno": "",
     "uid": "a09dc12a6ee1445db248762fbefb1b31",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01618",
@@ -1812,7 +1812,7 @@
     "slika": "01618.webp",
     "aktivno": "NE",
     "uid": "7f3bf873e8164e38aba5f4c7b1ca0f0c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00144",
@@ -1827,7 +1827,7 @@
     "slika": "00144.webp",
     "aktivno": "",
     "uid": "24b08752583b4a7c8de319f04e93e5f3",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01891",
@@ -1842,7 +1842,7 @@
     "slika": "01891.webp",
     "aktivno": "",
     "uid": "41f6fba95e1a4998bfc2d40d7abcb26f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01889",
@@ -1857,7 +1857,7 @@
     "slika": "01889.webp",
     "aktivno": "NE",
     "uid": "93073623115c454e86cfbdad66a6efd4",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01890",
@@ -1872,7 +1872,7 @@
     "slika": "01890.webp",
     "aktivno": "",
     "uid": "a73aed0f7c484950a14d7a3e91034e7c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "103",
@@ -1887,7 +1887,7 @@
     "slika": "103.webp",
     "aktivno": "NE",
     "uid": "5667b9425331495ca940c958c8039b19",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00143",
@@ -1902,7 +1902,7 @@
     "slika": "00143.webp",
     "aktivno": "",
     "uid": "f395de1d5f494bfbaf7a707beb9b62c6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01325",
@@ -1917,7 +1917,7 @@
     "slika": "01325n.webp",
     "aktivno": "",
     "uid": "06416d99e0434a88a2b2063352d2f18c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00663",
@@ -1932,7 +1932,7 @@
     "slika": "00663.webp",
     "aktivno": "",
     "uid": "cd30dd24b1064a5b93210601c3a57cde",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00664",
@@ -1947,7 +1947,7 @@
     "slika": "00664.webp",
     "aktivno": "NE",
     "uid": "db530ad80ba946268a2b2769cb51256a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00219",
@@ -1962,7 +1962,7 @@
     "slika": "00219.webp",
     "aktivno": "",
     "uid": "41f1133297554b63b359b5a207c640c6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00907",
@@ -1977,7 +1977,7 @@
     "slika": "00907.webp",
     "aktivno": "",
     "uid": "9b4f93943ddc42f7be4c9fccab63c48b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00519",
@@ -1992,7 +1992,7 @@
     "slika": "00519.webp",
     "aktivno": "",
     "uid": "50e39829b5ff461b84bd327e12d262b5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01075",
@@ -2007,7 +2007,7 @@
     "slika": "01075.webp",
     "aktivno": "",
     "uid": "de611ae79007436b9b121fad77f8ae64",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00636",
@@ -2022,7 +2022,7 @@
     "slika": "00636.webp",
     "aktivno": "NE",
     "uid": "e9da435b178a4d0e852c6f58dea5bb23",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00844",
@@ -2037,7 +2037,7 @@
     "slika": "00844.webp",
     "aktivno": "",
     "uid": "bcc8fea2e44243609bbe096e52b95667",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00378",
@@ -2052,7 +2052,7 @@
     "slika": "00378.webp",
     "aktivno": "",
     "uid": "2eba0de5a11444bba321d8e77e352f4a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00503",
@@ -2067,7 +2067,7 @@
     "slika": "00503.webp",
     "aktivno": "",
     "uid": "03ee13af1eac41049c75cd49722e0a3e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00240",
@@ -2082,7 +2082,7 @@
     "slika": "00240.webp",
     "aktivno": "NE",
     "uid": "f2bbe90f382b45b2a81c26338da75f21",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00102",
@@ -2097,7 +2097,7 @@
     "slika": "00102.webp",
     "aktivno": "",
     "uid": "c765b52d583e477095bf261e108a956c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01317",
@@ -2112,7 +2112,7 @@
     "slika": "01317.webp",
     "aktivno": "",
     "uid": "861716ea12784b4cbdc59be03bd4bf9b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01248",
@@ -2127,7 +2127,7 @@
     "slika": "01248.webp",
     "aktivno": "",
     "uid": "0cda493d2e8a4f1cb64861516534f385",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01318",
@@ -2142,7 +2142,7 @@
     "slika": "01318.webp",
     "aktivno": "NE",
     "uid": "a678632899424adead004712a44902cf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00527",
@@ -2157,7 +2157,7 @@
     "slika": "00527.webp",
     "aktivno": "",
     "uid": "4cbea26ba3d148ac8a886055fbbc2e4b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00325",
@@ -2172,7 +2172,7 @@
     "slika": "00325.webp",
     "aktivno": "NE",
     "uid": "37ae0ead3e2b4116a3bed9e3d6ae0d5a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01152",
@@ -2187,7 +2187,7 @@
     "slika": "01152.webp",
     "aktivno": "NE",
     "uid": "4f82c5d2886844f7a6c7b8c2bb175689",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01153",
@@ -2202,7 +2202,7 @@
     "slika": "01153.webp",
     "aktivno": "NE",
     "uid": "848c9a0c3aaf4e32ad02c4e3cb1efe6e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01154",
@@ -2217,7 +2217,7 @@
     "slika": "01154.webp",
     "aktivno": "NE",
     "uid": "dcfae0023b8740cc9e7018c8f10d7f51",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01155",
@@ -2232,7 +2232,7 @@
     "slika": "01155.webp",
     "aktivno": "NE",
     "uid": "6376ba83bb6b443dad22cb8771d1793a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01156",
@@ -2247,7 +2247,7 @@
     "slika": "01156.webp",
     "aktivno": "NE",
     "uid": "fcf0fe1f7cb94d5cb99e09f1a0e7172f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01627",
@@ -2262,7 +2262,7 @@
     "slika": "01672.webp",
     "aktivno": "NE",
     "uid": "f9841bce39734478bf97babaa7dfa2ae",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01681",
@@ -2277,7 +2277,7 @@
     "slika": "01681.webp",
     "aktivno": "NE",
     "uid": "efaec6533cbd4f5f889a8797df13b1c7",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01365",
@@ -2292,7 +2292,7 @@
     "slika": "01365.webp",
     "aktivno": "NE",
     "uid": "eb07b542c6fe4df591f98c6f15c989ff",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01366",
@@ -2305,9 +2305,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01366.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "fb8206787dfe47668484253adb249302",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01367",
@@ -2322,7 +2322,7 @@
     "slika": "01367.webp",
     "aktivno": "NE",
     "uid": "f446422815de40c2aff93b7618ebf612",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01372",
@@ -2337,7 +2337,7 @@
     "slika": "01372.webp",
     "aktivno": "NE",
     "uid": "9d65eee149de4094ad922ff86ce4a30d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00613",
@@ -2352,7 +2352,7 @@
     "slika": "00613.webp",
     "aktivno": "NE",
     "uid": "ece4d5102f4c47748b819d561ba5ff11",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00694",
@@ -2367,7 +2367,7 @@
     "slika": "00694.webp",
     "aktivno": "NE",
     "uid": "9eb5421c5fe241a99846a1dbf039b803",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00162",
@@ -2382,7 +2382,7 @@
     "slika": "00162.webp",
     "aktivno": "NE",
     "uid": "dcdf8a854aef47928d29669a9446674f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00949",
@@ -2395,9 +2395,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00949.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "53c4f672ad01427c9349feea6a68b9c8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00168",
@@ -2412,7 +2412,7 @@
     "slika": "00168.webp",
     "aktivno": "",
     "uid": "b6ce757ff7754be0ae9cd277362a6225",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00158",
@@ -2427,7 +2427,7 @@
     "slika": "00158.webp",
     "aktivno": "NE",
     "uid": "25ff71c8283a46d08fbbea18be4ede5c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00263",
@@ -2442,7 +2442,7 @@
     "slika": "00263.webp",
     "aktivno": "NE",
     "uid": "eb6e0393b9384c78818b319daf95ada3",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00498",
@@ -2457,7 +2457,7 @@
     "slika": "00498.webp",
     "aktivno": "",
     "uid": "da181d8400244fb2ac40ebfe7392b533",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02167",
@@ -2472,7 +2472,7 @@
     "slika": "02167.webp",
     "aktivno": "NE",
     "uid": "709a1ead700b48f1a2b6cb3cd754c07f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00572",
@@ -2485,9 +2485,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00572.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "60a920554a3d4db898a024b5fbe4d1b8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00550",
@@ -2500,9 +2500,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00550.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "4637d706ff214f08acda2a0e5e32bfec",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00184",
@@ -2517,7 +2517,7 @@
     "slika": "00184.webp",
     "aktivno": "",
     "uid": "0c40a8ed61d642b39db47d353c78d735",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00188",
@@ -2532,7 +2532,7 @@
     "slika": "00188.webp",
     "aktivno": "",
     "uid": "80f3f4431729437190e85e4a0da2ff5d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01118",
@@ -2547,7 +2547,7 @@
     "slika": "01118.webp",
     "aktivno": "",
     "uid": "1a90d486e4bc4ef2b4542b1b1d3ef9ac",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01241",
@@ -2562,7 +2562,7 @@
     "slika": "01241.webp",
     "aktivno": "",
     "uid": "a9299b33920d4054b3b0f50b399a8360",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00183",
@@ -2577,7 +2577,7 @@
     "slika": "00183.webp",
     "aktivno": "",
     "uid": "a8c414cb233e4c2c8fe01b6c6df255af",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00342",
@@ -2592,7 +2592,7 @@
     "slika": "00342.webp",
     "aktivno": "NE",
     "uid": "16027c9e49514b7f8a70365a1e10775f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00344",
@@ -2607,7 +2607,7 @@
     "slika": "00344.webp",
     "aktivno": "NE",
     "uid": "6b1579199fed43ada315a23d0427a718",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00380",
@@ -2622,7 +2622,7 @@
     "slika": "00380.webp",
     "aktivno": "",
     "uid": "5a3070ae19c84702b538a9c7d03497f8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00896",
@@ -2637,7 +2637,7 @@
     "slika": "00896.webp",
     "aktivno": "",
     "uid": "b452f178d53840bab30e713984e6f506",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00895",
@@ -2652,7 +2652,7 @@
     "slika": "00895.webp",
     "aktivno": "",
     "uid": "0f9a04ed13a54bc7814eeac28d8253ba",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00898",
@@ -2667,7 +2667,7 @@
     "slika": "00898.webp",
     "aktivno": "",
     "uid": "35d9f88e72e24336936eb07e79716879",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01336",
@@ -2682,7 +2682,7 @@
     "slika": "01336.webp",
     "aktivno": "",
     "uid": "7c13a0c92a474d4a867115510abc6bb8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01335",
@@ -2697,7 +2697,7 @@
     "slika": "01335.webp",
     "aktivno": "",
     "uid": "1008fd86ae2347da9a564580586f0418",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01745",
@@ -2712,7 +2712,7 @@
     "slika": "01745.webp",
     "aktivno": "NE",
     "uid": "38ed414fa5b3441187dd696fa34b6340",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01746",
@@ -2727,7 +2727,7 @@
     "slika": "01746.webp",
     "aktivno": "NE",
     "uid": "12267efc511e4394b0f09566358a646a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01748",
@@ -2742,7 +2742,7 @@
     "slika": "01748.webp",
     "aktivno": "NE",
     "uid": "42d7878120944ea0a7e28a479222ffbb",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00134",
@@ -2755,9 +2755,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00134.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "756e40f55a914090b8240e86dcd03e33",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00176",
@@ -2770,9 +2770,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00176.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "556f5816eeea456e836bfc4632b503cb",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00352",
@@ -2787,7 +2787,7 @@
     "slika": "00352.webp",
     "aktivno": "",
     "uid": "5ca3d475213e4c3eb35220d37324d05a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00511",
@@ -2802,7 +2802,7 @@
     "slika": "00511.webp",
     "aktivno": "NE",
     "uid": "47d6d4c3ec3b444fb97286437c043125",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00512",
@@ -2817,7 +2817,7 @@
     "slika": "00512.webp",
     "aktivno": "NE",
     "uid": "d05f937ba67441c9999cecdadb5f72d9",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00556",
@@ -2832,7 +2832,7 @@
     "slika": "00556n.webp",
     "aktivno": "",
     "uid": "a22dcd7b537e4486aeec749d27c7e706",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00555",
@@ -2847,7 +2847,7 @@
     "slika": "00555n.webp",
     "aktivno": "",
     "uid": "cb7e86f455b44845b9dc9ad5e4f83eb4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00557",
@@ -2862,7 +2862,7 @@
     "slika": "00557n.webp",
     "aktivno": "",
     "uid": "172619de40f94d25815158491f2a8d46",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00045",
@@ -2877,7 +2877,7 @@
     "slika": "00045.webp",
     "aktivno": "",
     "uid": "24c6827a761549fdb4961463f7b34eb3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00467",
@@ -2892,7 +2892,7 @@
     "slika": "00467.webp",
     "aktivno": "NE",
     "uid": "75ec100990124935903ae061b429452f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00499",
@@ -2907,7 +2907,7 @@
     "slika": "00499.webp",
     "aktivno": "NE",
     "uid": "4a2feb4feb39422894321fa27147bc4a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00319",
@@ -2922,7 +2922,7 @@
     "slika": "00319.webp",
     "aktivno": "NE",
     "uid": "8522a4f1c8af4412bc4cfeea2776e7a0",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00057",
@@ -2937,7 +2937,7 @@
     "slika": "00057.webp",
     "aktivno": "NE",
     "uid": "3c237e03db1c47c6b2bdbabb028b3668",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00514",
@@ -2952,7 +2952,7 @@
     "slika": "00514.webp",
     "aktivno": "NE",
     "uid": "a00e692b9eb04f549a2fd63df3ea2dc4",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01744",
@@ -2967,7 +2967,7 @@
     "slika": "01744.webp",
     "aktivno": "NE",
     "uid": "909e6926c92844bf8dcc4e93cbc24cd1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01115",
@@ -2982,7 +2982,7 @@
     "slika": "01115.webp",
     "aktivno": "",
     "uid": "7eb29cf1e47e41fb95685c154fb69390",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01113",
@@ -2997,7 +2997,7 @@
     "slika": "01113.webp",
     "aktivno": "",
     "uid": "cb0b4b5413f84f8693dfabc7836cefb1",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01112",
@@ -3012,7 +3012,7 @@
     "slika": "01112.webp",
     "aktivno": "",
     "uid": "64219bf9f59a40ac8f23c90fb79ff148",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00538",
@@ -3027,7 +3027,7 @@
     "slika": "00538.webp",
     "aktivno": "",
     "uid": "88b8106b65604630a5b5b37e60fb4302",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02179",
@@ -3042,7 +3042,7 @@
     "slika": "02179.webp",
     "aktivno": "",
     "uid": "09b5852380594d5787b4c670bb38643d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00608",
@@ -3057,7 +3057,7 @@
     "slika": "00608.webp",
     "aktivno": "",
     "uid": "b59ac4398f6f4e428994c4b53a96a492",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00321",
@@ -3072,7 +3072,7 @@
     "slika": "00321.webp",
     "aktivno": "",
     "uid": "a7ac3fc83dee4acbb6fec470a6cb9eaa",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01045",
@@ -3087,7 +3087,7 @@
     "slika": "01045.webp",
     "aktivno": "",
     "uid": "f4e8d265df92491bacf36a665015f09e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01351",
@@ -3102,7 +3102,7 @@
     "slika": "01351.webp",
     "aktivno": "",
     "uid": "d48f1a4557cd43edb7d156f4fbe78082",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00237",
@@ -3117,7 +3117,7 @@
     "slika": "00237.webp",
     "aktivno": "",
     "uid": "009f8ce3c7bc49fb88aa52918825e641",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01671",
@@ -3132,7 +3132,7 @@
     "slika": "01671.webp",
     "aktivno": "",
     "uid": "d9ba311b1c8f4b22839665a57d8fa212",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01672",
@@ -3147,7 +3147,7 @@
     "slika": "01672.webp",
     "aktivno": "",
     "uid": "9d8069ff26ec4c96b2c2763a5ec1e084",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01673",
@@ -3162,7 +3162,7 @@
     "slika": "01673.webp",
     "aktivno": "",
     "uid": "31ae90746d114d729a96b4701bb31f3b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01674",
@@ -3177,7 +3177,7 @@
     "slika": "01674.webp",
     "aktivno": "",
     "uid": "4c0cfcd9c64f4f788a6575c894d9a8ed",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01669",
@@ -3192,7 +3192,7 @@
     "slika": "01669.webp",
     "aktivno": "",
     "uid": "07ebd92702c54bdd84e7a8c804643225",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01670",
@@ -3207,7 +3207,7 @@
     "slika": "01670.webp",
     "aktivno": "",
     "uid": "f90bf16e792b4d69a8a0a7e2af305f36",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00862",
@@ -3222,7 +3222,7 @@
     "slika": "00862.webp",
     "aktivno": "",
     "uid": "6e8a559a8df843a48f4690a66e14e4d6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00864",
@@ -3237,7 +3237,7 @@
     "slika": "00864.webp",
     "aktivno": "",
     "uid": "e50c17bc61284d29b4c6a2fb8cc6e2a1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00865",
@@ -3252,7 +3252,7 @@
     "slika": "00865.webp",
     "aktivno": "",
     "uid": "48a1177c112e430b87cd90d56ea0ba19",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00868",
@@ -3267,7 +3267,7 @@
     "slika": "00868.webp",
     "aktivno": "",
     "uid": "6b62944153e64517b22f7e7872c6ffde",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02158",
@@ -3282,7 +3282,7 @@
     "slika": "02158.webp",
     "aktivno": "",
     "uid": "75c2e70a41c24e00b04476a602f57161",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02161",
@@ -3297,7 +3297,7 @@
     "slika": "02161.webp",
     "aktivno": "",
     "uid": "a06af75b809b405ab79205e3b99e401e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02157",
@@ -3312,7 +3312,7 @@
     "slika": "02157.webp",
     "aktivno": "",
     "uid": "b082a2b58d0b46efbb5825e867e8e280",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02159",
@@ -3327,7 +3327,7 @@
     "slika": "02159.webp",
     "aktivno": "DA",
     "uid": "6312209588b34e96ae6b357ce1bab21a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02160",
@@ -3342,7 +3342,7 @@
     "slika": "02160.webp",
     "aktivno": "",
     "uid": "f4017914dca74249b0cdf9dd1ad9460d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00123",
@@ -3357,7 +3357,7 @@
     "slika": "00123.webp",
     "aktivno": "",
     "uid": "e7d1e5f4784d4679af7c0f529d837727",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01269",
@@ -3372,7 +3372,7 @@
     "slika": "01269.webp",
     "aktivno": "",
     "uid": "bded0f78afd549ef9f675bd1578802b5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00899",
@@ -3387,7 +3387,7 @@
     "slika": "00899.webp",
     "aktivno": "",
     "uid": "88c0ba51703f4fa49921bb0b9aee1e9e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00374",
@@ -3402,7 +3402,7 @@
     "slika": "00374.webp",
     "aktivno": "DA",
     "uid": "605f04d669284e57aec8b02d82f90101",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00100",
@@ -3417,7 +3417,7 @@
     "slika": "00100.webp",
     "aktivno": "",
     "uid": "021cd6b0cffc40aa816c3d5f392aa768",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00101",
@@ -3432,7 +3432,7 @@
     "slika": "00101.webp",
     "aktivno": "",
     "uid": "6717989059584943803f2f97ece41b07",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00778",
@@ -3447,7 +3447,7 @@
     "slika": "00778.webp",
     "aktivno": "NE",
     "uid": "059077f361fa46bf8e10ea7a9383b66e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00570",
@@ -3462,7 +3462,7 @@
     "slika": "00570.webp",
     "aktivno": "NE",
     "uid": "50e592b9cff3413b99340747e0bd6aef",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00571",
@@ -3477,7 +3477,7 @@
     "slika": "00571.webp",
     "aktivno": "NE",
     "uid": "dfddaaf959004cf5b55e5e3cb5a26771",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00734",
@@ -3492,7 +3492,7 @@
     "slika": "00734.webp",
     "aktivno": "NE",
     "uid": "8f791908b5454c8eab22c7354257c4a9",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01266",
@@ -3507,7 +3507,7 @@
     "slika": "01266.webp",
     "aktivno": "NE",
     "uid": "df16b481cfe74a959334b0d8a63cae22",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01267",
@@ -3522,7 +3522,7 @@
     "slika": "01267.webp",
     "aktivno": "",
     "uid": "d370df0950fd48e5be05609d6feeda50",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00721",
@@ -3537,7 +3537,7 @@
     "slika": "00721.webp",
     "aktivno": "",
     "uid": "5b3e09359e1b4857a3522bd108cb0802",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00722",
@@ -3552,7 +3552,7 @@
     "slika": "00722.webp",
     "aktivno": "NE",
     "uid": "14ee502b65c448aa8ba88dd3169766c7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00062",
@@ -3567,7 +3567,7 @@
     "slika": "00062.webp",
     "aktivno": "NE",
     "uid": "15ef4ad123a0411face534f5318849e6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01634",
@@ -3582,7 +3582,7 @@
     "slika": "01634.webp",
     "aktivno": "",
     "uid": "4f2ae970f70948248919fe31aa94737a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00738",
@@ -3597,7 +3597,7 @@
     "slika": "00738.webp",
     "aktivno": "NE",
     "uid": "74b87f1a8e274df48ac8e0f262ad7c5d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01272",
@@ -3612,7 +3612,7 @@
     "slika": "01272.webp",
     "aktivno": "",
     "uid": "ca325c3605a4468389038f48b816d19d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00735",
@@ -3627,7 +3627,7 @@
     "slika": "00735.webp",
     "aktivno": "",
     "uid": "0ae1ab13c6864b04a82a13b45a997246",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02134",
@@ -3642,7 +3642,7 @@
     "slika": "02134.webp",
     "aktivno": "",
     "uid": "fbda13783e9d4004ab9b9fb9a6bbeef5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00490",
@@ -3657,7 +3657,7 @@
     "slika": "00490.webp",
     "aktivno": "",
     "uid": "bb0c15f17de24ff9bf952317bd55fdfa",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00491",
@@ -3672,7 +3672,7 @@
     "slika": "00491.webp",
     "aktivno": "",
     "uid": "0e385de22e79459d93285c0de25eb1fc",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01430",
@@ -3687,7 +3687,7 @@
     "slika": "01430.webp",
     "aktivno": "NE",
     "uid": "8a3dda2677ad4cdda3aef50b030fbb02",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01431",
@@ -3702,7 +3702,7 @@
     "slika": "01431.webp",
     "aktivno": "NE",
     "uid": "2cd436b8e1074241966d796bb0fae2a5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00056",
@@ -3717,7 +3717,7 @@
     "slika": "00056.webp",
     "aktivno": "",
     "uid": "57b70bf07c254aa28829084c5c6c4779",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00495",
@@ -3732,7 +3732,7 @@
     "slika": "00495.webp",
     "aktivno": "",
     "uid": "7c98a99b5a7b4d879b8a0d7450047c75",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00883",
@@ -3747,7 +3747,7 @@
     "slika": "00883.webp",
     "aktivno": "",
     "uid": "395801db84c44350bf7b97dc6c92a044",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01596",
@@ -3762,7 +3762,7 @@
     "slika": "01596.webp",
     "aktivno": "NE",
     "uid": "9b81f232cc0b4538b21ecf5f02bfd9b3",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00494",
@@ -3777,7 +3777,7 @@
     "slika": "00494.webp",
     "aktivno": "NE",
     "uid": "eb2f5a27b12d4f27ab33ad0d221d28c7",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00288",
@@ -3792,7 +3792,7 @@
     "slika": "00288.webp",
     "aktivno": "",
     "uid": "c11e51305ab8449e9cee9d17bd556448",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01280",
@@ -3807,7 +3807,7 @@
     "slika": "01280.webp",
     "aktivno": "",
     "uid": "9245a0a4e253448e9751de62c4cbfbf0",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01281",
@@ -3822,7 +3822,7 @@
     "slika": "01281.webp",
     "aktivno": "",
     "uid": "a7d26bba1e514cd7a43fdc42ba05d7dd",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01138",
@@ -3837,7 +3837,7 @@
     "slika": "01138.webp",
     "aktivno": "",
     "uid": "4b3654e2622a47cd89630182de4b9c95",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01139",
@@ -3852,7 +3852,7 @@
     "slika": "01139.webp",
     "aktivno": "",
     "uid": "82ab203a61c74d8cbebbfe3d1282e7af",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00308",
@@ -3867,7 +3867,7 @@
     "slika": "00308.webp",
     "aktivno": "",
     "uid": "0ee43e6431f64f16a9f365bae1cf7897",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00096",
@@ -3882,7 +3882,7 @@
     "slika": "00096.webp",
     "aktivno": "NE",
     "uid": "826fa9b51b694ebabef98354979aa2f3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01884",
@@ -3897,7 +3897,7 @@
     "slika": "01884.webp",
     "aktivno": "",
     "uid": "3814745fce24428da22f8b9e1da01c6b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01445",
@@ -3910,9 +3910,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01445.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "82d27a7b209245a89be4b9e73656bffc",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00484",
@@ -3925,9 +3925,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00484.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "580a34b986e547ad99696534637b0f1a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00507",
@@ -3942,7 +3942,7 @@
     "slika": "00507.webp",
     "aktivno": "",
     "uid": "e049e7d559474592817c01f3afcc62a0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00485",
@@ -3957,7 +3957,7 @@
     "slika": "00485.webp",
     "aktivno": "",
     "uid": "6094c97d3f9f4ffe83730d3a1d6779f2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00486",
@@ -3972,7 +3972,7 @@
     "slika": "00486.webp",
     "aktivno": "",
     "uid": "0b06979d875a4d75b4337d3f2fb7f20f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00488",
@@ -3987,7 +3987,7 @@
     "slika": "00488.webp",
     "aktivno": "NE",
     "uid": "b2f6769e328341f78b7a2bdf1ada5c5f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00489",
@@ -4002,7 +4002,7 @@
     "slika": "00489.webp",
     "aktivno": "",
     "uid": "8204457861d24334a96382266bc968c4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00952",
@@ -4015,9 +4015,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00952.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "dcc2cda2992a4532a657385c90dfb9c0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00953",
@@ -4030,9 +4030,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00953.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "5706c261d6ab41ddaacb88e58d42f952",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00954",
@@ -4045,9 +4045,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00954.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "fd47eb32911249a1ad475b001e099afe",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00955",
@@ -4060,9 +4060,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00955.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "a2663a661c8847d08da5d0b06d135fd9",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00956",
@@ -4075,9 +4075,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00956.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "9bedc8f5cc51447b86cf250b23971500",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00957",
@@ -4090,9 +4090,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00957.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "85b437707f33457ba1cc4901613cb431",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00958",
@@ -4105,9 +4105,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00958.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "1e1c5e8594c64eaea652fdfbb9ac4dd7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00959",
@@ -4120,9 +4120,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00959.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "4846fdf32a494590b97634fb1efa2d82",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00964",
@@ -4135,9 +4135,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00964.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "2c62c44a322843c28bdb06b784858383",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00965",
@@ -4150,9 +4150,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00965.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "2cef8196c87f416eb2b83b5650fc467a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00966",
@@ -4165,9 +4165,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00966.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "2fce1ab23dfa42d18598bfab4e99708f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00967",
@@ -4180,9 +4180,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00967.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "4624ff19ccb74383942c0dbf5c41391b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00968",
@@ -4197,7 +4197,7 @@
     "slika": "00968.webp",
     "aktivno": "DA",
     "uid": "a8ae0d8e268c40399bbedef02c637667",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00969",
@@ -4212,7 +4212,7 @@
     "slika": "00969.webp",
     "aktivno": "DA",
     "uid": "8c570c5e03c54ed39d5b773288659b8a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00970",
@@ -4225,9 +4225,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00970.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "5e24310fa3e84775bf212e2a10faff4a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01538",
@@ -4240,9 +4240,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01538.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "915b90bba1c3401cab2015018705c5c3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01485",
@@ -4257,7 +4257,7 @@
     "slika": "01485.webp",
     "aktivno": "",
     "uid": "78f6071f98ee4f6e9d63efd063dfd9a4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01487",
@@ -4272,7 +4272,7 @@
     "slika": "01487.webp",
     "aktivno": "",
     "uid": "1ea957cc39a24e3394d4ccb26f3a7ded",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00099",
@@ -4287,7 +4287,7 @@
     "slika": "00099.webp",
     "aktivno": "",
     "uid": "2bd663f40e4f4f088d754339bf9cd90b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00536",
@@ -4302,7 +4302,7 @@
     "slika": "00536.webp",
     "aktivno": "NE",
     "uid": "c08e3dede8354adc83e17b76f1067c71",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00537",
@@ -4317,7 +4317,7 @@
     "slika": "00537.webp",
     "aktivno": "NE",
     "uid": "d260756997cd4fbfb6ce39faf72db62c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00547",
@@ -4332,7 +4332,7 @@
     "slika": "00547.webp",
     "aktivno": "NE",
     "uid": "52e6cc9bcae548f68d7d76344ada9160",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01044",
@@ -4345,9 +4345,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01044.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "2eda7132ba47436e8eded956730777d8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01048",
@@ -4360,9 +4360,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01048.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "7ebb620de9524ea5b5c6a792ec1784ef",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02009",
@@ -4375,9 +4375,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02009.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "a42d3d06c7c84772a7d5ff2080aa05c3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01132",
@@ -4392,7 +4392,7 @@
     "slika": "01132.webp",
     "aktivno": "NE",
     "uid": "5e53c9a54fea4171999e5001c78aa733",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00172",
@@ -4405,9 +4405,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00172.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "c3491206d3a248b79b3892a724652baf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00173",
@@ -4420,9 +4420,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00173.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "277255388af94f1db1f4d591c96c147e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00780",
@@ -4437,7 +4437,7 @@
     "slika": "00780.webp",
     "aktivno": "NE",
     "uid": "79bc0736a3534a209eb21c8d7001d852",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00567",
@@ -4450,9 +4450,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00567.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "5c901ddd9aa8427395a804ae241d73fc",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00407",
@@ -4465,9 +4465,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00407.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "d27f904c83b946d0924d528b3c163aa9",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00393",
@@ -4480,9 +4480,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00393.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "807fb2a41b184c01b5f488e0bce6a0b1",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00394",
@@ -4497,7 +4497,7 @@
     "slika": "00394.webp",
     "aktivno": "NE",
     "uid": "ef9246c2adcf489590d23ca1fabe7c1f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00396",
@@ -4510,9 +4510,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00396.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "01d51e5edf464456bf4db409724e0878",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00781",
@@ -4527,7 +4527,7 @@
     "slika": "00781.webp",
     "aktivno": "NE",
     "uid": "d731f3ab45eb406fa1d1e3cd6c0b9166",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00365",
@@ -4542,7 +4542,7 @@
     "slika": "00365.webp",
     "aktivno": "NE",
     "uid": "683846c72de1429b8e84f91ab2c6420c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00103",
@@ -4557,7 +4557,7 @@
     "slika": "00103.webp",
     "aktivno": "NE",
     "uid": "fa545ead7218477b8462ebc520eac504",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00585",
@@ -4572,7 +4572,7 @@
     "slika": "00585.webp",
     "aktivno": "",
     "uid": "3a28ea20d3c84a8fa36be38a966d3871",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00586",
@@ -4587,7 +4587,7 @@
     "slika": "00586.webp",
     "aktivno": "NE",
     "uid": "2ae22a532d0a4b5abf214b753a3642ea",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00587",
@@ -4602,7 +4602,7 @@
     "slika": "00587.webp",
     "aktivno": "",
     "uid": "687d9a9fa2b6454ca5eb751d99575939",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00588",
@@ -4617,7 +4617,7 @@
     "slika": "00588.webp",
     "aktivno": "",
     "uid": "300eb310907a4e58a1596998018668d7",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00589",
@@ -4632,7 +4632,7 @@
     "slika": "00589.webp",
     "aktivno": "",
     "uid": "34e9498eefba4cd68a20754c67b4bf85",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00020",
@@ -4647,7 +4647,7 @@
     "slika": "00020.webp",
     "aktivno": "NE",
     "uid": "284eb9a5c9674c668310b8302c427c54",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00085",
@@ -4662,7 +4662,7 @@
     "slika": "00085.webp",
     "aktivno": "NE",
     "uid": "1537c1cbc875478f9ff30feabc290581",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00086",
@@ -4675,9 +4675,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00086.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "7276a73f32b542cba14ad358b44c6353",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01599",
@@ -4692,7 +4692,7 @@
     "slika": "01599.webp",
     "aktivno": "NE",
     "uid": "86a4aab3eb0c4c66be4b04c15da95f6b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01624",
@@ -4707,7 +4707,7 @@
     "slika": "01624.webp",
     "aktivno": "",
     "uid": "be93f553157c434cb141dec65b38c49f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01625",
@@ -4722,7 +4722,7 @@
     "slika": "01625.webp",
     "aktivno": "",
     "uid": "9f60cc827cb743069488f35d86682586",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00999",
@@ -4737,7 +4737,7 @@
     "slika": "00999.webp",
     "aktivno": "NE",
     "uid": "50f00d9318904c6491f4785a3f84a372",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01708",
@@ -4752,7 +4752,7 @@
     "slika": "01708.webp",
     "aktivno": "",
     "uid": "a5a5ea27e55e40d9b0d59201f35dbe11",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02064",
@@ -4767,7 +4767,7 @@
     "slika": "02064.webp",
     "aktivno": "NE",
     "uid": "9e67fc58d42a4e6ba182bc3707e0e470",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00854",
@@ -4782,7 +4782,7 @@
     "slika": "00854.webp",
     "aktivno": "NE",
     "uid": "e3a39b53101945589c2802d1da7f818c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00573",
@@ -4797,7 +4797,7 @@
     "slika": "00573.webp",
     "aktivno": "NE",
     "uid": "602582f3bccd4a77b11e69ead4026d87",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01424",
@@ -4812,7 +4812,7 @@
     "slika": "01424.webp",
     "aktivno": "",
     "uid": "6e26d33ab77c41859ff0370d3067cd42",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01425",
@@ -4827,7 +4827,7 @@
     "slika": "01425.webp",
     "aktivno": "",
     "uid": "16c7e50084734fc980220a43a42c9aa5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00469",
@@ -4842,7 +4842,7 @@
     "slika": "00469.webp",
     "aktivno": "",
     "uid": "e6bcbb8218844cf596f5522463c84839",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00193",
@@ -4857,7 +4857,7 @@
     "slika": "00193.webp",
     "aktivno": "NE",
     "uid": "171e0ac323da402a987cd1cc9145aa05",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00742",
@@ -4872,7 +4872,7 @@
     "slika": "00742.webp",
     "aktivno": "",
     "uid": "d5672f1757104e04854b75add709c3fc",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00748",
@@ -4887,7 +4887,7 @@
     "slika": "00748.webp",
     "aktivno": "",
     "uid": "3969f4565b4e4f42b8e1ced1f5da1e87",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00619",
@@ -4902,7 +4902,7 @@
     "slika": "00619.webp",
     "aktivno": "",
     "uid": "91a580fda01745ea9630d65e970e9e52",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00692",
@@ -4917,7 +4917,7 @@
     "slika": "00692.webp",
     "aktivno": "",
     "uid": "e662a766d11a48a1a4a8a2b6271b64da",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00690",
@@ -4932,7 +4932,7 @@
     "slika": "00690.webp",
     "aktivno": "NE",
     "uid": "7e522d88c106462f85f8629abb059347",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00691",
@@ -4947,7 +4947,7 @@
     "slika": "00691.webp",
     "aktivno": "",
     "uid": "1ca65512b6364b4a984a2f5148a6d414",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01021",
@@ -4962,7 +4962,7 @@
     "slika": "01021.webp",
     "aktivno": "NE",
     "uid": "e043d8697d33415795a480f68be314f9",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01022",
@@ -4977,7 +4977,7 @@
     "slika": "01022.webp",
     "aktivno": "NE",
     "uid": "60ed9725eac44d1fa02f99405e2cb21e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00082",
@@ -4992,7 +4992,7 @@
     "slika": "00082.webp",
     "aktivno": "NE",
     "uid": "d80807c2f74b466eb025d32f2938672b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00287",
@@ -5007,7 +5007,7 @@
     "slika": "00287.webp",
     "aktivno": "",
     "uid": "f85c80a803f846b887f978d62874e385",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01316",
@@ -5022,7 +5022,7 @@
     "slika": "01316.webp",
     "aktivno": "",
     "uid": "ab6803ca359245c8a6419a3b66e39d4f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01103",
@@ -5037,7 +5037,7 @@
     "slika": "01103.webp",
     "aktivno": "",
     "uid": "b4f98b4727ef4b77978d01b746131d5e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01043",
@@ -5052,7 +5052,7 @@
     "slika": "01043.webp",
     "aktivno": "DA",
     "uid": "6774539b91be4844a02291940eb4ef20",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01020",
@@ -5067,7 +5067,7 @@
     "slika": "01020.webp",
     "aktivno": "",
     "uid": "d104304498c14dff83fbf89448aa09f2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01102",
@@ -5081,7 +5081,7 @@
     "slika": "01102.webp",
     "grupa": "Slatki program",
     "aktivno": "DA",
-    "katalog_krajina": "",
+    "katalog_krajina": "NE",
     "uid": "82dc088e6aaa4011b11514c8c2e656be"
   },
   {
@@ -5097,7 +5097,7 @@
     "slika": "01049.webp",
     "aktivno": "DA",
     "uid": "523575930387404299ab7c64a93a3773",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01232",
@@ -5112,7 +5112,7 @@
     "slika": "01232.webp",
     "aktivno": "DA",
     "uid": "ea1df234f43b42478d5e4ca9525556d8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00047",
@@ -5127,7 +5127,7 @@
     "slika": "00047.webp",
     "aktivno": "",
     "uid": "34755c6521d74b2abd4f082d7657721a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01770",
@@ -5142,7 +5142,7 @@
     "slika": "01770.webp",
     "aktivno": "",
     "uid": "623e5927ddf94946b410dda054259aae",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01756",
@@ -5157,7 +5157,7 @@
     "slika": "01756.webp",
     "aktivno": "",
     "uid": "82626aae310046d3a99d6c99c4f9c092",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00355",
@@ -5172,7 +5172,7 @@
     "slika": "00355.webp",
     "aktivno": "",
     "uid": "52b5b4ee0ad44019801eaed91273492f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00960",
@@ -5187,7 +5187,7 @@
     "slika": "00960.webp",
     "aktivno": "NE",
     "uid": "f830c7b42c1d452ea13753aeec2ffc5b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01224",
@@ -5202,7 +5202,7 @@
     "slika": "01224.webp",
     "aktivno": "",
     "uid": "3a03f43028e44e4083cbe11744675ced",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00040",
@@ -5217,7 +5217,7 @@
     "slika": "00040.webp",
     "aktivno": "NE",
     "uid": "a935d95fcd4c46879c6e70e7bfec7bdc",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00046",
@@ -5232,7 +5232,7 @@
     "slika": "00046.webp",
     "aktivno": "",
     "uid": "9746f87983f44a71831978a18d284d41",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01228",
@@ -5247,7 +5247,7 @@
     "slika": "01228.webp",
     "aktivno": "",
     "uid": "c2b00bdaa5b24e8a8531375fd6366f07",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01229",
@@ -5262,7 +5262,7 @@
     "slika": "01229.webp",
     "aktivno": "",
     "uid": "02e7935588bb4673aa5ce88ab6f4aa64",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00030",
@@ -5277,7 +5277,7 @@
     "slika": "00030.webp",
     "aktivno": "",
     "uid": "86024fd930e54658978a03342405a6ad",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00922",
@@ -5292,7 +5292,7 @@
     "slika": "00922.webp",
     "aktivno": "",
     "uid": "4a126e073b8749ef9837cc93dd7e269f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00914",
@@ -5307,7 +5307,7 @@
     "slika": "00914.webp",
     "aktivno": "",
     "uid": "e5022dd68c084ca2bb617b74b47ead50",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00924",
@@ -5322,7 +5322,7 @@
     "slika": "00924.webp",
     "aktivno": "",
     "uid": "071a3779f0254e26992e75483e7a5b7a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00900",
@@ -5337,7 +5337,7 @@
     "slika": "00900.webp",
     "aktivno": "NE",
     "uid": "1179d93ad16044f68486904730b64849",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00050",
@@ -5352,7 +5352,7 @@
     "slika": "00050.webp",
     "aktivno": "",
     "uid": "c0d06a1d8c294d09a56c008e95f50238",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00051",
@@ -5367,7 +5367,7 @@
     "slika": "00051.webp",
     "aktivno": "",
     "uid": "a027d92b876840499c45b69ce30c1d71",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00048",
@@ -5382,7 +5382,7 @@
     "slika": "00048.webp",
     "aktivno": "",
     "uid": "bd0752453f474b7189adaf389f7bb931",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01254",
@@ -5397,7 +5397,7 @@
     "slika": "01254.webp",
     "aktivno": "",
     "uid": "92f88f9c9bfe46e4b91633012255c9b5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00033",
@@ -5412,7 +5412,7 @@
     "slika": "00033.webp",
     "aktivno": "",
     "uid": "279a834ec3a945bca32a7582364a9e3b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00039",
@@ -5427,7 +5427,7 @@
     "slika": "00039.webp",
     "aktivno": "",
     "uid": "b51b7d8b8f114e6b90a64e6760179f80",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00300",
@@ -5442,7 +5442,7 @@
     "slika": "00300.webp",
     "aktivno": "",
     "uid": "4211e3ee5aae4e73b64d70b7aa14de0a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01941",
@@ -5457,7 +5457,7 @@
     "slika": "01941.webp",
     "aktivno": "",
     "uid": "1670a6d8c961407582fa45bf379c0343",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00931",
@@ -5472,7 +5472,7 @@
     "slika": "00931.webp",
     "aktivno": "",
     "uid": "a91c7777e24046b88026a7550a6abcb8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00052",
@@ -5487,7 +5487,7 @@
     "slika": "00052.webp",
     "aktivno": "",
     "uid": "2ab2a82c0d4b4883b5bffb99e329ca4c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00243",
@@ -5502,7 +5502,7 @@
     "slika": "00243.webp",
     "aktivno": "",
     "uid": "2fc67060fd824f7eb1d19329df01bfab",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00244",
@@ -5517,7 +5517,7 @@
     "slika": "00244.webp",
     "aktivno": "",
     "uid": "02787ab193884d64880d04cd04573cd5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00269",
@@ -5532,7 +5532,7 @@
     "slika": "00269.webp",
     "aktivno": "",
     "uid": "64a4a2d015214827bbd31c275d5bf094",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00246",
@@ -5547,7 +5547,7 @@
     "slika": "00246.webp",
     "aktivno": "",
     "uid": "7dc77fdd2e3542aa92bf3e29c7df0294",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00289",
@@ -5562,7 +5562,7 @@
     "slika": "00289.webp",
     "aktivno": "",
     "uid": "71ce9f2bfc9442bb8d298ae9832b758d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00235",
@@ -5577,7 +5577,7 @@
     "slika": "00235.webp",
     "aktivno": "",
     "uid": "37764e6aaa7d41e1b77611a180452870",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00809",
@@ -5592,7 +5592,7 @@
     "slika": "00809.webp",
     "aktivno": "NE",
     "uid": "8968011120b242feaee5d0ea3e47381d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00133",
@@ -5607,7 +5607,7 @@
     "slika": "00133.webp",
     "aktivno": "NE",
     "uid": "56c16ee6fd0442e4aa95d12687cbc5f8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00140",
@@ -5622,7 +5622,7 @@
     "slika": "00140.webp",
     "aktivno": "NE",
     "uid": "ebffbd3a3c70409099f374918d41ba3f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02176",
@@ -5637,7 +5637,7 @@
     "slika": "02176.webp",
     "aktivno": "",
     "uid": "ed8bccf2e1a340988a7a2f7591365742",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00578",
@@ -5652,7 +5652,7 @@
     "slika": "00578.webp",
     "aktivno": "NE",
     "uid": "b5dae3cf30184d17b0f63547a20b9af2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01679",
@@ -5667,7 +5667,7 @@
     "slika": "01679.webp",
     "aktivno": "NE",
     "uid": "7faa6251f8964c1aa8fd54751051ce02",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00937",
@@ -5682,7 +5682,7 @@
     "slika": "00937.webp",
     "aktivno": "",
     "uid": "67f2bb15260640c889cf2b0ab4627503",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00938",
@@ -5697,7 +5697,7 @@
     "slika": "00938.webp",
     "aktivno": "",
     "uid": "9d6588b8cb9e421787b67a24ec12ee5b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02135",
@@ -5712,7 +5712,7 @@
     "slika": "02135.webp",
     "aktivno": "",
     "uid": "9eb69d88a4ac424faa8e7b43e5587b56",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00409",
@@ -5727,7 +5727,7 @@
     "slika": "00409.webp",
     "aktivno": "NE",
     "uid": "e98541b6b01648e5a27ff8a99dcce9e2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00410",
@@ -5742,7 +5742,7 @@
     "slika": "00410.webp",
     "aktivno": "",
     "uid": "fbd0bcfb65b84b51b7d89fc16102354a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00397",
@@ -5757,7 +5757,7 @@
     "slika": "00397.webp",
     "aktivno": "NE",
     "uid": "e81622de818b41d980977d31eb8d8864",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01419",
@@ -5772,7 +5772,7 @@
     "slika": "01419.webp",
     "aktivno": "",
     "uid": "32dfc823b19e4736a71264f7d017c9ca",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01420",
@@ -5787,7 +5787,7 @@
     "slika": "01420.webp",
     "aktivno": "NE",
     "uid": "b0507499dfd74d208b97c52af7824c89",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01421",
@@ -5802,7 +5802,7 @@
     "slika": "01421.webp",
     "aktivno": "",
     "uid": "6145f76c775746b4a11356ddef6fe3f7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01422",
@@ -5817,7 +5817,7 @@
     "slika": "01422.webp",
     "aktivno": "",
     "uid": "6d286083b74e4b5bb840b35728b4d9e8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01423",
@@ -5832,7 +5832,7 @@
     "slika": "01423.webp",
     "aktivno": "",
     "uid": "ae2b80a4ab5f4391b9367ad6cb1fdb42",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01398",
@@ -5847,7 +5847,7 @@
     "slika": "01398.webp",
     "aktivno": "",
     "uid": "69d6d832ce594b0f8e3ce9c6a23e68dc",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01397",
@@ -5862,7 +5862,7 @@
     "slika": "01397.webp",
     "aktivno": "",
     "uid": "42f8ae61925f4e179c75a7372766fe1a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01406",
@@ -5877,7 +5877,7 @@
     "slika": "01406.webp",
     "aktivno": "",
     "uid": "31326350be254da595139b4032179e0a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00222",
@@ -5892,7 +5892,7 @@
     "slika": "00222.webp",
     "aktivno": "",
     "uid": "054c0780bd6b40e29a1ac4c174b5c4da",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00022",
@@ -5907,7 +5907,7 @@
     "slika": "00022.webp",
     "aktivno": "",
     "uid": "a08dc32b4c3d4ce18dd2fad7f0a60bf6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00026",
@@ -5922,7 +5922,7 @@
     "slika": "00026.webp",
     "aktivno": "",
     "uid": "bf1e13ee50134453af496b2fb31af510",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00023",
@@ -5937,7 +5937,7 @@
     "slika": "00023.webp",
     "aktivno": "",
     "uid": "7b0a08e7b3b24431ade186db7b38445a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00024",
@@ -5952,7 +5952,7 @@
     "slika": "00024.webp",
     "aktivno": "",
     "uid": "469b9defac5b436a9e2421ed47f6afd8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00025",
@@ -5967,7 +5967,7 @@
     "slika": "00025.webp",
     "aktivno": "",
     "uid": "c03e684411d94ae0a5e1457e7cc96aac",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00870",
@@ -5982,7 +5982,7 @@
     "slika": "00870.webp",
     "aktivno": "",
     "uid": "44508deba12d40d5bceed0dbef8e1d7b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00871",
@@ -5997,7 +5997,7 @@
     "slika": "00871.webp",
     "aktivno": "",
     "uid": "588d353613b34f4aa41f2b8b5da1bec0",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00872",
@@ -6012,7 +6012,7 @@
     "slika": "00872.webp",
     "aktivno": "",
     "uid": "827faf320b6d42dc96e58caef07f10c1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00873",
@@ -6027,7 +6027,7 @@
     "slika": "00873.webp",
     "aktivno": "",
     "uid": "458dfea7eb8447e484a03e98b42b9092",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00874",
@@ -6042,7 +6042,7 @@
     "slika": "00874.webp",
     "aktivno": "",
     "uid": "bd7d75895cdc40d1b6707da359ab835e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00773",
@@ -6057,7 +6057,7 @@
     "slika": "00773.webp",
     "aktivno": "",
     "uid": "276b80ae3b98468f9a7d7e6a187efc58",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00455",
@@ -6072,7 +6072,7 @@
     "slika": "00455.webp",
     "aktivno": "",
     "uid": "2cf023ae40254066ad629c08c4a907d2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01386",
@@ -6087,7 +6087,7 @@
     "slika": "01386.webp",
     "aktivno": "NE",
     "uid": "c77a57b8d6a849598083c37016a9947e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01221",
@@ -6102,7 +6102,7 @@
     "slika": "01221.webp",
     "aktivno": "",
     "uid": "fc8edc0ea2b04b6594146ca0d29f5625",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01129",
@@ -6117,7 +6117,7 @@
     "slika": "01129.webp",
     "aktivno": "",
     "uid": "8199547a26f04eb486be94111585d8d3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01950",
@@ -6130,9 +6130,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01950.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "3192bf685f284fdfba712e04b8939e03",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01949",
@@ -6145,9 +6145,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01949.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "9817e9b1161d4abeacf5d8cb02722aec",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00997",
@@ -6162,7 +6162,7 @@
     "slika": "00997.webp",
     "aktivno": "NE",
     "uid": "ddfd51f5b06a4c72bf52d5cf5f4d8ab1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01997",
@@ -6175,9 +6175,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01997.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "b2b6619e038b4285833e1fa3fc1e0788",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01998",
@@ -6192,7 +6192,7 @@
     "slika": "01998.webp",
     "aktivno": "NE",
     "uid": "a15b312b9a924de48791a66c07be59a3",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00091",
@@ -6207,7 +6207,7 @@
     "slika": "00091.webp",
     "aktivno": "",
     "uid": "e6d520112a324ef19a5b51708d670e91",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01019",
@@ -6222,7 +6222,7 @@
     "slika": "01019.webp",
     "aktivno": "",
     "uid": "9d7351e6dc674e23b71a0ff74c12dc73",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01610",
@@ -6237,7 +6237,7 @@
     "slika": "01610.webp",
     "aktivno": "",
     "uid": "ac0feb7064524a868fc57e1a5a4a53ce",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01238",
@@ -6252,7 +6252,7 @@
     "slika": "01238.webp",
     "aktivno": "",
     "uid": "cb4b93474c1e49ca8f29f16d4556730b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02153",
@@ -6267,7 +6267,7 @@
     "slika": "02153.webp",
     "aktivno": "",
     "uid": "9c02120e94964e4ba80d9bfceaf384ad",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02155",
@@ -6282,7 +6282,7 @@
     "slika": "02155.webp",
     "aktivno": "",
     "uid": "91f69ea9bbaf46d29a2381db00c45d41",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02154",
@@ -6297,7 +6297,7 @@
     "slika": "02154.webp",
     "aktivno": "",
     "uid": "24b9eabb97ec4b8aa4da29b08698cff6",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01682",
@@ -6312,7 +6312,7 @@
     "slika": "01682.webp",
     "aktivno": "",
     "uid": "74da7f08e22542fc8a3a4582920be715",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00842",
@@ -6327,7 +6327,7 @@
     "slika": "00842.webp",
     "aktivno": "NE",
     "uid": "705fd1da7bc6435e9c59a7e698a41dfb",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00847",
@@ -6342,7 +6342,7 @@
     "slika": "00847.webp",
     "aktivno": "NE",
     "uid": "72be40983ec547c7b14c1f1eeca15cd0",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00848",
@@ -6357,7 +6357,7 @@
     "slika": "00848.webp",
     "aktivno": "NE",
     "uid": "43f26447e59447dd9b040766ce946ee6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00849",
@@ -6372,7 +6372,7 @@
     "slika": "00849.webp",
     "aktivno": "NE",
     "uid": "91a30fd3d46347baacb0b400bd84815b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00302",
@@ -6387,7 +6387,7 @@
     "slika": "00302.webp",
     "aktivno": "NE",
     "uid": "6bac3fd3622e4d66bf2572a391fa6f64",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00303",
@@ -6402,7 +6402,7 @@
     "slika": "00303.webp",
     "aktivno": "",
     "uid": "4a25991e5e7848aca959a55754e31a49",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00311",
@@ -6417,7 +6417,7 @@
     "slika": "00311.webp",
     "aktivno": "",
     "uid": "c2c0bb86b3f540f195c0d7e722fb3b69",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00305",
@@ -6432,7 +6432,7 @@
     "slika": "00305.webp",
     "aktivno": "",
     "uid": "96023dfe67e240fdb3a12e14cf3d235d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00304",
@@ -6447,7 +6447,7 @@
     "slika": "00304.webp",
     "aktivno": "NE",
     "uid": "43fa80ede52144bc87f8d7841f444b4e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01871",
@@ -6462,7 +6462,7 @@
     "slika": "01871.webp",
     "aktivno": "",
     "uid": "95fb9e8cc6364395af6eea27ca002068",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00935",
@@ -6477,7 +6477,7 @@
     "slika": "00935.webp",
     "aktivno": "",
     "uid": "60f1b8add4594c53921ce1eb5e5eb66c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "059",
@@ -6492,7 +6492,7 @@
     "slika": "059.webp",
     "aktivno": "",
     "uid": "97854bede7cf496c995f9405d46b530a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "132",
@@ -6507,7 +6507,7 @@
     "slika": "132.webp",
     "aktivno": "",
     "uid": "edbcd14559754417b334277883adbf04",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00531",
@@ -6520,9 +6520,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00531.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "39ad0857c7f74c3ca48bf7c0da815631",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00532",
@@ -6535,9 +6535,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00532.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "44bf24f07e074a44b58d84bc76c5e2d2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01198",
@@ -6552,7 +6552,7 @@
     "slika": "01198.webp",
     "aktivno": "",
     "uid": "6f43721a309d46d9be2e5d60460f36bf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00261",
@@ -6567,7 +6567,7 @@
     "slika": "00261.webp",
     "aktivno": "NE",
     "uid": "2c7a5c71431740fa8f02ddb40b942907",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01817",
@@ -6582,7 +6582,7 @@
     "slika": "01817.webp",
     "aktivno": "",
     "uid": "335c965a8be347e4b3b45409b79f0dec",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01719",
@@ -6597,7 +6597,7 @@
     "slika": "01719.webp",
     "aktivno": "",
     "uid": "792c52f8f49845d1a664de3d018fe9f3",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00079",
@@ -6612,7 +6612,7 @@
     "slika": "00079.webp",
     "aktivno": "",
     "uid": "1e0570f40f654e42a290f76032466faa",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00080",
@@ -6627,7 +6627,7 @@
     "slika": "00080.webp",
     "aktivno": "NE",
     "uid": "9637c83455e742ffbe56f2ca99767cdf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00646",
@@ -6642,7 +6642,7 @@
     "slika": "00646.webp",
     "aktivno": "NE",
     "uid": "e367bfb15a1c463cadd2376785277ce6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00641",
@@ -6657,7 +6657,7 @@
     "slika": "00641.webp",
     "aktivno": "NE",
     "uid": "1882b88e9b5b45a4a6a429ac9d7297ea",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00645",
@@ -6672,7 +6672,7 @@
     "slika": "00645.webp",
     "aktivno": "NE",
     "uid": "f8a6002416fb4c439ce97f514663b181",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00136",
@@ -6687,7 +6687,7 @@
     "slika": "00136.webp",
     "aktivno": "NE",
     "uid": "d2906f62952940a29657524cf43f7e2b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00137",
@@ -6702,7 +6702,7 @@
     "slika": "00137.webp",
     "aktivno": "NE",
     "uid": "a631915e244a40bd979a51955b9ed48c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00169",
@@ -6717,7 +6717,7 @@
     "slika": "00169.webp",
     "aktivno": "NE",
     "uid": "30d3ceec3ebb48e6b5e3b9a7ce67f37f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00170",
@@ -6732,7 +6732,7 @@
     "slika": "00170.webp",
     "aktivno": "NE",
     "uid": "566a666af77b497385520620f00f90c8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00077",
@@ -6747,7 +6747,7 @@
     "slika": "00077.webp",
     "aktivno": "",
     "uid": "ebe3d1da631645349e5c2c358672b4fd",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02109",
@@ -6762,7 +6762,7 @@
     "slika": "02109.webp",
     "aktivno": "NE",
     "uid": "731b0e6f6fa24f11b15a7fd83c72dce0",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01005",
@@ -6777,7 +6777,7 @@
     "slika": "01005.webp",
     "aktivno": "NE",
     "uid": "f9c0d9e8546f49798415d61ed15a6d79",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01000",
@@ -6792,7 +6792,7 @@
     "slika": "01000.webp",
     "aktivno": "NE",
     "uid": "bd59466bb6bf4d6084f4824cd0615f8b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00760",
@@ -6807,7 +6807,7 @@
     "slika": "00760.webp",
     "aktivno": "",
     "uid": "333c85ed189d45cea62dda5232e49985",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01824",
@@ -6822,7 +6822,7 @@
     "slika": "01824.webp",
     "aktivno": "NE",
     "uid": "ec80e23308df4860afa6fa33d8be9c90",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00198",
@@ -6837,7 +6837,7 @@
     "slika": "00198.webp",
     "aktivno": "NE",
     "uid": "d3a34f9f09af4960b692edfefa5d0a7a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00199",
@@ -6852,7 +6852,7 @@
     "slika": "00199.webp",
     "aktivno": "NE",
     "uid": "dae3f948283a40a995af98704172a84a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00554",
@@ -6865,9 +6865,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00554.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "aa5721fc63254263b95286db58aa56b2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02171",
@@ -6880,9 +6880,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02171.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "5ef4d19ead204108b4f21d8cea37a56a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01617",
@@ -6895,9 +6895,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01617.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "9d4c9c27ed2949a1b3e5ec83389a5538",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00561",
@@ -6910,9 +6910,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00561.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "238180fdd1fe4063a5d14ff2c01e9918",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00038",
@@ -6925,9 +6925,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00038.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "2f9c6c18e3134ffb971c467390daf2c0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00599",
@@ -6942,7 +6942,7 @@
     "slika": "00599.webp",
     "aktivno": "",
     "uid": "66d5a9d4d1a84abc95b932b50778e73d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02013",
@@ -6957,7 +6957,7 @@
     "slika": "02013.webp",
     "aktivno": "",
     "uid": "48262e8828a04ab59d417d0862f286a6",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00762",
@@ -6972,7 +6972,7 @@
     "slika": "00762.webp",
     "aktivno": "",
     "uid": "d5d712a4814f4171b198be2454b5ed2a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00632",
@@ -6987,7 +6987,7 @@
     "slika": "00632.webp",
     "aktivno": "NE",
     "uid": "8fdaa0ff957a43f1bc592dc292a34c39",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00227",
@@ -7002,7 +7002,7 @@
     "slika": "00227.webp",
     "aktivno": "",
     "uid": "94f46db4d5924996b774f6267168c595",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00197",
@@ -7017,7 +7017,7 @@
     "slika": "00197.webp",
     "aktivno": "NE",
     "uid": "6928f9fd1c9f4801b8ffe8e015708c47",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02078",
@@ -7032,7 +7032,7 @@
     "slika": "02078.webp",
     "aktivno": "",
     "uid": "0016610e13db4df68109e83324557a38",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02085",
@@ -7047,7 +7047,7 @@
     "slika": "02085.webp",
     "aktivno": "",
     "uid": "f1c4b0e0773e4fc0a28835b71f7e2245",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01429",
@@ -7062,7 +7062,7 @@
     "slika": "01429.webp",
     "aktivno": "",
     "uid": "61e46683ad0d4844a655a4519615d7fa",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00624",
@@ -7077,7 +7077,7 @@
     "slika": "00624.webp",
     "aktivno": "",
     "uid": "b5cc20439f994ec4ac100662531ba045",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00435",
@@ -7092,7 +7092,7 @@
     "slika": "00435.webp",
     "aktivno": "",
     "uid": "12093276e9ec482184d60634d39ffa16",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00436",
@@ -7107,7 +7107,7 @@
     "slika": "00436.webp",
     "aktivno": "NE",
     "uid": "7b4ecc7c56b74cb7aa44bdf796c5d1ca",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00437",
@@ -7122,7 +7122,7 @@
     "slika": "00437.webp",
     "aktivno": "",
     "uid": "a062d284ad8c4b599507342435032962",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T347",
@@ -7137,7 +7137,7 @@
     "slika": "T347.webp",
     "aktivno": "",
     "uid": "644695fab7be42b99a8133110046f610",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01468",
@@ -7152,7 +7152,7 @@
     "slika": "01468.webp",
     "aktivno": "",
     "uid": "5f20027e12054d69a11cd959ed11454f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01196",
@@ -7167,7 +7167,7 @@
     "slika": "01196.webp",
     "aktivno": "NE",
     "uid": "a07de62cc3b5467ea44a0f7e37b261eb",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T312",
@@ -7182,7 +7182,7 @@
     "slika": "T312.webp",
     "aktivno": "",
     "uid": "484dd7d03a3b48a3b1cacb01ae7b73ab",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T333",
@@ -7197,7 +7197,7 @@
     "slika": "T333.webp",
     "aktivno": "",
     "uid": "a1039d133e28451fbaec6dec39f54e06",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T331",
@@ -7212,7 +7212,7 @@
     "slika": "T331.webp",
     "aktivno": "",
     "uid": "ea4557928037458bb68c6b0793b2a7c0",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01718",
@@ -7227,7 +7227,7 @@
     "slika": "01718.webp",
     "aktivno": "",
     "uid": "572fc0b7bfe247f0afffa5a54c3d370b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01660",
@@ -7242,7 +7242,7 @@
     "slika": "01660.webp",
     "aktivno": "",
     "uid": "31efcf22475847c3b4943d83c7a2fee6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00459",
@@ -7257,7 +7257,7 @@
     "grupa": "Kuhinja/Začini",
     "aktivno": "DA",
     "uid": "1a964a0ae5a3461da2d57b42f98c80c6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00260",
@@ -7272,7 +7272,7 @@
     "grupa": "Kuhinja/Začini",
     "aktivno": "NE",
     "uid": "a1b2fe762e7b466e986060425c4ba279",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00166",
@@ -7287,7 +7287,7 @@
     "slika": "00166.webp",
     "aktivno": "NE",
     "uid": "a797b3ea8e8d4931aa1c9880d6fca908",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02081",
@@ -7302,7 +7302,7 @@
     "slika": "02081.webp",
     "aktivno": "",
     "uid": "60df03f4752548719484c7f3cfb912ee",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02080",
@@ -7317,7 +7317,7 @@
     "slika": "02080.webp",
     "aktivno": "",
     "uid": "763ee8220fcd4d7c89ab7fc2af4be94c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02079",
@@ -7332,7 +7332,7 @@
     "slika": "02079.webp",
     "aktivno": "",
     "uid": "7d5ef8889e6f42e7b41cff8af5c5e5c1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02113",
@@ -7347,7 +7347,7 @@
     "slika": "02113.webp",
     "aktivno": "NE",
     "uid": "3fa034a0acc343798f53b931ca264835",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02112",
@@ -7362,7 +7362,7 @@
     "slika": "02112.webp",
     "aktivno": "NE",
     "uid": "42cb2e7926ff4398a713382cbf794e17",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02111",
@@ -7377,7 +7377,7 @@
     "slika": "02111.webp",
     "aktivno": "NE",
     "uid": "8d219f4918b64b7291f069c19b37988c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02110",
@@ -7392,7 +7392,7 @@
     "slika": "02110.webp",
     "aktivno": "NE",
     "uid": "edc26823b9d949ba8b6314d7be42cf69",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00998",
@@ -7407,7 +7407,7 @@
     "slika": "00998.webp",
     "aktivno": "",
     "uid": "565f52c9a8ee4841a4652e6510d19ac4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00996",
@@ -7422,7 +7422,7 @@
     "slika": "00996.webp",
     "aktivno": "",
     "uid": "fd964da949db44caa45121dbe7b8d2cc",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00995",
@@ -7437,7 +7437,7 @@
     "slika": "00995.webp",
     "aktivno": "",
     "uid": "14515710bd5a46e1af02070e4c4c6853",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00994",
@@ -7452,7 +7452,7 @@
     "slika": "00994.webp",
     "aktivno": "",
     "uid": "ddb06191ea9545b78b498b73f7a8f1a9",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00993",
@@ -7467,7 +7467,7 @@
     "slika": "00993.webp",
     "aktivno": "",
     "uid": "6b8279af4e3a4bd7975a3ee947cd718e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00440",
@@ -7482,7 +7482,7 @@
     "slika": "00440.webp",
     "aktivno": "DA",
     "uid": "acd82755b5134dcea2bbad26b976e03a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00194",
@@ -7497,7 +7497,7 @@
     "slika": "00194.webp",
     "aktivno": "",
     "uid": "9afb5624b83443a6bcc689659d0d2522",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00187",
@@ -7512,7 +7512,7 @@
     "slika": "00187.webp",
     "aktivno": "",
     "uid": "63e14706c8134d8f80efa6c6598b4f8b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00167",
@@ -7527,7 +7527,7 @@
     "slika": "00167.webp",
     "aktivno": "DA",
     "uid": "f09d002e0dba4ccaaf2d6ad5c0798aa1",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00164",
@@ -7542,7 +7542,7 @@
     "slika": "00164.webp",
     "aktivno": "",
     "uid": "3d3e9dbe20ee4d1b9dceb6a65e079b69",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00418",
@@ -7557,7 +7557,7 @@
     "slika": "00418.webp",
     "aktivno": "",
     "uid": "95f934c50f184571a7405f2c9e107026",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00551",
@@ -7572,7 +7572,7 @@
     "slika": "00551.webp",
     "aktivno": "",
     "uid": "f6c89d88695d45668e5dea08de22b0a7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00552",
@@ -7587,7 +7587,7 @@
     "slika": "00552.webp",
     "aktivno": "",
     "uid": "6b89a45b334b481b95023ebf757af3c3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00553",
@@ -7602,7 +7602,7 @@
     "slika": "00553.webp",
     "aktivno": "",
     "uid": "65f2fb1a9664403fae470bcb38972b90",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00357",
@@ -7617,7 +7617,7 @@
     "slika": "00357.webp",
     "aktivno": "",
     "uid": "79bfca440b934ee0918f54817cbf16d5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00358",
@@ -7632,7 +7632,7 @@
     "slika": "00358.webp",
     "aktivno": "",
     "uid": "17ff309e87194871840dc63b8935d6db",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00359",
@@ -7647,7 +7647,7 @@
     "slika": "00359.webp",
     "aktivno": "",
     "uid": "32f6c099080b4d6eb7dcd9082747d510",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00360",
@@ -7662,7 +7662,7 @@
     "slika": "00360.webp",
     "aktivno": "",
     "uid": "cb061d8c4ca84d688dadbcb55f06d1bf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00362",
@@ -7677,7 +7677,7 @@
     "slika": "00362.webp",
     "aktivno": "",
     "uid": "0e43fe277abf40a4a82815bd76cca330",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00386",
@@ -7692,7 +7692,7 @@
     "slika": "00386.webp",
     "aktivno": "NE",
     "uid": "f22e348210c6467e8944132d1757a4e0",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00387",
@@ -7707,7 +7707,7 @@
     "slika": "00387.webp",
     "aktivno": "NE",
     "uid": "cf939fa197c34852b59978321bdf3eaf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00633",
@@ -7722,7 +7722,7 @@
     "slika": "00633.webp",
     "aktivno": "NE",
     "uid": "82222ea6d86f4eb082360fae3c3873b2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00644",
@@ -7737,7 +7737,7 @@
     "slika": "00644.webp",
     "aktivno": "",
     "uid": "5fa5728727494c57b41344b7503ea0c4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00400",
@@ -7752,7 +7752,7 @@
     "slika": "00400.webp",
     "aktivno": "NE",
     "uid": "20539544d11f4f06aa18239a88b60643",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00405",
@@ -7767,7 +7767,7 @@
     "slika": "00405.webp",
     "aktivno": "NE",
     "uid": "8ddda439f293442f9735f3cc064f45e9",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00142",
@@ -7780,9 +7780,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00142.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "ebd0789596c14ecc8b14139400cc9101",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00146",
@@ -7795,9 +7795,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00146.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "0142b06cb9a044f4af4f5c2288039616",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00195",
@@ -7812,7 +7812,7 @@
     "slika": "00195.webp",
     "aktivno": "DA",
     "uid": "721cbc3e94dd4ba88610ccff0ff2aee2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00196",
@@ -7827,7 +7827,7 @@
     "slika": "00196.webp",
     "aktivno": "",
     "uid": "0c20d6e84f274d10aa0158588a35b7c4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00413",
@@ -7842,7 +7842,7 @@
     "slika": "00413.webp",
     "aktivno": "",
     "uid": "585bdeb300e64930b7698467ae77cfab",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00414",
@@ -7857,7 +7857,7 @@
     "slika": "00414.webp",
     "aktivno": "",
     "uid": "548b715ffefd49c7af80d6e27d2d6cbf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00382",
@@ -7872,7 +7872,7 @@
     "slika": "00382.webp",
     "aktivno": "",
     "uid": "9f1dc39b2fa84e5da0d3e292697902e5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00385",
@@ -7887,7 +7887,7 @@
     "slika": "00385.webp",
     "aktivno": "",
     "uid": "2246c3aa7a944fed8ecc07b8a0a8ae14",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00383",
@@ -7902,7 +7902,7 @@
     "slika": "00383.webp",
     "aktivno": "",
     "uid": "e2feb2987eb346619b4b3d367bbd9fd6",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00384",
@@ -7917,7 +7917,7 @@
     "slika": "00384.webp",
     "aktivno": "NE",
     "uid": "54ed760697614e50a504dfe3679bc8c7",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00389",
@@ -7932,7 +7932,7 @@
     "slika": "00389.webp",
     "aktivno": "NE",
     "uid": "42c7cc5db7e640329d949731a39d34e2",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00388",
@@ -7947,7 +7947,7 @@
     "slika": "00388.webp",
     "aktivno": "NE",
     "uid": "c214ddfde8be4a209e7a01a1ce7be000",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01334",
@@ -7962,7 +7962,7 @@
     "slika": "01334.webp",
     "aktivno": "",
     "uid": "fa1a22229a2a48a48abe0fce9a383d50",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01653",
@@ -7977,7 +7977,7 @@
     "slika": "01653.webp",
     "aktivno": "NE",
     "uid": "0e9d9ca528634745b2f197e281b22292",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01173",
@@ -7992,7 +7992,7 @@
     "slika": "01173.webp",
     "aktivno": "",
     "uid": "d69739564fa649f283bbe08aef43b18d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01009",
@@ -8007,7 +8007,7 @@
     "slika": "01009.webp",
     "aktivno": "NE",
     "uid": "ca9f9620ab204901a8d74414ec59c1c8",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01008",
@@ -8022,7 +8022,7 @@
     "slika": "01008.webp",
     "aktivno": "",
     "uid": "91b2c75f5bea4cd09def9c6637196544",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01007",
@@ -8037,7 +8037,7 @@
     "slika": "01007.webp",
     "aktivno": "NE",
     "uid": "a5be691006054100a859e76c3ed77fa4",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01006",
@@ -8052,7 +8052,7 @@
     "slika": "01006.webp",
     "aktivno": "",
     "uid": "a651be4f922540438f15c4cc428ad2b4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00712",
@@ -8067,7 +8067,7 @@
     "slika": "00712.webp",
     "aktivno": "",
     "uid": "77775b0c3d3044f0b2187decb964cb1a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00713",
@@ -8082,7 +8082,7 @@
     "slika": "00713.webp",
     "aktivno": "NE",
     "uid": "cfde2bd485514b1f9339f6d39a663b6a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00714",
@@ -8097,7 +8097,7 @@
     "slika": "00714.webp",
     "aktivno": "",
     "uid": "e9b927e136984ba6bec7d2a38ae9c529",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02069",
@@ -8112,7 +8112,7 @@
     "slika": "02069.webp",
     "aktivno": "",
     "uid": "b829fedc780944deb298bee446ffa041",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02068",
@@ -8127,7 +8127,7 @@
     "slika": "02068.webp",
     "aktivno": "",
     "uid": "184fdc38d5b84d568e6f19af71b82fe1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01692",
@@ -8142,7 +8142,7 @@
     "slika": "01692.webp",
     "aktivno": "",
     "uid": "8d11d9883360432aad9a1fcf161127c2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01693",
@@ -8157,7 +8157,7 @@
     "slika": "01693.webp",
     "aktivno": "",
     "uid": "a16989569fa5470083013e113631c7a6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00207",
@@ -8172,7 +8172,7 @@
     "slika": "00207.webp",
     "aktivno": "",
     "uid": "69fd8c7b4c624567b8077cd8e9619be9",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00206",
@@ -8187,7 +8187,7 @@
     "slika": "00206.webp",
     "aktivno": "NE",
     "uid": "dbf586c57578408ebec45cdf2879e52e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00702",
@@ -8202,7 +8202,7 @@
     "slika": "00702.webp",
     "aktivno": "",
     "uid": "f1aea0a2a2bf41e0a6fcd6f63309090d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00438",
@@ -8217,7 +8217,7 @@
     "slika": "00438a.webp",
     "aktivno": "NE",
     "uid": "c03351737d9b4245aa0fb99a8c41ac3f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00438",
@@ -8232,7 +8232,7 @@
     "slika": "00438b.webp",
     "aktivno": "NE",
     "uid": "fb5cefdee4c0423d88786a88fa27343a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00438",
@@ -8247,7 +8247,7 @@
     "slika": "00438c.webp",
     "aktivno": "NE",
     "uid": "a313e6368cee456ea9547561655eed56",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00434",
@@ -8260,9 +8260,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00434.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "15392b81c1de46ea9c14f5637ef63607",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01261",
@@ -8275,9 +8275,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01261.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "a67391cf09794a6089440cb22179b647",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00628",
@@ -8292,7 +8292,7 @@
     "slika": "00628.webp",
     "aktivno": "",
     "uid": "066207579f7a4b4caa96fb4a2a7ae9c8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00118",
@@ -8307,7 +8307,7 @@
     "slika": "00118.webp",
     "aktivno": "",
     "uid": "9aa01d4a4c0c43b2893c537cbb83e0b9",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00445",
@@ -8322,7 +8322,7 @@
     "slika": "00445.webp",
     "aktivno": "",
     "uid": "66e95bfc04c14f1299dc5c70ef2dc83e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00451",
@@ -8337,7 +8337,7 @@
     "slika": "00451.webp",
     "aktivno": "NE",
     "uid": "a70e8c2cd2e247c7969f152f1f4f06de",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01725",
@@ -8352,7 +8352,7 @@
     "slika": "01725.webp",
     "aktivno": "NE",
     "uid": "d41a898a37254cd690d6c4e4ae826e51",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00090",
@@ -8367,7 +8367,7 @@
     "slika": "00090.webp",
     "aktivno": "",
     "uid": "fa6213693e014c7f8465e1cb75b06aa6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00444",
@@ -8382,7 +8382,7 @@
     "slika": "00444.webp",
     "aktivno": "",
     "uid": "6477ffdcdcff4bfa871b369f9b3b3149",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00655",
@@ -8397,7 +8397,7 @@
     "slika": "00655.webp",
     "aktivno": "NE",
     "uid": "0e725a767e4e4487b6e4b62f592cad5a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00656",
@@ -8412,7 +8412,7 @@
     "slika": "00656.webp",
     "aktivno": "NE",
     "uid": "95ddb6c6b0f44c01b647a33205e581b8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00657",
@@ -8427,7 +8427,7 @@
     "slika": "00657.webp",
     "aktivno": "NE",
     "uid": "2cc14cc3227845b9aa84edf87f6f16bc",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "20032",
@@ -8442,7 +8442,7 @@
     "slika": "20032.webp",
     "aktivno": "",
     "uid": "092d052d5ad24404ab607c0b30a9ec90",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "20033",
@@ -8457,7 +8457,7 @@
     "slika": "20033.webp",
     "aktivno": "",
     "uid": "23e4a29745964ccda39263a9e3a60894",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "20034",
@@ -8472,7 +8472,7 @@
     "slika": "20034.webp",
     "aktivno": "",
     "uid": "75c0e18f056f48cca39e2008383c0d6e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "20031",
@@ -8487,7 +8487,7 @@
     "slika": "20031.webp",
     "aktivno": "",
     "uid": "64b751728adf4135bfdbbad1ad4b96cf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01539",
@@ -8500,9 +8500,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01539.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "16e791b102b14151898439bfc5d8a7cb",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01540",
@@ -8515,9 +8515,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01540.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "187712fc4a2543469cd9a4ed3f5e5563",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01541",
@@ -8530,9 +8530,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01541.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "3573e07ce51e4e4d814f4a79ad4b21de",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01542",
@@ -8545,9 +8545,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01542.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "52f89100c02a4a8b9e843897b44c5470",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00422",
@@ -8562,7 +8562,7 @@
     "slika": "00422.webp",
     "aktivno": "NE",
     "uid": "019fb00629e4416793baeac8f1f2d99e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00421",
@@ -8577,7 +8577,7 @@
     "slika": "00421.webp",
     "aktivno": "NE",
     "uid": "a94eec4a17b3423a9d5f16f4a03e4c67",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00420",
@@ -8592,7 +8592,7 @@
     "slika": "00420.webp",
     "aktivno": "NE",
     "uid": "3e5f7705c7274e249a88382a2fcf345c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00419",
@@ -8607,7 +8607,7 @@
     "slika": "00419.webp",
     "aktivno": "NE",
     "uid": "2b910bba040848daaeb1f327911fb2e4",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00603",
@@ -8622,7 +8622,7 @@
     "grupa": "Ostalo",
     "aktivno": "DA",
     "uid": "3c36783dbefc4e0287e3b26d107d9de7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00600",
@@ -8637,7 +8637,7 @@
     "grupa": "Ostalo",
     "aktivno": "DA",
     "uid": "bc1e2965f96b490283b20a1268b5d6e3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00601",
@@ -8652,7 +8652,7 @@
     "grupa": "Ostalo",
     "aktivno": "DA",
     "uid": "410cbbca1ac94a848ed3acc5364548ba",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00602",
@@ -8667,7 +8667,7 @@
     "grupa": "Ostalo",
     "aktivno": "DA",
     "uid": "39e88a6363524c6b8f9793d403f5e5a9",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00249",
@@ -8682,7 +8682,7 @@
     "slika": "00249.webp",
     "aktivno": "",
     "uid": "5f66a72b06d5493783d8c972dcb3b202",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00247",
@@ -8697,7 +8697,7 @@
     "slika": "00247.webp",
     "aktivno": "DA",
     "uid": "3a1f67ab3a81442cb490afff1bd33e53",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00248",
@@ -8712,7 +8712,7 @@
     "slika": "00248.webp",
     "aktivno": "DA",
     "uid": "c20d163f76794898ad121f55cca28a68",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00442",
@@ -8727,7 +8727,7 @@
     "slika": "00442.webp",
     "aktivno": "",
     "uid": "409cd7a7752846f6a084ffdd6a97ab5f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00441",
@@ -8742,7 +8742,7 @@
     "slika": "00441.webp",
     "aktivno": "",
     "uid": "ef79e54a8318423d8c67ce8feab38a6f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02070",
@@ -8757,7 +8757,7 @@
     "slika": "02070.webp",
     "aktivno": "",
     "uid": "602ca4c5c5f344a5ae7fb9e584fd4b37",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00886",
@@ -8772,7 +8772,7 @@
     "slika": "00886.webp",
     "aktivno": "NE",
     "uid": "15e644133de24dfaa87affe6862f6ebf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00910",
@@ -8787,7 +8787,7 @@
     "slika": "00910.webp",
     "aktivno": "",
     "uid": "74ba231c73f14243b1c84e5fa804df01",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00471",
@@ -8802,7 +8802,7 @@
     "slika": "00471.webp",
     "aktivno": "",
     "uid": "7488f1374d4d4beab17a8b3851019a41",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00472",
@@ -8817,7 +8817,7 @@
     "slika": "00472.webp",
     "aktivno": "",
     "uid": "51d6583e449149439d6bd71254cc59b5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00698",
@@ -8832,7 +8832,7 @@
     "slika": "00698.webp",
     "aktivno": "",
     "uid": "7276539eea4d4e5db53aaefa9e3d2fdf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T332",
@@ -8847,7 +8847,7 @@
     "slika": "T332.webp",
     "aktivno": "",
     "uid": "c28674f395984501b424c70de1b4519a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00638",
@@ -8862,7 +8862,7 @@
     "slika": "00638.webp",
     "aktivno": "",
     "uid": "cfe1a93546f54015af36095f409ea4b6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00637",
@@ -8877,7 +8877,7 @@
     "slika": "00637.webp",
     "aktivno": "",
     "uid": "6ce0ba053624465e99e59c311f1f5585",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00204",
@@ -8892,7 +8892,7 @@
     "slika": "00204.webp",
     "aktivno": "",
     "uid": "b8f95f75097a4de783ac252b3a7532da",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00866",
@@ -8907,7 +8907,7 @@
     "slika": "00866.webp",
     "aktivno": "",
     "uid": "05a5e67d598449caa9c5e49161ce1ee6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00869",
@@ -8922,7 +8922,7 @@
     "slika": "00869.1.webp",
     "aktivno": "NE",
     "uid": "d8e76889ec2d41b1ad8bce2231965f80",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T330",
@@ -8937,7 +8937,7 @@
     "slika": "T330.webp",
     "aktivno": "",
     "uid": "b03b75239e5c4806861c8adba3e8fa76",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00823",
@@ -8952,7 +8952,7 @@
     "slika": "00823.webp",
     "aktivno": "",
     "uid": "b7868002578349d3991946436f1bd963",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00476",
@@ -8967,7 +8967,7 @@
     "slika": "00476.webp",
     "aktivno": "NE",
     "uid": "1fdc42661231400180bb03d910f9f34d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00666",
@@ -8982,7 +8982,7 @@
     "slika": "00666.webp",
     "aktivno": "",
     "uid": "482cc4bcacc143d48243f9321d5117ef",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00673",
@@ -8997,7 +8997,7 @@
     "slika": "00673.webp",
     "aktivno": "",
     "uid": "f2927dc596484e03b6bbeb29cfa05b96",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01841",
@@ -9012,7 +9012,7 @@
     "slika": "01841.webp",
     "aktivno": "",
     "uid": "07c4bac3a2ab4608aaf3df9f82542ea8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01714",
@@ -9027,7 +9027,7 @@
     "slika": "01714.webp",
     "aktivno": "",
     "uid": "51eae930f7d04544856a314859905a8c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00680",
@@ -9042,7 +9042,7 @@
     "slika": "00680.webp",
     "aktivno": "NE",
     "uid": "9e72695fea134e6a932b16d5ec3676c7",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01864",
@@ -9057,7 +9057,7 @@
     "slika": "01864.webp",
     "aktivno": "NE",
     "uid": "1b4dad8c5a214c50a022d930fe899837",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "20029",
@@ -9072,7 +9072,7 @@
     "slika": "20029.webp",
     "aktivno": "",
     "uid": "44ffe77a520e40a2bdbef6642ed34446",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "20030",
@@ -9087,7 +9087,7 @@
     "slika": "20030.webp",
     "aktivno": "",
     "uid": "d10e70a4bfff4846ab00b07e1dbbe35a",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02040",
@@ -9102,7 +9102,7 @@
     "slika": "02040.webp",
     "aktivno": "",
     "uid": "21286bb44b3f4754a2ef1e7a90f14f54",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00094",
@@ -9117,6 +9117,6 @@
     "slika": "00094.webp",
     "aktivno": "",
     "uid": "89feb6dca45e42deb2bacb35935744da",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   }
 ]
