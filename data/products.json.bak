@@ -2485,7 +2485,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00498.webp",
-    "aktivno": "NE",
+    "aktivno": "",
     "uid": "da181d8400244fb2ac40ebfe7392b533",
     "katalog_krajina": "DA"
   },
@@ -3820,9 +3820,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00288.webp",
-    "aktivno": "NE",
+    "aktivno": "",
     "uid": "c11e51305ab8449e9cee9d17bd556448",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "01280",
@@ -3947,8 +3947,8 @@
   {
     "sifra": "00484",
     "naziv": "MUFFIN ČOKOLADA 240g (6×40g) INSIFA 1/12",
-    "vpc": "2,73",
-    "mpc": "3,2",
+    "vpc": "3,07",
+    "mpc": "3,60",
     "pakovanje": "1/12",
     "grupa": "Slatki program",
     "redoslijed": 264,
@@ -3962,15 +3962,15 @@
   {
     "sifra": "00507",
     "naziv": "KEKS MAGIC DUO 650g DR. GERARD",
-    "vpc": "5,55",
-    "mpc": "6,50",
+    "vpc": "5,85",
+    "mpc": "6,85",
     "pakovanje": "",
     "grupa": "Slatki program",
     "redoslijed": 265,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00507.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "e049e7d559474592817c01f3afcc62a0",
     "katalog_krajina": "DA"
   },
@@ -3985,7 +3985,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00485.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "6094c97d3f9f4ffe83730d3a1d6779f2",
     "katalog_krajina": "DA"
   },
@@ -4210,7 +4210,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00967.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "4624ff19ccb74383942c0dbf5c41391b",
     "katalog_krajina": "DA"
   },
@@ -4390,7 +4390,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01048.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "7ebb620de9524ea5b5c6a792ec1784ef",
     "katalog_krajina": "DA"
   },
@@ -4495,7 +4495,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00407.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "d27f904c83b946d0924d528b3c163aa9",
     "katalog_krajina": "DA"
   },
@@ -4600,9 +4600,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00585.webp",
-    "aktivno": "NE",
+    "aktivno": "",
     "uid": "3a28ea20d3c84a8fa36be38a966d3871",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "00586",
@@ -4765,9 +4765,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00999.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "50f00d9318904c6491f4785a3f84a372",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "01708",
@@ -6415,9 +6415,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00302.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "6bac3fd3622e4d66bf2572a391fa6f64",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "00303",
@@ -6430,9 +6430,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00303.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "4a25991e5e7848aca959a55754e31a49",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "00311",
@@ -7015,7 +7015,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00632.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "8fdaa0ff957a43f1bc592dc292a34c39",
     "katalog_krajina": "DA"
   },
@@ -7131,13 +7131,13 @@
     "mpc": "1,60",
     "pakovanje": "1/12",
     "grupa": "Hemija/Higijena",
-    "redoslijed": "476",
+    "redoslijed": 476,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00436.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "7b4ecc7c56b74cb7aa44bdf796c5d1ca",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "00437",
@@ -7311,7 +7311,7 @@
     "mpc": "1,15",
     "pakovanje": "",
     "redoslijed": 488,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "00259.webp",
     "grupa": "Kuhinja/Začini",
@@ -7387,7 +7387,7 @@
     "pakovanje": "1/12",
     "grupa": "Hemija/Higijena",
     "redoslijed": 493,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "02113.webp",
     "aktivno": "DA",
@@ -7417,7 +7417,7 @@
     "pakovanje": "1/12",
     "grupa": "Hemija/Higijena",
     "redoslijed": 495,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "02111.webp",
     "aktivno": "DA",
@@ -7432,7 +7432,7 @@
     "pakovanje": "1/12",
     "grupa": "Hemija/Higijena",
     "redoslijed": 496,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "02110.webp",
     "aktivno": "DA",
@@ -7956,8 +7956,8 @@
     "mpc": "2,90",
     "pakovanje": "1/20",
     "grupa": "Hemija/Higijena",
-    "redoslijed": 531,
-    "oznaka": "",
+    "redoslijed": "531",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "00376.webp",
     "aktivno": "DA",
@@ -7971,7 +7971,7 @@
     "mpc": "1,85",
     "pakovanje": "1/12",
     "redoslijed": 532,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "00990.webp",
     "grupa": "Hemija/Higijena",
@@ -8196,13 +8196,13 @@
     "mpc": "13,50",
     "pakovanje": "",
     "grupa": "Dječiji kutak",
-    "redoslijed": "547",
+    "redoslijed": 547,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02068.webp",
-    "aktivno": "DA",
+    "aktivno": "",
     "uid": "184fdc38d5b84d568e6f19af71b82fe1",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "01692",
@@ -8395,9 +8395,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00445.webp",
-    "aktivno": "NE",
+    "aktivno": "",
     "uid": "66e95bfc04c14f1299dc5c70ef2dc83e",
-    "katalog_krajina": "NE"
+    "katalog_krajina": ""
   },
   {
     "sifra": "00451",
@@ -8992,7 +8992,7 @@
     "pakovanje": "",
     "grupa": "Hemija/Higijena",
     "redoslijed": 600,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "00869.1.webp",
     "aktivno": "DA",
@@ -9036,7 +9036,7 @@
     "mpc": "0,80",
     "pakovanje": "1/12",
     "redoslijed": 603,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "01209.webp",
     "grupa": "Hemija/Higijena",
@@ -9126,11 +9126,11 @@
     "mpc": "3,65",
     "pakovanje": "1/12",
     "grupa": "Dječiji kutak",
-    "redoslijed": "609",
+    "redoslijed": 609,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00680.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "9e72695fea134e6a932b16d5ec3676c7",
     "katalog_krajina": "DA"
   },
