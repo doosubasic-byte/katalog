@@ -650,7 +650,7 @@
     "vpc": "1,32",
     "mpc": "1,55",
     "pakovanje": "",
-    "redoslijed": "44",
+    "redoslijed": 44,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01.webp",
@@ -1120,7 +1120,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "79.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "5ab89e5d037140d8aae2e760b2f70b84",
     "katalog_krajina": "DA"
   },
@@ -5230,7 +5230,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01021.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "e043d8697d33415795a480f68be314f9",
     "katalog_krajina": "NE"
   },
@@ -5316,11 +5316,11 @@
     "mpc": "1,80",
     "pakovanje": "1/16",
     "grupa": "Slatki program",
-    "redoslijed": 355,
+    "redoslijed": "355",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01043.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "6774539b91be4844a02291940eb4ef20",
     "katalog_krajina": "NE"
   },
@@ -5350,8 +5350,8 @@
     "akcija_postotak": "",
     "slika": "01102.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
-    "katalog_krajina": "",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "82dc088e6aaa4011b11514c8c2e656be"
   },
   {
@@ -6910,9 +6910,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00079.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "1e0570f40f654e42a290f76032466faa",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00080",
@@ -7990,7 +7990,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00362.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "0e43fe277abf40a4a82815bd76cca330",
     "katalog_krajina": "DA"
   },
@@ -8185,7 +8185,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00382.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "9f1dc39b2fa84e5da0d3e292697902e5",
     "katalog_krajina": "DA"
   },
