@@ -14,5 +14,21 @@
     "polje": "vpc",
     "staro": "1,411",
     "novo": "1,41"
+  },
+  {
+    "vrijeme": "2026-04-09 14:11",
+    "sifra": "01679",
+    "naziv": "ROLAT VIŠNJA SA PRELIVOM ČOKOLADE 240g",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-09 14:11",
+    "sifra": "01679",
+    "naziv": "ROLAT VIŠNJA SA PRELIVOM ČOKOLADE 240g",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
   }
 ]
