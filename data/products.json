@@ -9151,7 +9151,7 @@
   },
   {
     "sifra": "00886",
-    "naziv": "UNO KARTE",
+    "naziv": "UNO KARTE 1",
     "vpc": "1,41",
     "mpc": "1,65",
     "pakovanje": "",
@@ -9162,7 +9162,7 @@
     "slika": "00886.webp",
     "aktivno": "NE",
     "uid": "15e644133de24dfaa87affe6862f6ebf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00910",
