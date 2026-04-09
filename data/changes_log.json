@@ -30,5 +30,21 @@
     "polje": "katalog_krajina",
     "staro": "",
     "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-09 14:16",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "vpc",
+    "staro": "3,84",
+    "novo": "3,85"
+  },
+  {
+    "vrijeme": "2026-04-09 14:16",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
   }
 ]
