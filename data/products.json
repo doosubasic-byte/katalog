@@ -6,7 +6,7 @@
     "mpc": "1,65",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": 1,
+    "redoslijed": "1",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -1122,7 +1122,7 @@
     "slika": "79.webp",
     "aktivno": "NE",
     "uid": "5ab89e5d037140d8aae2e760b2f70b84",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "80",
@@ -3175,9 +3175,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00538.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "88b8106b65604630a5b5b37e60fb4302",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02179",
@@ -4585,9 +4585,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00099.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "2bd663f40e4f4f088d754339bf9cd90b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00536",
@@ -5211,7 +5211,7 @@
     "mpc": "29,85",
     "pakovanje": "",
     "grupa": "Slatki program",
-    "redoslijed": "348",
+    "redoslijed": 348,
     "oznaka": "1+1",
     "akcija_postotak": "",
     "slika": "00692.webp",
@@ -5245,7 +5245,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00691.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "1ca65512b6364b4a984a2f5148a6d414",
     "katalog_krajina": "DA"
   },
@@ -7512,7 +7512,7 @@
     "slika": "T312.webp",
     "aktivno": "NE",
     "uid": "484dd7d03a3b48a3b1cacb01ae7b73ab",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "T333",
@@ -8425,7 +8425,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01006.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "a651be4f922540438f15c4cc428ad2b4",
     "katalog_krajina": "DA"
   },
