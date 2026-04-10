@@ -4506,7 +4506,7 @@
     "mpc": "2,35",
     "pakovanje": "1/12",
     "grupa": "Slatki program",
-    "redoslijed": "301",
+    "redoslijed": 301,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00969.webp",
@@ -4787,17 +4787,17 @@
   {
     "sifra": "00394",
     "naziv": "MEDVJEDIĆI GUMENE BOMBONE 90g 1/40 JELLY FUN",
-    "vpc": "0,98",
-    "mpc": "1,15",
+    "vpc": "1,11",
+    "mpc": "1,30",
     "pakovanje": "1/4",
     "grupa": "Candy",
     "redoslijed": 320,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00394.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "ef9246c2adcf489590d23ca1fabe7c1f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00396",
@@ -4806,7 +4806,7 @@
     "mpc": "0,55",
     "pakovanje": "1/48",
     "grupa": "Candy",
-    "redoslijed": 321,
+    "redoslijed": "321",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00396.webp",
@@ -4870,7 +4870,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00585.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "3a28ea20d3c84a8fa36be38a966d3871",
     "katalog_krajina": "NE"
   },
@@ -4885,9 +4885,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00586.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "2ae22a532d0a4b5abf214b753a3642ea",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00587",
@@ -4930,7 +4930,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00589.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "34e9498eefba4cd68a20754c67b4bf85",
     "katalog_krajina": "NE"
   },
@@ -5290,7 +5290,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00082.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "d80807c2f74b466eb025d32f2938672b",
     "katalog_krajina": "NE"
   },

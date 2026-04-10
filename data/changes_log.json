@@ -71798,5 +71798,77 @@
     "polje": "aktivno",
     "staro": "DA",
     "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-10 15:06",
+    "sifra": "00394",
+    "naziv": "MEDVJEDIĆI GUMENE BOMBONE 90g 1/40 JELLY FUN",
+    "polje": "vpc",
+    "staro": "0,98",
+    "novo": "1,11"
+  },
+  {
+    "vrijeme": "2026-04-10 15:06",
+    "sifra": "00394",
+    "naziv": "MEDVJEDIĆI GUMENE BOMBONE 90g 1/40 JELLY FUN",
+    "polje": "mpc",
+    "staro": "1,15",
+    "novo": "1,30"
+  },
+  {
+    "vrijeme": "2026-04-10 15:06",
+    "sifra": "00394",
+    "naziv": "MEDVJEDIĆI GUMENE BOMBONE 90g 1/40 JELLY FUN",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-10 15:06",
+    "sifra": "00394",
+    "naziv": "MEDVJEDIĆI GUMENE BOMBONE 90g 1/40 JELLY FUN",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-10 15:11",
+    "sifra": "00586",
+    "naziv": "ŽELE GUMENE CRNA RIBIZLA 80g 1/45",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-10 15:11",
+    "sifra": "00586",
+    "naziv": "ŽELE GUMENE CRNA RIBIZLA 80g 1/45",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-10 15:12",
+    "sifra": "00585",
+    "naziv": "ŽELE GUMENE JAGODA–MENTA 80g 1/45",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-10 15:12",
+    "sifra": "00589",
+    "naziv": "ŽELE GUMENE NEKTARINA–MENTA 80g",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-10 15:12",
+    "sifra": "00082",
+    "naziv": "ČAJNI KOLUTIĆI 600g 1/9",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
   }
 ]
