@@ -71870,5 +71870,37 @@
     "polje": "aktivno",
     "staro": "NE",
     "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-11 14:43",
+    "sifra": "01745",
+    "naziv": "ŽVAKE FRESH SMILE STICK JAGODA 14g 24/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-11 14:43",
+    "sifra": "01746",
+    "naziv": "ŽVAKE FRESH SMILE STICK LUBENICA 14g 24/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-11 14:43",
+    "sifra": "00276",
+    "naziv": "ŽVAKE TUTTI KINETICS 3,5g 100/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-11 14:43",
+    "sifra": "00999",
+    "naziv": "COFFEX BOMBONE 300g ELVAN 1/12",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
   }
 ]
