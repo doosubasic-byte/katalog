@@ -86422,5 +86422,53 @@
     "polje": "katalog_krajina",
     "staro": "",
     "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-15 10:25",
+    "sifra": "103",
+    "naziv": "DODATAK JELIMA SA SUŠENIM POVRĆEM 1kg",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-15 10:25",
+    "sifra": "103",
+    "naziv": "DODATAK JELIMA SA SUŠENIM POVRĆEM 1kg",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-16 08:22",
+    "sifra": "00966",
+    "naziv": "MEDE BOMB. SPUŽVA BOB 60g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-16 08:22",
+    "sifra": "00168",
+    "naziv": "PINEAPPLE 4D GUMMY CANDY 7g 50/1 SLIM",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-16 08:22",
+    "sifra": "00118",
+    "naziv": "PUHALICA VOĆE srednja 1/24",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-16 08:22",
+    "sifra": "00118",
+    "naziv": "PUHALICA VOĆE srednja 1/24",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
   }
 ]

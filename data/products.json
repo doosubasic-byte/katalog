@@ -1116,7 +1116,7 @@
     "mpc": "1,85",
     "pakovanje": "1/12",
     "grupa": "Ostalo Subašić",
-    "redoslijed": "75",
+    "redoslijed": 75,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "79.webp",
@@ -1900,9 +1900,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "103.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "5667b9425331495ca940c958c8039b19",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00143",
@@ -2455,7 +2455,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00168.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "b6ce757ff7754be0ae9cd277362a6225",
     "katalog_krajina": "DA"
   },
@@ -4465,7 +4465,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00966.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "2fce1ab23dfa42d18598bfab4e99708f",
     "katalog_krajina": "DA"
   },
@@ -8691,13 +8691,13 @@
     "mpc": "0,80",
     "pakovanje": "1/24",
     "grupa": "Dječiji kutak",
-    "redoslijed": 580,
+    "redoslijed": "580",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00118.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "9aa01d4a4c0c43b2893c537cbb83e0b9",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00452",
