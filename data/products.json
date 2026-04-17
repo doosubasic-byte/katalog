@@ -2530,7 +2530,7 @@
     "akcija_postotak": "",
     "slika": "00941.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "4bafd49ca80d47b690cb36014447008a"
   },
@@ -3906,13 +3906,13 @@
     "mpc": "1,75",
     "pakovanje": "1/12",
     "grupa": "Slane grickalice",
-    "redoslijed": 261,
+    "redoslijed": "261",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00056.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "57b70bf07c254aa28829084c5c6c4779",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00495",
@@ -4115,7 +4115,7 @@
     "vpc": "2,73",
     "mpc": "3,20",
     "pakovanje": "1/12",
-    "redoslijed": "275",
+    "redoslijed": 275,
     "oznaka": "n",
     "akcija_postotak": "",
     "slika": "01643.webp",

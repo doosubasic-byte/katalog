@@ -135878,5 +135878,29 @@
     "polje": "oznaka",
     "staro": "",
     "novo": "n"
+  },
+  {
+    "vrijeme": "2026-04-17 10:33",
+    "sifra": "00941",
+    "naziv": "DONUT LIZALO 15g 60/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-17 10:33",
+    "sifra": "00056",
+    "naziv": "ŠTAPIĆI GRISKI HELLO 200g 1/12",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-17 10:33",
+    "sifra": "00056",
+    "naziv": "ŠTAPIĆI GRISKI HELLO 200g 1/12",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
   }
 ]
