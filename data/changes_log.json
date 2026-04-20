@@ -167830,5 +167830,37 @@
     "polje": "slika",
     "staro": "",
     "novo": "00212.webp"
+  },
+  {
+    "vrijeme": "2026-04-20 11:50",
+    "sifra": "00572",
+    "naziv": "LIZALO SRCE 7g 86/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-20 11:50",
+    "sifra": "00357",
+    "naziv": "OMEKŠIVAČ ROZE 1400ml ABC",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-20 11:51",
+    "sifra": "00359",
+    "naziv": "OMEKŠIVAČ CRVENI 1400ml ABC",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-20 11:51",
+    "sifra": "00360",
+    "naziv": "OMEKŠIVAČ SENSITIVE 1400ml ABC",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
   }
 ]
