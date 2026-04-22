@@ -167862,5 +167862,4885 @@
     "polje": "aktivno",
     "staro": "",
     "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 13:18",
+    "sifra": "00482",
+    "naziv": "BARBY KINDER JAJE 25g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 13:54",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "sifra",
+    "staro": "00655",
+    "novo": "02075"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "naziv",
+    "staro": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "novo": "UKRASNA KESA VELIKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "vpc",
+    "staro": "0,59",
+    "novo": "1,07"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "mpc",
+    "staro": "0,70",
+    "novo": "1,25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "slika",
+    "staro": "00655.webp",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "sifra",
+    "staro": "00656",
+    "novo": "00655"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "naziv",
+    "staro": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "novo": "Poklon vrećica DEL-1376 MEDO - MALA 1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "vpc",
+    "staro": "0,81",
+    "novo": "0,59"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "mpc",
+    "staro": "0,95",
+    "novo": "0,70"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "slika",
+    "staro": "00656.webp",
+    "novo": "00655.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "sifra",
+    "staro": "00657",
+    "novo": "00656"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "naziv",
+    "staro": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "novo": "Poklon vrećica DEL-2608 - SREDNJA 1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "vpc",
+    "staro": "0,85",
+    "novo": "0,81"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "mpc",
+    "staro": "1,00",
+    "novo": "0,95"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "slika",
+    "staro": "00657.webp",
+    "novo": "00656.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "sifra",
+    "staro": "20032",
+    "novo": "00657"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE STICKY",
+    "novo": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "vpc",
+    "staro": "1,53",
+    "novo": "0,85"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "mpc",
+    "staro": "1,80",
+    "novo": "1,00"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "slika",
+    "staro": "20032.webp",
+    "novo": "00657.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Ostalo"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20032",
+    "naziv": "STIKERI ZA DJECU SMILE STICKY",
+    "polje": "sifra",
+    "staro": "20033",
+    "novo": "20032"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20032",
+    "naziv": "STIKERI ZA DJECU SMILE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "novo": "STIKERI ZA DJECU SMILE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20032",
+    "naziv": "STIKERI ZA DJECU SMILE STICKY",
+    "polje": "slika",
+    "staro": "20033.webp",
+    "novo": "20032.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20033",
+    "naziv": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "polje": "sifra",
+    "staro": "20034",
+    "novo": "20033"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20033",
+    "naziv": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "novo": "STIKERI ZA DJECU SMILE LIKE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20033",
+    "naziv": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "polje": "slika",
+    "staro": "20034.webp",
+    "novo": "20033.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20034",
+    "naziv": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "polje": "sifra",
+    "staro": "20031",
+    "novo": "20034"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20034",
+    "naziv": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "novo": "STIKERI ZA DJECU SMILE SRCE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20034",
+    "naziv": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "polje": "slika",
+    "staro": "20031.webp",
+    "novo": "20034.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "sifra",
+    "staro": "01539",
+    "novo": "20031"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 40l BELLA",
+    "novo": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "vpc",
+    "staro": "1,24",
+    "novo": "1,53"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "mpc",
+    "staro": "1,45",
+    "novo": "1,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "slika",
+    "staro": "01539.webp",
+    "novo": "20031.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "grupa",
+    "staro": "Ostalo",
+    "novo": "Dječiji kutak"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "sifra",
+    "staro": "01540",
+    "novo": "01539"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 70l BELLA",
+    "novo": "VREĆE ZA SMEĆE 40l BELLA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "vpc",
+    "staro": "1,64",
+    "novo": "1,24"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "mpc",
+    "staro": "1,90",
+    "novo": "1,45"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "slika",
+    "staro": "01540.webp",
+    "novo": "01539.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "sifra",
+    "staro": "01541",
+    "novo": "01540"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 120l BELLA",
+    "novo": "VREĆE ZA SMEĆE 70l BELLA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "vpc",
+    "staro": "1,99",
+    "novo": "1,64"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "mpc",
+    "staro": "2,35",
+    "novo": "1,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "slika",
+    "staro": "01541.webp",
+    "novo": "01540.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "sifra",
+    "staro": "01542",
+    "novo": "01541"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "novo": "VREĆE ZA SMEĆE 120l BELLA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "vpc",
+    "staro": "2,90",
+    "novo": "1,99"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "mpc",
+    "staro": "3,40",
+    "novo": "2,35"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "slika",
+    "staro": "01542.webp",
+    "novo": "01541.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "sifra",
+    "staro": "00422",
+    "novo": "01542"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "vpc",
+    "staro": "0,77",
+    "novo": "2,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "mpc",
+    "staro": "0,90",
+    "novo": "3,40"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "pakovanje",
+    "staro": "1/10",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "slika",
+    "staro": "00422.webp",
+    "novo": "01542.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00421",
+    "novo": "00422"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 40l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "1,02",
+    "novo": "0,77"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "1,20",
+    "novo": "0,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00421.webp",
+    "novo": "00422.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00420",
+    "novo": "00421"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 70l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "1,49",
+    "novo": "1,02"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "1,75",
+    "novo": "1,20"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00420.webp",
+    "novo": "00421.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00419",
+    "novo": "00420"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 120l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "1,92",
+    "novo": "1,49"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "2,25",
+    "novo": "1,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00419.webp",
+    "novo": "00420.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00603",
+    "novo": "00419"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 40L",
+    "novo": "VREĆE ZA SMEĆE 150l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "0,77",
+    "novo": "1,92"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "0,90",
+    "novo": "2,25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "pakovanje",
+    "staro": "1/25",
+    "novo": "1/10"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00603.webp",
+    "novo": "00419.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "sifra",
+    "staro": "00600",
+    "novo": "00603"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 70L",
+    "novo": "VREĆE ZA SMEĆE SARA 40L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "vpc",
+    "staro": "1,37",
+    "novo": "0,77"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "mpc",
+    "staro": "1,60",
+    "novo": "0,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "slika",
+    "staro": "00600.webp",
+    "novo": "00603.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "sifra",
+    "staro": "00601",
+    "novo": "00600"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 120L",
+    "novo": "VREĆE ZA SMEĆE SARA 70L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "vpc",
+    "staro": "2,09",
+    "novo": "1,37"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "mpc",
+    "staro": "2,45",
+    "novo": "1,60"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "slika",
+    "staro": "00601.webp",
+    "novo": "00600.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "sifra",
+    "staro": "00602",
+    "novo": "00601"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 150L",
+    "novo": "VREĆE ZA SMEĆE SARA 120L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "vpc",
+    "staro": "2,39",
+    "novo": "2,09"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "mpc",
+    "staro": "2,80",
+    "novo": "2,45"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "pakovanje",
+    "staro": "1/15",
+    "novo": "1/25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "slika",
+    "staro": "00602.webp",
+    "novo": "00601.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "sifra",
+    "staro": "00249",
+    "novo": "00602"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "naziv",
+    "staro": "KESA PE SREDNJA BIJELA 500/1",
+    "novo": "VREĆE ZA SMEĆE SARA 150L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "vpc",
+    "staro": "13,80",
+    "novo": "2,39"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "mpc",
+    "staro": "16,15",
+    "novo": "2,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "slika",
+    "staro": "00249.webp",
+    "novo": "00602.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "sifra",
+    "staro": "00247",
+    "novo": "00249"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "naziv",
+    "staro": "KESA PE MALA ŽUTA 1000/1",
+    "novo": "KESA PE SREDNJA BIJELA 500/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "vpc",
+    "staro": "12,60",
+    "novo": "13,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "mpc",
+    "staro": "14,75",
+    "novo": "16,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "slika",
+    "staro": "00247.webp",
+    "novo": "00249.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "sifra",
+    "staro": "00248",
+    "novo": "00247"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "naziv",
+    "staro": "KESA PE VELIKA ZELENA 500/1",
+    "novo": "KESA PE MALA ŽUTA 1000/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "vpc",
+    "staro": "15,98",
+    "novo": "12,60"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "mpc",
+    "staro": "18,70",
+    "novo": "14,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "slika",
+    "staro": "00248.webp",
+    "novo": "00247.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "sifra",
+    "staro": "00442",
+    "novo": "00248"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "naziv",
+    "staro": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "novo": "KESA PE VELIKA ZELENA 500/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "vpc",
+    "staro": "0,94",
+    "novo": "15,98"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "mpc",
+    "staro": "1,10",
+    "novo": "18,70"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "slika",
+    "staro": "00442.webp",
+    "novo": "00248.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Ostalo"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00442",
+    "naziv": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "polje": "sifra",
+    "staro": "00441",
+    "novo": "00442"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00442",
+    "naziv": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "polje": "naziv",
+    "staro": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "novo": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00442",
+    "naziv": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "polje": "slika",
+    "staro": "00441.webp",
+    "novo": "00442.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "sifra",
+    "staro": "02070",
+    "novo": "00441"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "naziv",
+    "staro": "KARTE - DRUŠTVENA IGRA",
+    "novo": "ZASTAVA BiH 30x45cm NA ŠTAPU"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "vpc",
+    "staro": "0,98",
+    "novo": "0,94"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "mpc",
+    "staro": "1,15",
+    "novo": "1,10"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "slika",
+    "staro": "02070.webp",
+    "novo": "00441.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "sifra",
+    "staro": "00886",
+    "novo": "02070"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "naziv",
+    "staro": "UNO KARTE 1",
+    "novo": "KARTE - DRUŠTVENA IGRA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "vpc",
+    "staro": "1,41",
+    "novo": "0,98"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "mpc",
+    "staro": "1,65",
+    "novo": "1,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "slika",
+    "staro": "00886.webp",
+    "novo": "02070.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "sifra",
+    "staro": "00910",
+    "novo": "00886"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "naziv",
+    "staro": "SPINER IGRAČKA",
+    "novo": "UNO KARTE 1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "vpc",
+    "staro": "3,84",
+    "novo": "1,41"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "mpc",
+    "staro": "4,50",
+    "novo": "1,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "slika",
+    "staro": "00910.webp",
+    "novo": "00886.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "sifra",
+    "staro": "00471",
+    "novo": "00910"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "naziv",
+    "staro": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "novo": "SPINER IGRAČKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "vpc",
+    "staro": "8,42",
+    "novo": "3,84"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "mpc",
+    "staro": "9,85",
+    "novo": "4,50"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "slika",
+    "staro": "00471.webp",
+    "novo": "00910.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "grupa",
+    "staro": "Ostalo",
+    "novo": "Dječiji kutak"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00471",
+    "naziv": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "polje": "sifra",
+    "staro": "00472",
+    "novo": "00471"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00471",
+    "naziv": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "polje": "naziv",
+    "staro": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "novo": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00471",
+    "naziv": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "polje": "slika",
+    "staro": "00472.webp",
+    "novo": "00471.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "sifra",
+    "staro": "00698",
+    "novo": "00472"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "naziv",
+    "staro": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "novo": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "vpc",
+    "staro": "16,02",
+    "novo": "8,42"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "mpc",
+    "staro": "18,75",
+    "novo": "9,85"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "slika",
+    "staro": "00698.webp",
+    "novo": "00472.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "sifra",
+    "staro": "T332",
+    "novo": "00698"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "naziv",
+    "staro": "TORBICA MUŠKA",
+    "novo": "STOLICA SKLOPIVA ŽUTO/CRNO"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "vpc",
+    "staro": "4,05",
+    "novo": "16,02"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "mpc",
+    "staro": "4,75",
+    "novo": "18,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "slika",
+    "staro": "T332.webp",
+    "novo": "00698.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Ostalo"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "sifra",
+    "staro": "00638",
+    "novo": "T332"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "naziv",
+    "staro": "SIGNAL 100ml PASTA ZA ZUBE",
+    "novo": "TORBICA MUŠKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "vpc",
+    "staro": "1,54",
+    "novo": "4,05"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "mpc",
+    "staro": "1,80",
+    "novo": "4,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "slika",
+    "staro": "00638.webp",
+    "novo": "T332.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "grupa",
+    "staro": "Hemija/Higijena",
+    "novo": "Dječiji kutak"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "sifra",
+    "staro": "00637",
+    "novo": "00638"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "naziv",
+    "staro": "SIGNAL 50ml PASTA ZA ZUBE",
+    "novo": "SIGNAL 100ml PASTA ZA ZUBE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "vpc",
+    "staro": "0,98",
+    "novo": "1,54"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "mpc",
+    "staro": "1,15",
+    "novo": "1,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "slika",
+    "staro": "00637.webp",
+    "novo": "00638.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "sifra",
+    "staro": "00204",
+    "novo": "00637"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "naziv",
+    "staro": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "novo": "SIGNAL 50ml PASTA ZA ZUBE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "vpc",
+    "staro": "5,64",
+    "novo": "0,98"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "mpc",
+    "staro": "6,60",
+    "novo": "1,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "slika",
+    "staro": "00204.webp",
+    "novo": "00637.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "sifra",
+    "staro": "00866",
+    "novo": "00204"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "naziv",
+    "staro": "PARFEM MAX INTENSE 20ml SORTO",
+    "novo": "ČETKICA ZA ZUBE 12/1 MR.STAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "vpc",
+    "staro": "4,87",
+    "novo": "5,64"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "mpc",
+    "staro": "5,70",
+    "novo": "6,60"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "slika",
+    "staro": "00866.webp",
+    "novo": "00204.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "sifra",
+    "staro": "00869",
+    "novo": "00866"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "naziv",
+    "staro": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "novo": "PARFEM MAX INTENSE 20ml SORTO"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "vpc",
+    "staro": "13,89",
+    "novo": "4,87"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "mpc",
+    "staro": "16,25",
+    "novo": "5,70"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "slika",
+    "staro": "00869.1.webp",
+    "novo": "00866.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "sifra",
+    "staro": "T330",
+    "novo": "00869"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "naziv",
+    "staro": "ELEKTRIČNI BRIJAČ",
+    "novo": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "vpc",
+    "staro": "10,80",
+    "novo": "13,89"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "mpc",
+    "staro": "12,65",
+    "novo": "16,25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "slika",
+    "staro": "T330.webp",
+    "novo": "00869.1.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "sifra",
+    "staro": "00823",
+    "novo": "T330"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "naziv",
+    "staro": "LABELO ZA USNE 36/1 KARTELA",
+    "novo": "ELEKTRIČNI BRIJAČ"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "vpc",
+    "staro": "15,38",
+    "novo": "10,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "mpc",
+    "staro": "18,00",
+    "novo": "12,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "slika",
+    "staro": "00823.webp",
+    "novo": "T330.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "sifra",
+    "staro": "01209",
+    "novo": "00823"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "naziv",
+    "staro": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "novo": "LABELO ZA USNE 36/1 KARTELA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "vpc",
+    "staro": "0,68",
+    "novo": "15,38"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "mpc",
+    "staro": "0,80",
+    "novo": "18,00"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "slika",
+    "staro": "01209.webp",
+    "novo": "00823.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "sifra",
+    "staro": "00476",
+    "novo": "01209"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "naziv",
+    "staro": "GEOMETRIJSKI SET 4/1",
+    "novo": "ŠTAPIĆI ZA UŠI 100/1 LALIN"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "vpc",
+    "staro": "2,09",
+    "novo": "0,68"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "mpc",
+    "staro": "2,45",
+    "novo": "0,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "pakovanje",
+    "staro": "1/4",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "slika",
+    "staro": "00476.webp",
+    "novo": "01209.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Hemija/Higijena"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "sifra",
+    "staro": "00666",
+    "novo": "00476"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "naziv",
+    "staro": "KIST 20cm 6/1 SET",
+    "novo": "GEOMETRIJSKI SET 4/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "vpc",
+    "staro": "1,88",
+    "novo": "2,09"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "mpc",
+    "staro": "2,20",
+    "novo": "2,45"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "pakovanje",
+    "staro": "1/6",
+    "novo": "1/4"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "slika",
+    "staro": "00666.webp",
+    "novo": "00476.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "sifra",
+    "staro": "00673",
+    "novo": "00666"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "naziv",
+    "staro": "DRVENE BOJICE 17_5cm 18/1",
+    "novo": "KIST 20cm 6/1 SET"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "vpc",
+    "staro": "3,54",
+    "novo": "1,88"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "mpc",
+    "staro": "4,15",
+    "novo": "2,20"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "pakovanje",
+    "staro": "1/18",
+    "novo": "1/6"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "slika",
+    "staro": "00673.webp",
+    "novo": "00666.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "sifra",
+    "staro": "01841",
+    "novo": "00673"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "naziv",
+    "staro": "Tečno ljepilo 1/1 WENNUO",
+    "novo": "DRVENE BOJICE 17_5cm 18/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "vpc",
+    "staro": "0,85",
+    "novo": "3,54"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "mpc",
+    "staro": "1,00",
+    "novo": "4,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/18"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "slika",
+    "staro": "01841.webp",
+    "novo": "00673.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "sifra",
+    "staro": "01714",
+    "novo": "01841"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "naziv",
+    "staro": "ŠILJALO CLASSIC",
+    "novo": "Tečno ljepilo 1/1 WENNUO"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "vpc",
+    "staro": "0,30",
+    "novo": "0,85"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "mpc",
+    "staro": "0,35",
+    "novo": "1,00"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "slika",
+    "staro": "01714.webp",
+    "novo": "01841.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "sifra",
+    "staro": "00680",
+    "novo": "01714"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "naziv",
+    "staro": "SELOTEJP TRAKA 12/1",
+    "novo": "ŠILJALO CLASSIC"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "vpc",
+    "staro": "3,11",
+    "novo": "0,30"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "mpc",
+    "staro": "3,65",
+    "novo": "0,35"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "slika",
+    "staro": "00680.webp",
+    "novo": "01714.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "sifra",
+    "staro": "01864",
+    "novo": "00680"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "naziv",
+    "staro": "VOŠTANE BOJICE 12/1",
+    "novo": "SELOTEJP TRAKA 12/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "vpc",
+    "staro": "1,20",
+    "novo": "3,11"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "mpc",
+    "staro": "1,40",
+    "novo": "3,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "slika",
+    "staro": "01864.webp",
+    "novo": "00680.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "sifra",
+    "staro": "20029",
+    "novo": "01864"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "novo": "VOŠTANE BOJICE 12/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "vpc",
+    "staro": "1,53",
+    "novo": "1,20"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "mpc",
+    "staro": "1,80",
+    "novo": "1,40"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "slika",
+    "staro": "20029.webp",
+    "novo": "01864.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20029",
+    "naziv": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "polje": "sifra",
+    "staro": "20030",
+    "novo": "20029"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20029",
+    "naziv": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "novo": "STIKERI ZA DJECU SMILE PAHULJICE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20029",
+    "naziv": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "polje": "slika",
+    "staro": "20030.webp",
+    "novo": "20029.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "sifra",
+    "staro": "02040",
+    "novo": "20030"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "naziv",
+    "staro": "PUZLE 22x32",
+    "novo": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "vpc",
+    "staro": "3,12",
+    "novo": "1,53"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "mpc",
+    "staro": "3,65",
+    "novo": "1,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "slika",
+    "staro": "02040.webp",
+    "novo": "20030.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "sifra",
+    "staro": "00094",
+    "novo": "02040"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "naziv",
+    "staro": "Vrećica za paketiće 35x55 velika DJED MRAZ",
+    "novo": "PUZLE 22x32"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "vpc",
+    "staro": "0,25",
+    "novo": "3,12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "mpc",
+    "staro": "0,30",
+    "novo": "3,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "pakovanje",
+    "staro": "1/50",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "slika",
+    "staro": "00094.webp",
+    "novo": "02040.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "sifra",
+    "staro": "00655",
+    "novo": "02076"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "naziv",
+    "staro": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "novo": "UKRASNA KESA MALA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "vpc",
+    "staro": "0,59",
+    "novo": "0,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "mpc",
+    "staro": "0,70",
+    "novo": "1,05"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "slika",
+    "staro": "00655.webp",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "sifra",
+    "staro": "00656",
+    "novo": "00655"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "naziv",
+    "staro": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "novo": "Poklon vrećica DEL-1376 MEDO - MALA 1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "vpc",
+    "staro": "0,81",
+    "novo": "0,59"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "mpc",
+    "staro": "0,95",
+    "novo": "0,70"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00655",
+    "naziv": "Poklon vrećica DEL-1376 MEDO - MALA 1/12",
+    "polje": "slika",
+    "staro": "00656.webp",
+    "novo": "00655.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "sifra",
+    "staro": "00657",
+    "novo": "00656"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "naziv",
+    "staro": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "novo": "Poklon vrećica DEL-2608 - SREDNJA 1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "vpc",
+    "staro": "0,85",
+    "novo": "0,81"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "mpc",
+    "staro": "1,00",
+    "novo": "0,95"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "slika",
+    "staro": "00657.webp",
+    "novo": "00656.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00656",
+    "naziv": "Poklon vrećica DEL-2608 - SREDNJA 1/12",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "sifra",
+    "staro": "20032",
+    "novo": "00657"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE STICKY",
+    "novo": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "vpc",
+    "staro": "1,53",
+    "novo": "0,85"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "mpc",
+    "staro": "1,80",
+    "novo": "1,00"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "slika",
+    "staro": "20032.webp",
+    "novo": "00657.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Ostalo"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00657",
+    "naziv": "Poklon vrećica DEL-1581 KOCKA - VELIKA 1",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20032",
+    "naziv": "STIKERI ZA DJECU SMILE STICKY",
+    "polje": "sifra",
+    "staro": "20033",
+    "novo": "20032"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20032",
+    "naziv": "STIKERI ZA DJECU SMILE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "novo": "STIKERI ZA DJECU SMILE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20032",
+    "naziv": "STIKERI ZA DJECU SMILE STICKY",
+    "polje": "slika",
+    "staro": "20033.webp",
+    "novo": "20032.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20033",
+    "naziv": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "polje": "sifra",
+    "staro": "20034",
+    "novo": "20033"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20033",
+    "naziv": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "novo": "STIKERI ZA DJECU SMILE LIKE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20033",
+    "naziv": "STIKERI ZA DJECU SMILE LIKE STICKY",
+    "polje": "slika",
+    "staro": "20034.webp",
+    "novo": "20033.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20034",
+    "naziv": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "polje": "sifra",
+    "staro": "20031",
+    "novo": "20034"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20034",
+    "naziv": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "novo": "STIKERI ZA DJECU SMILE SRCE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20034",
+    "naziv": "STIKERI ZA DJECU SMILE SRCE STICKY",
+    "polje": "slika",
+    "staro": "20031.webp",
+    "novo": "20034.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "sifra",
+    "staro": "01539",
+    "novo": "20031"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 40l BELLA",
+    "novo": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "vpc",
+    "staro": "1,24",
+    "novo": "1,53"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "mpc",
+    "staro": "1,45",
+    "novo": "1,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "slika",
+    "staro": "01539.webp",
+    "novo": "20031.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "grupa",
+    "staro": "Ostalo",
+    "novo": "Dječiji kutak"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20031",
+    "naziv": "STIKERI ZA DJECU SMILE SPIDERMAN STICKY",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "sifra",
+    "staro": "01540",
+    "novo": "01539"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 70l BELLA",
+    "novo": "VREĆE ZA SMEĆE 40l BELLA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "vpc",
+    "staro": "1,64",
+    "novo": "1,24"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "mpc",
+    "staro": "1,90",
+    "novo": "1,45"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01539",
+    "naziv": "VREĆE ZA SMEĆE 40l BELLA",
+    "polje": "slika",
+    "staro": "01540.webp",
+    "novo": "01539.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "sifra",
+    "staro": "01541",
+    "novo": "01540"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 120l BELLA",
+    "novo": "VREĆE ZA SMEĆE 70l BELLA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "vpc",
+    "staro": "1,99",
+    "novo": "1,64"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "mpc",
+    "staro": "2,35",
+    "novo": "1,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01540",
+    "naziv": "VREĆE ZA SMEĆE 70l BELLA",
+    "polje": "slika",
+    "staro": "01541.webp",
+    "novo": "01540.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "sifra",
+    "staro": "01542",
+    "novo": "01541"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "novo": "VREĆE ZA SMEĆE 120l BELLA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "vpc",
+    "staro": "2,90",
+    "novo": "1,99"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "mpc",
+    "staro": "3,40",
+    "novo": "2,35"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01541",
+    "naziv": "VREĆE ZA SMEĆE 120l BELLA",
+    "polje": "slika",
+    "staro": "01542.webp",
+    "novo": "01541.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "sifra",
+    "staro": "00422",
+    "novo": "01542"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "vpc",
+    "staro": "0,77",
+    "novo": "2,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "mpc",
+    "staro": "0,90",
+    "novo": "3,40"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "pakovanje",
+    "staro": "1/10",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "slika",
+    "staro": "00422.webp",
+    "novo": "01542.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01542",
+    "naziv": "VREĆE ZA SMEĆE 150l SA VEZICOM LILY",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00421",
+    "novo": "00422"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 40l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "1,02",
+    "novo": "0,77"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "1,20",
+    "novo": "0,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00422",
+    "naziv": "VREĆE ZA SMEĆE 40l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00421.webp",
+    "novo": "00422.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00420",
+    "novo": "00421"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 70l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "1,49",
+    "novo": "1,02"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "1,75",
+    "novo": "1,20"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00421",
+    "naziv": "VREĆE ZA SMEĆE 70l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00420.webp",
+    "novo": "00421.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00419",
+    "novo": "00420"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "novo": "VREĆE ZA SMEĆE 120l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "1,92",
+    "novo": "1,49"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "2,25",
+    "novo": "1,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00420",
+    "naziv": "VREĆE ZA SMEĆE 120l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00419.webp",
+    "novo": "00420.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "sifra",
+    "staro": "00603",
+    "novo": "00419"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 40L",
+    "novo": "VREĆE ZA SMEĆE 150l 10/1 NAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "vpc",
+    "staro": "0,77",
+    "novo": "1,92"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "mpc",
+    "staro": "0,90",
+    "novo": "2,25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "pakovanje",
+    "staro": "1/25",
+    "novo": "1/10"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "slika",
+    "staro": "00603.webp",
+    "novo": "00419.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00419",
+    "naziv": "VREĆE ZA SMEĆE 150l 10/1 NAR",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "sifra",
+    "staro": "00600",
+    "novo": "00603"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 70L",
+    "novo": "VREĆE ZA SMEĆE SARA 40L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "vpc",
+    "staro": "1,37",
+    "novo": "0,77"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "mpc",
+    "staro": "1,60",
+    "novo": "0,90"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00603",
+    "naziv": "VREĆE ZA SMEĆE SARA 40L",
+    "polje": "slika",
+    "staro": "00600.webp",
+    "novo": "00603.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "sifra",
+    "staro": "00601",
+    "novo": "00600"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 120L",
+    "novo": "VREĆE ZA SMEĆE SARA 70L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "vpc",
+    "staro": "2,09",
+    "novo": "1,37"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "mpc",
+    "staro": "2,45",
+    "novo": "1,60"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "slika",
+    "staro": "00601.webp",
+    "novo": "00600.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00600",
+    "naziv": "VREĆE ZA SMEĆE SARA 70L",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "sifra",
+    "staro": "00602",
+    "novo": "00601"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "naziv",
+    "staro": "VREĆE ZA SMEĆE SARA 150L",
+    "novo": "VREĆE ZA SMEĆE SARA 120L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "vpc",
+    "staro": "2,39",
+    "novo": "2,09"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "mpc",
+    "staro": "2,80",
+    "novo": "2,45"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "pakovanje",
+    "staro": "1/15",
+    "novo": "1/25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "slika",
+    "staro": "00602.webp",
+    "novo": "00601.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00601",
+    "naziv": "VREĆE ZA SMEĆE SARA 120L",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "sifra",
+    "staro": "00249",
+    "novo": "00602"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "naziv",
+    "staro": "KESA PE SREDNJA BIJELA 500/1",
+    "novo": "VREĆE ZA SMEĆE SARA 150L"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "vpc",
+    "staro": "13,80",
+    "novo": "2,39"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "mpc",
+    "staro": "16,15",
+    "novo": "2,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "slika",
+    "staro": "00249.webp",
+    "novo": "00602.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00602",
+    "naziv": "VREĆE ZA SMEĆE SARA 150L",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "sifra",
+    "staro": "00247",
+    "novo": "00249"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "naziv",
+    "staro": "KESA PE MALA ŽUTA 1000/1",
+    "novo": "KESA PE SREDNJA BIJELA 500/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "vpc",
+    "staro": "12,60",
+    "novo": "13,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "mpc",
+    "staro": "14,75",
+    "novo": "16,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "slika",
+    "staro": "00247.webp",
+    "novo": "00249.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00249",
+    "naziv": "KESA PE SREDNJA BIJELA 500/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "sifra",
+    "staro": "00248",
+    "novo": "00247"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "naziv",
+    "staro": "KESA PE VELIKA ZELENA 500/1",
+    "novo": "KESA PE MALA ŽUTA 1000/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "vpc",
+    "staro": "15,98",
+    "novo": "12,60"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "mpc",
+    "staro": "18,70",
+    "novo": "14,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00247",
+    "naziv": "KESA PE MALA ŽUTA 1000/1",
+    "polje": "slika",
+    "staro": "00248.webp",
+    "novo": "00247.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "sifra",
+    "staro": "00442",
+    "novo": "00248"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "naziv",
+    "staro": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "novo": "KESA PE VELIKA ZELENA 500/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "vpc",
+    "staro": "0,94",
+    "novo": "15,98"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "mpc",
+    "staro": "1,10",
+    "novo": "18,70"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "slika",
+    "staro": "00442.webp",
+    "novo": "00248.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Ostalo"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00248",
+    "naziv": "KESA PE VELIKA ZELENA 500/1",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00442",
+    "naziv": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "polje": "sifra",
+    "staro": "00441",
+    "novo": "00442"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00442",
+    "naziv": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "polje": "naziv",
+    "staro": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "novo": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00442",
+    "naziv": "ZASTAVA LJILJANI 30x45cm NA ŠTAPU",
+    "polje": "slika",
+    "staro": "00441.webp",
+    "novo": "00442.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "sifra",
+    "staro": "02070",
+    "novo": "00441"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "naziv",
+    "staro": "KARTE - DRUŠTVENA IGRA",
+    "novo": "ZASTAVA BiH 30x45cm NA ŠTAPU"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "vpc",
+    "staro": "0,98",
+    "novo": "0,94"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "mpc",
+    "staro": "1,15",
+    "novo": "1,10"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00441",
+    "naziv": "ZASTAVA BiH 30x45cm NA ŠTAPU",
+    "polje": "slika",
+    "staro": "02070.webp",
+    "novo": "00441.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "sifra",
+    "staro": "00886",
+    "novo": "02070"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "naziv",
+    "staro": "UNO KARTE 1",
+    "novo": "KARTE - DRUŠTVENA IGRA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "vpc",
+    "staro": "1,41",
+    "novo": "0,98"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "mpc",
+    "staro": "1,65",
+    "novo": "1,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "slika",
+    "staro": "00886.webp",
+    "novo": "02070.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02070",
+    "naziv": "KARTE - DRUŠTVENA IGRA",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "sifra",
+    "staro": "00910",
+    "novo": "00886"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "naziv",
+    "staro": "SPINER IGRAČKA",
+    "novo": "UNO KARTE 1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "vpc",
+    "staro": "3,84",
+    "novo": "1,41"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "mpc",
+    "staro": "4,50",
+    "novo": "1,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "slika",
+    "staro": "00910.webp",
+    "novo": "00886.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00886",
+    "naziv": "UNO KARTE 1",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "sifra",
+    "staro": "00471",
+    "novo": "00910"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "naziv",
+    "staro": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "novo": "SPINER IGRAČKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "vpc",
+    "staro": "8,42",
+    "novo": "3,84"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "mpc",
+    "staro": "9,85",
+    "novo": "4,50"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "slika",
+    "staro": "00471.webp",
+    "novo": "00910.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "grupa",
+    "staro": "Ostalo",
+    "novo": "Dječiji kutak"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00910",
+    "naziv": "SPINER IGRAČKA",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00471",
+    "naziv": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "polje": "sifra",
+    "staro": "00472",
+    "novo": "00471"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00471",
+    "naziv": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "polje": "naziv",
+    "staro": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "novo": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00471",
+    "naziv": "KIŠOBRAN REFLEKTOR PLASTIČNA DRŠKA",
+    "polje": "slika",
+    "staro": "00472.webp",
+    "novo": "00471.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "sifra",
+    "staro": "00698",
+    "novo": "00472"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "naziv",
+    "staro": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "novo": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "vpc",
+    "staro": "16,02",
+    "novo": "8,42"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "mpc",
+    "staro": "18,75",
+    "novo": "9,85"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00472",
+    "naziv": "KIŠOBRAN AUTOMATSKI DRVENA DRŠKA",
+    "polje": "slika",
+    "staro": "00698.webp",
+    "novo": "00472.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "sifra",
+    "staro": "T332",
+    "novo": "00698"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "naziv",
+    "staro": "TORBICA MUŠKA",
+    "novo": "STOLICA SKLOPIVA ŽUTO/CRNO"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "vpc",
+    "staro": "4,05",
+    "novo": "16,02"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "mpc",
+    "staro": "4,75",
+    "novo": "18,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "slika",
+    "staro": "T332.webp",
+    "novo": "00698.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00698",
+    "naziv": "STOLICA SKLOPIVA ŽUTO/CRNO",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Ostalo"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "sifra",
+    "staro": "00638",
+    "novo": "T332"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "naziv",
+    "staro": "SIGNAL 100ml PASTA ZA ZUBE",
+    "novo": "TORBICA MUŠKA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "vpc",
+    "staro": "1,54",
+    "novo": "4,05"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "mpc",
+    "staro": "1,80",
+    "novo": "4,75"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "slika",
+    "staro": "00638.webp",
+    "novo": "T332.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T332",
+    "naziv": "TORBICA MUŠKA",
+    "polje": "grupa",
+    "staro": "Hemija/Higijena",
+    "novo": "Dječiji kutak"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "sifra",
+    "staro": "00637",
+    "novo": "00638"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "naziv",
+    "staro": "SIGNAL 50ml PASTA ZA ZUBE",
+    "novo": "SIGNAL 100ml PASTA ZA ZUBE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "vpc",
+    "staro": "0,98",
+    "novo": "1,54"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "mpc",
+    "staro": "1,15",
+    "novo": "1,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00638",
+    "naziv": "SIGNAL 100ml PASTA ZA ZUBE",
+    "polje": "slika",
+    "staro": "00637.webp",
+    "novo": "00638.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "sifra",
+    "staro": "00204",
+    "novo": "00637"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "naziv",
+    "staro": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "novo": "SIGNAL 50ml PASTA ZA ZUBE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "vpc",
+    "staro": "5,64",
+    "novo": "0,98"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "mpc",
+    "staro": "6,60",
+    "novo": "1,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "slika",
+    "staro": "00204.webp",
+    "novo": "00637.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00637",
+    "naziv": "SIGNAL 50ml PASTA ZA ZUBE",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "sifra",
+    "staro": "00866",
+    "novo": "00204"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "naziv",
+    "staro": "PARFEM MAX INTENSE 20ml SORTO",
+    "novo": "ČETKICA ZA ZUBE 12/1 MR.STAR"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "vpc",
+    "staro": "4,87",
+    "novo": "5,64"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "mpc",
+    "staro": "5,70",
+    "novo": "6,60"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "slika",
+    "staro": "00866.webp",
+    "novo": "00204.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00204",
+    "naziv": "ČETKICA ZA ZUBE 12/1 MR.STAR",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "sifra",
+    "staro": "00869",
+    "novo": "00866"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "naziv",
+    "staro": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "novo": "PARFEM MAX INTENSE 20ml SORTO"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "vpc",
+    "staro": "13,89",
+    "novo": "4,87"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "mpc",
+    "staro": "16,25",
+    "novo": "5,70"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "slika",
+    "staro": "00869.1.webp",
+    "novo": "00866.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00866",
+    "naziv": "PARFEM MAX INTENSE 20ml SORTO",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "sifra",
+    "staro": "T330",
+    "novo": "00869"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "naziv",
+    "staro": "ELEKTRIČNI BRIJAČ",
+    "novo": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "vpc",
+    "staro": "10,80",
+    "novo": "13,89"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "mpc",
+    "staro": "12,65",
+    "novo": "16,25"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "slika",
+    "staro": "T330.webp",
+    "novo": "00869.1.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00869",
+    "naziv": "BRIJAČ GILLETE PLAVI 3 OŠTRICE 10/1",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "sifra",
+    "staro": "00823",
+    "novo": "T330"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "naziv",
+    "staro": "LABELO ZA USNE 36/1 KARTELA",
+    "novo": "ELEKTRIČNI BRIJAČ"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "vpc",
+    "staro": "15,38",
+    "novo": "10,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "mpc",
+    "staro": "18,00",
+    "novo": "12,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "slika",
+    "staro": "00823.webp",
+    "novo": "T330.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "T330",
+    "naziv": "ELEKTRIČNI BRIJAČ",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "sifra",
+    "staro": "01209",
+    "novo": "00823"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "naziv",
+    "staro": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "novo": "LABELO ZA USNE 36/1 KARTELA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "vpc",
+    "staro": "0,68",
+    "novo": "15,38"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "mpc",
+    "staro": "0,80",
+    "novo": "18,00"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "slika",
+    "staro": "01209.webp",
+    "novo": "00823.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00823",
+    "naziv": "LABELO ZA USNE 36/1 KARTELA",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "sifra",
+    "staro": "00476",
+    "novo": "01209"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "naziv",
+    "staro": "GEOMETRIJSKI SET 4/1",
+    "novo": "ŠTAPIĆI ZA UŠI 100/1 LALIN"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "vpc",
+    "staro": "2,09",
+    "novo": "0,68"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "mpc",
+    "staro": "2,45",
+    "novo": "0,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "pakovanje",
+    "staro": "1/4",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "slika",
+    "staro": "00476.webp",
+    "novo": "01209.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "grupa",
+    "staro": "Dječiji kutak",
+    "novo": "Hemija/Higijena"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01209",
+    "naziv": "ŠTAPIĆI ZA UŠI 100/1 LALIN",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "sifra",
+    "staro": "00666",
+    "novo": "00476"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "naziv",
+    "staro": "KIST 20cm 6/1 SET",
+    "novo": "GEOMETRIJSKI SET 4/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "vpc",
+    "staro": "1,88",
+    "novo": "2,09"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "mpc",
+    "staro": "2,20",
+    "novo": "2,45"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "pakovanje",
+    "staro": "1/6",
+    "novo": "1/4"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "slika",
+    "staro": "00666.webp",
+    "novo": "00476.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00476",
+    "naziv": "GEOMETRIJSKI SET 4/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "sifra",
+    "staro": "00673",
+    "novo": "00666"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "naziv",
+    "staro": "DRVENE BOJICE 17_5cm 18/1",
+    "novo": "KIST 20cm 6/1 SET"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "vpc",
+    "staro": "3,54",
+    "novo": "1,88"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "mpc",
+    "staro": "4,15",
+    "novo": "2,20"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "pakovanje",
+    "staro": "1/18",
+    "novo": "1/6"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00666",
+    "naziv": "KIST 20cm 6/1 SET",
+    "polje": "slika",
+    "staro": "00673.webp",
+    "novo": "00666.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "sifra",
+    "staro": "01841",
+    "novo": "00673"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "naziv",
+    "staro": "Tečno ljepilo 1/1 WENNUO",
+    "novo": "DRVENE BOJICE 17_5cm 18/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "vpc",
+    "staro": "0,85",
+    "novo": "3,54"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "mpc",
+    "staro": "1,00",
+    "novo": "4,15"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/18"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00673",
+    "naziv": "DRVENE BOJICE 17_5cm 18/1",
+    "polje": "slika",
+    "staro": "01841.webp",
+    "novo": "00673.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "sifra",
+    "staro": "01714",
+    "novo": "01841"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "naziv",
+    "staro": "ŠILJALO CLASSIC",
+    "novo": "Tečno ljepilo 1/1 WENNUO"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "vpc",
+    "staro": "0,30",
+    "novo": "0,85"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "mpc",
+    "staro": "0,35",
+    "novo": "1,00"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "slika",
+    "staro": "01714.webp",
+    "novo": "01841.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01841",
+    "naziv": "Tečno ljepilo 1/1 WENNUO",
+    "polje": "katalog_krajina",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "sifra",
+    "staro": "00680",
+    "novo": "01714"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "naziv",
+    "staro": "SELOTEJP TRAKA 12/1",
+    "novo": "ŠILJALO CLASSIC"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "vpc",
+    "staro": "3,11",
+    "novo": "0,30"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "mpc",
+    "staro": "3,65",
+    "novo": "0,35"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "pakovanje",
+    "staro": "1/12",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "slika",
+    "staro": "00680.webp",
+    "novo": "01714.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01714",
+    "naziv": "ŠILJALO CLASSIC",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "sifra",
+    "staro": "01864",
+    "novo": "00680"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "naziv",
+    "staro": "VOŠTANE BOJICE 12/1",
+    "novo": "SELOTEJP TRAKA 12/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "vpc",
+    "staro": "1,20",
+    "novo": "3,11"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "mpc",
+    "staro": "1,40",
+    "novo": "3,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "pakovanje",
+    "staro": "",
+    "novo": "1/12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "slika",
+    "staro": "01864.webp",
+    "novo": "00680.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "00680",
+    "naziv": "SELOTEJP TRAKA 12/1",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "sifra",
+    "staro": "20029",
+    "novo": "01864"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "novo": "VOŠTANE BOJICE 12/1"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "vpc",
+    "staro": "1,53",
+    "novo": "1,20"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "mpc",
+    "staro": "1,80",
+    "novo": "1,40"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "slika",
+    "staro": "20029.webp",
+    "novo": "01864.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "01864",
+    "naziv": "VOŠTANE BOJICE 12/1",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20029",
+    "naziv": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "polje": "sifra",
+    "staro": "20030",
+    "novo": "20029"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20029",
+    "naziv": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "polje": "naziv",
+    "staro": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "novo": "STIKERI ZA DJECU SMILE PAHULJICE STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20029",
+    "naziv": "STIKERI ZA DJECU SMILE PAHULJICE STICKY",
+    "polje": "slika",
+    "staro": "20030.webp",
+    "novo": "20029.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "sifra",
+    "staro": "02040",
+    "novo": "20030"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "naziv",
+    "staro": "PUZLE 22x32",
+    "novo": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "vpc",
+    "staro": "3,12",
+    "novo": "1,53"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "mpc",
+    "staro": "3,65",
+    "novo": "1,80"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "20030",
+    "naziv": "STIKERI ZA DJECU SMILE DJED MRAZ STICKY",
+    "polje": "slika",
+    "staro": "02040.webp",
+    "novo": "20030.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "sifra",
+    "staro": "00094",
+    "novo": "02040"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "naziv",
+    "staro": "Vrećica za paketiće 35x55 velika DJED MRAZ",
+    "novo": "PUZLE 22x32"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "vpc",
+    "staro": "0,25",
+    "novo": "3,12"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "mpc",
+    "staro": "0,30",
+    "novo": "3,65"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "pakovanje",
+    "staro": "1/50",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "slika",
+    "staro": "00094.webp",
+    "novo": "02040.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "slika",
+    "staro": "",
+    "novo": "02075.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:29",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "slika",
+    "staro": "",
+    "novo": "02076.webp"
+  },
+  {
+    "vrijeme": "2026-04-21 15:30",
+    "sifra": "02076",
+    "naziv": "UKRASNA KESA MALA",
+    "polje": "oznaka",
+    "staro": "",
+    "novo": "n"
+  },
+  {
+    "vrijeme": "2026-04-21 15:30",
+    "sifra": "02075",
+    "naziv": "UKRASNA KESA VELIKA",
+    "polje": "oznaka",
+    "staro": "",
+    "novo": "n"
   }
 ]
