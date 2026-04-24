@@ -6,7 +6,7 @@
     "mpc": "1,65",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": "1",
+    "redoslijed": 1,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -1191,11 +1191,11 @@
     "mpc": "2,45",
     "pakovanje": "1/36",
     "grupa": "Hemija/Higijena",
-    "redoslijed": 80,
+    "redoslijed": "80",
     "oznaka": "AKCIJA",
-    "akcija_postotak": "20",
+    "akcija_postotak": "30",
     "slika": "00890n.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "29815430a16d4aa9a443b408d11c4f83",
     "katalog_krajina": "DA"
   },
@@ -1208,9 +1208,9 @@
     "grupa": "Hemija/Higijena",
     "redoslijed": 81,
     "oznaka": "AKCIJA",
-    "akcija_postotak": "20",
+    "akcija_postotak": "30",
     "slika": "00891n.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "b94eedd24b2b49aaa2d63ad569433ccf",
     "katalog_krajina": "DA"
   },
@@ -2215,9 +2215,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00527.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "4cbea26ba3d148ac8a886055fbbc2e4b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00325",
@@ -9355,9 +9355,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00698.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "7276539eea4d4e5db53aaefa9e3d2fdf",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T332",
