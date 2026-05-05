@@ -646,9 +646,9 @@
   },
   {
     "sifra": "01",
-    "naziv": "HLJEB BIJELI 300g",
-    "vpc": "1,32",
-    "mpc": "1,55",
+    "naziv": "VEKNA BIJELA 240g",
+    "vpc": "1,05",
+    "mpc": "1,25",
     "pakovanje": "",
     "redoslijed": 44,
     "oznaka": "",
@@ -661,9 +661,9 @@
   },
   {
     "sifra": "02",
-    "naziv": "HLJEB- KRUH REZANI 300g",
-    "vpc": "1,44",
-    "mpc": "1,70",
+    "naziv": "VEKNA REZANA 240g",
+    "vpc": "1,17",
+    "mpc": "1,40",
     "pakovanje": "",
     "grupa": "Pekarski asortiman",
     "redoslijed": 45,
@@ -685,24 +685,24 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "23.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "ae97525d29b54e0691217f659a5e948e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "12",
-    "naziv": "HLJEB ZVIJEZDA 300g",
-    "vpc": "1,32",
-    "mpc": "1,55",
+    "naziv": "ZVIJEZDA 240g",
+    "vpc": "1,05",
+    "mpc": "1,25",
     "pakovanje": "",
     "grupa": "Pekarski asortiman",
     "redoslijed": 47,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "12.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "5e3aa152d47d414ca4cf64eb723cf8b7",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "13",
@@ -4330,7 +4330,7 @@
     "akcija_postotak": "",
     "slika": "01643.webp",
     "grupa": "Slatki program",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "katalog_krajina": "DA",
     "uid": "a1113eea616b48ac94d82bc5cb2878cf"
   },
@@ -5545,9 +5545,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01022.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "60ed9725eac44d1fa02f99405e2cb21e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00082",
@@ -5665,7 +5665,7 @@
     "akcija_postotak": "",
     "slika": "01102.webp",
     "grupa": "Slatki program",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "katalog_krajina": "NE",
     "uid": "82dc088e6aaa4011b11514c8c2e656be"
   },
@@ -5680,7 +5680,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01049.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "523575930387404299ab7c64a93a3773",
     "katalog_krajina": "NE"
   },
