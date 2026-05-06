@@ -6,7 +6,7 @@
     "mpc": "1,80",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": 1,
+    "redoslijed": "1",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -1266,7 +1266,7 @@
     "mpc": "9,50",
     "pakovanje": "",
     "grupa": "Candy",
-    "redoslijed": "85",
+    "redoslijed": 85,
     "oznaka": "AKCIJA",
     "akcija_postotak": "57,90",
     "slika": "01134.webp",
@@ -2485,7 +2485,7 @@
     "akcija_postotak": "",
     "slika": "00650.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "8c9157d245844cd59986750768eab3d1"
   },
@@ -3595,9 +3595,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02161.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "a06af75b809b405ab79205e3b99e401e",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02157",
@@ -3790,7 +3790,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00101.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "6717989059584943803f2f97ece41b07",
     "katalog_krajina": "DA"
   },
@@ -5016,11 +5016,11 @@
     "mpc": "2,75",
     "pakovanje": "1/12",
     "grupa": "Candy",
-    "redoslijed": 335,
+    "redoslijed": "335",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00407.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "d27f904c83b946d0924d528b3c163aa9",
     "katalog_krajina": "DA"
   },
@@ -5710,9 +5710,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00047.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "34755c6521d74b2abd4f082d7657721a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01770",
@@ -7600,7 +7600,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00632.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "8fdaa0ff957a43f1bc592dc292a34c39",
     "katalog_krajina": "DA"
   },
