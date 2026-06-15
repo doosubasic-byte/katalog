@@ -1015,7 +1015,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "104.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "91589a61510f448cb6bb18cb51c0cff8",
     "katalog_krajina": "DA"
   },
@@ -1135,7 +1135,7 @@
     "akcija_postotak": "",
     "slika": "01597.webp",
     "grupa": "Dječiji kutak",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "304a035b0f2b48818fa21aab9ca73d08"
   },
@@ -1757,45 +1757,45 @@
   {
     "sifra": "02148",
     "naziv": "VREĆICE ZA DOMAĆINSTVO 2L UKUS 20/1",
-    "vpc": "0,59",
-    "mpc": "0,70",
+    "vpc": "0,64",
+    "mpc": "0,75",
     "pakovanje": "1/100",
     "grupa": "Ostalo Subašić",
     "redoslijed": 118,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02148.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "7f8db3f0279d49148a3d0e9c85d9c15d",
     "katalog_krajina": "DA"
   },
   {
     "sifra": "02149",
     "naziv": "VREĆICE ZA DOMAĆINSTVO 3L UKUS 20/1",
-    "vpc": "0,59",
-    "mpc": "0,70",
+    "vpc": "0,64",
+    "mpc": "0,75",
     "pakovanje": "1/100",
     "grupa": "Ostalo Subašić",
     "redoslijed": 119,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02149.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "f33977103118468fb0beab0c05b410de",
     "katalog_krajina": "DA"
   },
   {
     "sifra": "02150",
     "naziv": "VREĆICE ZA DOMAĆINSTVO 4L UKUS 20/1",
-    "vpc": "0,59",
-    "mpc": "0,70",
+    "vpc": "0,64",
+    "mpc": "0,75",
     "pakovanje": "1/100",
     "grupa": "Ostalo Subašić",
     "redoslijed": 120,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02150.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "4cfc2ce20b4844feba61ea28bec318e5",
     "katalog_krajina": "DA"
   },
@@ -2575,7 +2575,7 @@
     "akcija_postotak": "",
     "slika": "00649.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "b369e3885b374a15a34fe37292163d2a"
   },
@@ -2590,7 +2590,7 @@
     "akcija_postotak": "",
     "slika": "00650.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "8c9157d245844cd59986750768eab3d1"
   },
@@ -3340,7 +3340,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00493.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "8941d598bc4a4fbaaba6266071cc91ae",
     "katalog_krajina": "DA"
   },
@@ -3715,9 +3715,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00868.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "6b62944153e64517b22f7e7872c6ffde",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02158",
@@ -4532,8 +4532,8 @@
   {
     "sifra": "00507",
     "naziv": "KEKS MAGIC DUO 650g DR. GERARD",
-    "vpc": "5,55",
-    "mpc": "6,50",
+    "vpc": "5,77",
+    "mpc": "6,75",
     "pakovanje": "",
     "grupa": "Slatki program",
     "redoslijed": 303,
@@ -4840,7 +4840,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00959.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "4846fdf32a494590b97634fb1efa2d82",
     "katalog_krajina": "DA"
   },
@@ -5605,7 +5605,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01708.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a5a5ea27e55e40d9b0d59201f35dbe11",
     "katalog_krajina": "NE"
   },
@@ -6865,9 +6865,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00024.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "469b9defac5b436a9e2421ed47f6afd8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00025",
@@ -9055,7 +9055,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01006.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a651be4f922540438f15c4cc428ad2b4",
     "katalog_krajina": "DA"
   },
@@ -9115,9 +9115,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02069.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "b829fedc780944deb298bee446ffa041",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02068",
