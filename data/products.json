@@ -6,7 +6,7 @@
     "mpc": "1,80",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": 1,
+    "redoslijed": "1",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -1105,7 +1105,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "81m.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "1a6c500b95ae489f98a61e73f05c7dde",
     "katalog_krajina": "DA"
   },
@@ -4480,7 +4480,7 @@
     "akcija_postotak": "",
     "slika": "01643.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "a1113eea616b48ac94d82bc5cb2878cf"
   },
@@ -4555,7 +4555,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00485.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "6094c97d3f9f4ffe83730d3a1d6779f2",
     "katalog_krajina": "DA"
   },
@@ -7896,7 +7896,7 @@
     "mpc": "1,15",
     "pakovanje": "",
     "redoslijed": 527,
-    "oznaka": "",
+    "oznaka": "n",
     "akcija_postotak": "",
     "slika": "01906.webp",
     "grupa": "Hemija/Higijena",
@@ -8215,9 +8215,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "T312.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "484dd7d03a3b48a3b1cacb01ae7b73ab",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T333",
@@ -9535,9 +9535,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00090.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "fa6213693e014c7f8465e1cb75b06aa6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00444",
@@ -9741,7 +9741,7 @@
     "mpc": "3,40",
     "pakovanje": "",
     "grupa": "Ostalo",
-    "redoslijed": "650",
+    "redoslijed": 650,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01542.webp",
@@ -9927,7 +9927,7 @@
     "slika": "00442.webp",
     "aktivno": "NE",
     "uid": "409cd7a7752846f6a084ffdd6a97ab5f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00441",
@@ -9942,7 +9942,7 @@
     "slika": "00441.webp",
     "aktivno": "NE",
     "uid": "ef79e54a8318423d8c67ce8feab38a6f",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02070",
