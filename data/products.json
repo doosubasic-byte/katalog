@@ -6,7 +6,7 @@
     "mpc": "1,80",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": "1",
+    "redoslijed": 1,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -1150,7 +1150,7 @@
     "akcija_postotak": "",
     "slika": "01598.webp",
     "grupa": "Dječiji kutak",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "e75f025b4ff4437a9d7bbc0d4aa56a45"
   },
@@ -2305,9 +2305,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01317.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "861716ea12784b4cbdc59be03bd4bf9b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01248",
@@ -2605,7 +2605,7 @@
     "akcija_postotak": "",
     "slika": "00651.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "f4c753416c1544a08ab08a06eabd8843"
   },
@@ -2635,7 +2635,7 @@
     "akcija_postotak": "",
     "slika": "00740.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "703e034db6984232b142a8cfd10d348e"
   },
@@ -2650,7 +2650,7 @@
     "akcija_postotak": "",
     "slika": "00741.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "84602c6338fd4be3ac4588bcc0f43e59"
   },
@@ -3745,7 +3745,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02161.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a06af75b809b405ab79205e3b99e401e",
     "katalog_krajina": "NE"
   },
@@ -5590,7 +5590,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00999.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "50f00d9318904c6491f4785a3f84a372",
     "katalog_krajina": "NE"
   },
@@ -6625,9 +6625,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00938.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "9d6588b8cb9e421787b67a24ec12ee5b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02135",
@@ -6670,9 +6670,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00410.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "fbd0bcfb65b84b51b7d89fc16102354a",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00397",
@@ -8050,7 +8050,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00197.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "6928f9fd1c9f4801b8ffe8e015708c47",
     "katalog_krajina": "NE"
   },
@@ -9415,7 +9415,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00434.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "15392b81c1de46ea9c14f5637ef63607",
     "katalog_krajina": "DA"
   },
@@ -9475,7 +9475,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00452.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "35f6f482c98347ff9543f7fdddcaea43",
     "katalog_krajina": "NE"
   },
@@ -9550,9 +9550,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00444.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "6477ffdcdcff4bfa871b369f9b3b3149",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02075",
@@ -9560,7 +9560,7 @@
     "vpc": "1,07",
     "mpc": "1,25",
     "pakovanje": "1/12",
-    "redoslijed": 638,
+    "redoslijed": "638",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02075.webp",
