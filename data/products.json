@@ -6,7 +6,7 @@
     "mpc": "1,80",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": "1",
+    "redoslijed": 1,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -940,9 +940,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00010.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "cf4edcd7a9c0454c93882ae3eb25d7c4",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00480",
@@ -957,7 +957,7 @@
     "slika": "00480.webp",
     "aktivno": "NE",
     "uid": "f3548b3ace514d1898eb227adcc08e4e",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00481",
@@ -970,9 +970,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00481.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "ae06ec29ec904b26993ec396c4d301d3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01383",
@@ -985,9 +985,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01383.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "7d046c4f4330468b94301ce3797c523c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01384",
@@ -1002,7 +1002,7 @@
     "slika": "01384.webp",
     "aktivno": "NE",
     "uid": "e1629149c94b4223b5062dfaec0c55d3",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "104",
@@ -1240,7 +1240,7 @@
     "oznaka": "1+1",
     "akcija_postotak": "",
     "slika": "00581.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a91cbd3df2624434a4f2026f20d5977b",
     "katalog_krajina": "DA"
   },
@@ -3741,11 +3741,11 @@
     "mpc": "0,50",
     "pakovanje": "1/30",
     "grupa": "Slane grickalice",
-    "redoslijed": 250,
+    "redoslijed": "250",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02161.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a06af75b809b405ab79205e3b99e401e",
     "katalog_krajina": "NE"
   },
@@ -4045,7 +4045,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00721.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "5b3e09359e1b4857a3522bd108cb0802",
     "katalog_krajina": "DA"
   },
@@ -5515,9 +5515,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00086.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "7276a73f32b542cba14ad358b44c6353",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00408",
@@ -5622,7 +5622,7 @@
     "slika": "01708.webp",
     "aktivno": "DA",
     "uid": "a5a5ea27e55e40d9b0d59201f35dbe11",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "02064",
@@ -8050,7 +8050,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00197.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "6928f9fd1c9f4801b8ffe8e015708c47",
     "katalog_krajina": "NE"
   },
@@ -8530,7 +8530,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00996.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "fd964da949db44caa45121dbe7b8d2cc",
     "katalog_krajina": "DA"
   },
