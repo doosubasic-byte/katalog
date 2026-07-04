@@ -6,7 +6,7 @@
     "mpc": "1,80",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": "1",
+    "redoslijed": 1,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -2980,9 +2980,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00896.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "b452f178d53840bab30e713984e6f506",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00895",
@@ -3025,9 +3025,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00898.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "35d9f88e72e24336936eb07e79716879",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01335",
@@ -3460,9 +3460,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01112.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "64219bf9f59a40ac8f23c90fb79ff148",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00538",
@@ -4135,9 +4135,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00735.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "0ae1ab13c6864b04a82a13b45a997246",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02134",
@@ -4446,13 +4446,13 @@
     "mpc": "14,20",
     "pakovanje": "",
     "grupa": "Candy",
-    "redoslijed": 297,
+    "redoslijed": "297",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01884.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "3814745fce24428da22f8b9e1da01c6b",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01445",
@@ -4481,7 +4481,7 @@
     "slika": "01643.webp",
     "grupa": "Slatki program",
     "aktivno": "NE",
-    "katalog_krajina": "DA",
+    "katalog_krajina": "NE",
     "uid": "a1113eea616b48ac94d82bc5cb2878cf"
   },
   {
@@ -4495,8 +4495,8 @@
     "akcija_postotak": "",
     "slika": "01644.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "214c6ca954034c359652d694fe60e1ff"
   },
   {
@@ -5125,8 +5125,8 @@
     "akcija_postotak": "",
     "slika": "00972.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "8c913b9761a94c88afa14cc367992b9e"
   },
   {
@@ -5200,7 +5200,7 @@
     "akcija_postotak": "",
     "slika": "01991.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "35c5d04078fe41e4b7d4629e1a61615a"
   },
@@ -5215,9 +5215,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00172.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "c3491206d3a248b79b3892a724652baf",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00173",
@@ -5275,9 +5275,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00407.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "d27f904c83b946d0924d528b3c163aa9",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01795",
@@ -5995,7 +5995,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01049.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "523575930387404299ab7c64a93a3773",
     "katalog_krajina": "NE"
   },
@@ -6400,9 +6400,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00243.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "2fc67060fd824f7eb1d19329df01bfab",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00244",
@@ -6415,7 +6415,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00244.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "02787ab193884d64880d04cd04573cd5",
     "katalog_krajina": "DA"
   },
@@ -6475,7 +6475,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00246.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "7dc77fdd2e3542aa92bf3e29c7df0294",
     "katalog_krajina": "DA"
   },
@@ -6730,7 +6730,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01421.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "6145f76c775746b4a11356ddef6fe3f7",
     "katalog_krajina": "DA"
   },
@@ -7911,7 +7911,7 @@
     "mpc": "3,30",
     "pakovanje": "",
     "grupa": "Hemija/Higijena",
-    "redoslijed": "528",
+    "redoslijed": 528,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01617.webp",
@@ -8665,9 +8665,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00418.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "95f934c50f184571a7405f2c9e107026",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00551",
