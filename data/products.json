@@ -496,7 +496,7 @@
   },
   {
     "sifra": "17",
-    "naziv": "KROASAN KAKAO KREM/VANILIJA WOW! 50g",
+    "naziv": "KROASAN KAKAO KREM WOW! 50g",
     "vpc": "0,64",
     "mpc": "0,75",
     "pakovanje": "1/30",
@@ -511,7 +511,7 @@
   },
   {
     "sifra": "59",
-    "naziv": "KROASAN KAKAO KREM WOW! 50g",
+    "naziv": "KROASAN KAKAO KREM/VANILIJA WOW! 50g",
     "vpc": "0,64",
     "mpc": "0,75",
     "pakovanje": "1/30",
@@ -3460,9 +3460,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01112.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "64219bf9f59a40ac8f23c90fb79ff148",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00538",
@@ -3475,9 +3475,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00538.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "88b8106b65604630a5b5b37e60fb4302",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "02179",
@@ -3490,9 +3490,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02179.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "09b5852380594d5787b4c670bb38643d",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00608",
@@ -3505,7 +3505,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00608.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "b59ac4398f6f4e428994c4b53a96a492",
     "katalog_krajina": "DA"
   },
@@ -4150,9 +4150,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02134.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "fbda13783e9d4004ab9b9fb9a6bbeef5",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00490",
@@ -4296,13 +4296,13 @@
     "mpc": "1,50",
     "pakovanje": "1/12",
     "grupa": "Slane grickalice",
-    "redoslijed": 287,
+    "redoslijed": "287",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00883.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "395801db84c44350bf7b97dc6c92a044",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01596",
@@ -4446,13 +4446,13 @@
     "mpc": "14,20",
     "pakovanje": "",
     "grupa": "Candy",
-    "redoslijed": "297",
+    "redoslijed": 297,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01884.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "3814745fce24428da22f8b9e1da01c6b",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "01445",
@@ -5215,9 +5215,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00172.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "c3491206d3a248b79b3892a724652baf",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00173",
@@ -8455,9 +8455,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02113.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "3fa034a0acc343798f53b931ca264835",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02112",
@@ -8485,9 +8485,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02111.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "8d219f4918b64b7291f069c19b37988c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02110",
@@ -9040,9 +9040,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00376.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "1b5dd56358d44b0188293f38feacd4ae",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00990",
