@@ -2200,8 +2200,8 @@
     "akcija_postotak": "",
     "slika": "00863.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "b882253573fc493fa01aa5a71e311ca9"
   },
   {
@@ -2215,8 +2215,8 @@
     "akcija_postotak": "",
     "slika": "00867.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "17299f212aed46dbb6fd671706048a16"
   },
   {
@@ -2560,8 +2560,8 @@
     "akcija_postotak": "",
     "slika": "00648.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "ba05a0b2238a4a3790e08c1260d807e0"
   },
   {
@@ -2845,9 +2845,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00550.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "4637d706ff214f08acda2a0e5e32bfec",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00184",
@@ -2961,11 +2961,11 @@
     "mpc": "16,80",
     "pakovanje": "",
     "grupa": "Candy",
-    "redoslijed": 198,
+    "redoslijed": "198",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00380.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "5a3070ae19c84702b538a9c7d03497f8",
     "katalog_krajina": "DA"
   },
@@ -3415,9 +3415,9 @@
     "oznaka": "n",
     "akcija_postotak": "",
     "slika": "02021.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "46c5dbf680e445b19c631df1452d9ab5",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01115",
@@ -4296,7 +4296,7 @@
     "mpc": "1,50",
     "pakovanje": "1/12",
     "grupa": "Slane grickalice",
-    "redoslijed": "287",
+    "redoslijed": 287,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00883.webp",
@@ -4615,8 +4615,8 @@
     "akcija_postotak": "",
     "slika": "00064.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "b74148c80486424d88695fdc5e975ab8"
   },
   {
@@ -5140,8 +5140,8 @@
     "akcija_postotak": "",
     "slika": "00973.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "eeeae8261ed34145982039ae3236dc7e"
   },
   {
@@ -5155,8 +5155,8 @@
     "akcija_postotak": "",
     "slika": "00974.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "4fbf956844a244c0b4ad7dbee7fd71c2"
   },
   {
@@ -5170,8 +5170,8 @@
     "akcija_postotak": "",
     "slika": "00975.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "a3cc0f4654d54e1d91e876e1c17897af"
   },
   {
@@ -5185,8 +5185,8 @@
     "akcija_postotak": "",
     "slika": "00977.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "8bff4480f44f4bbcb64c48bed174ca3f"
   },
   {
@@ -6400,9 +6400,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00243.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "2fc67060fd824f7eb1d19329df01bfab",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00244",
@@ -6505,7 +6505,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00235.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "37764e6aaa7d41e1b77611a180452870",
     "katalog_krajina": "DA"
   },
@@ -9115,9 +9115,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01334.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "fa1a22229a2a48a48abe0fce9a383d50",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01653",
@@ -9417,7 +9417,7 @@
     "slika": "00434.webp",
     "aktivno": "NE",
     "uid": "15392b81c1de46ea9c14f5637ef63607",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01261",
@@ -10060,9 +10060,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00638.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "cfe1a93546f54015af36095f409ea4b6",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00637",
