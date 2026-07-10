@@ -6,7 +6,7 @@
     "mpc": "1,80",
     "pakovanje": "1/10",
     "grupa": "Tjestenina",
-    "redoslijed": "1",
+    "redoslijed": 1,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "27.webp",
@@ -5155,8 +5155,8 @@
     "akcija_postotak": "",
     "slika": "00972.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
-    "katalog_krajina": "NE",
+    "aktivno": "DA",
+    "katalog_krajina": "DA",
     "uid": "8c913b9761a94c88afa14cc367992b9e"
   },
   {
@@ -5170,8 +5170,8 @@
     "akcija_postotak": "",
     "slika": "00973.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
-    "katalog_krajina": "NE",
+    "aktivno": "DA",
+    "katalog_krajina": "DA",
     "uid": "eeeae8261ed34145982039ae3236dc7e"
   },
   {
@@ -5185,8 +5185,8 @@
     "akcija_postotak": "",
     "slika": "00974.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
-    "katalog_krajina": "NE",
+    "aktivno": "DA",
+    "katalog_krajina": "DA",
     "uid": "4fbf956844a244c0b4ad7dbee7fd71c2"
   },
   {
@@ -5200,8 +5200,8 @@
     "akcija_postotak": "",
     "slika": "00975.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
-    "katalog_krajina": "NE",
+    "aktivno": "DA",
+    "katalog_krajina": "DA",
     "uid": "a3cc0f4654d54e1d91e876e1c17897af"
   },
   {
@@ -5210,13 +5210,13 @@
     "vpc": "0,85",
     "mpc": "1,00",
     "pakovanje": "1/12",
-    "redoslijed": 348,
+    "redoslijed": "348",
     "oznaka": "n",
     "akcija_postotak": "",
     "slika": "00977.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
-    "katalog_krajina": "NE",
+    "aktivno": "DA",
+    "katalog_krajina": "DA",
     "uid": "8bff4480f44f4bbcb64c48bed174ca3f"
   },
   {
