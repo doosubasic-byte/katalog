@@ -1937,17 +1937,17 @@
   {
     "sifra": "01891",
     "naziv": "SUPA KOKOŠIJA 58g (3+1 GRATIS)",
-    "vpc": "1,71",
-    "mpc": "2,00",
+    "vpc": "2,05",
+    "mpc": "2,40",
     "pakovanje": "1/8",
     "grupa": "Kuhinja/Začini",
     "redoslijed": 130,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01891.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "41f6fba95e1a4998bfc2d40d7abcb26f",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01889",
@@ -1967,17 +1967,17 @@
   {
     "sifra": "01890",
     "naziv": "SUPA GOVEĐA 58g (3+1 GRATIS)",
-    "vpc": "1,71",
-    "mpc": "2,00",
+    "vpc": "2,05",
+    "mpc": "2,40",
     "pakovanje": "1/8",
     "grupa": "Kuhinja/Začini",
     "redoslijed": 132,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01890.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "a73aed0f7c484950a14d7a3e91034e7c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "103",
@@ -2262,7 +2262,7 @@
     "slika": "00240.webp",
     "aktivno": "DA",
     "uid": "f2bbe90f382b45b2a81c26338da75f21",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00254",
@@ -2277,7 +2277,7 @@
     "slika": "00254.webp",
     "aktivno": "DA",
     "uid": "bb01464207874adeabc8e947aeb65041",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00102",
@@ -2292,7 +2292,7 @@
     "slika": "00102.webp",
     "aktivno": "DA",
     "uid": "c765b52d583e477095bf261e108a956c",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "01317",
@@ -2320,9 +2320,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01248.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "0cda493d2e8a4f1cb64861516534f385",
-    "katalog_krajina": ""
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "01318",
@@ -2995,7 +2995,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00380.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "5a3070ae19c84702b538a9c7d03497f8",
     "katalog_krajina": "DA"
   },
@@ -3417,7 +3417,7 @@
     "slika": "00514.webp",
     "aktivno": "NE",
     "uid": "a00e692b9eb04f549a2fd63df3ea2dc4",
-    "katalog_krajina": ""
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "01744",
@@ -3445,9 +3445,9 @@
     "oznaka": "n",
     "akcija_postotak": "",
     "slika": "02021.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "46c5dbf680e445b19c631df1452d9ab5",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "01115",
@@ -3522,7 +3522,7 @@
     "slika": "02179.webp",
     "aktivno": "NE",
     "uid": "09b5852380594d5787b4c670bb38643d",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00608",
@@ -3610,7 +3610,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01671.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "d9ba311b1c8f4b22839665a57d8fa212",
     "katalog_krajina": "DA"
   },
@@ -3625,7 +3625,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01672.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "9d8069ff26ec4c96b2c2763a5ec1e084",
     "katalog_krajina": "DA"
   },
@@ -4270,8 +4270,8 @@
     "akcija_postotak": "",
     "slika": "00007.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
-    "katalog_krajina": "DA",
+    "aktivno": "NE",
+    "katalog_krajina": "NE",
     "uid": "13b5ee2b5b1b4e0bb2605f5cb2d5638b"
   },
   {
@@ -4420,7 +4420,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01138.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "4b3654e2622a47cd89630182de4b9c95",
     "katalog_krajina": "DA"
   },
@@ -4626,11 +4626,11 @@
     "mpc": "5,25",
     "pakovanje": "1/10",
     "grupa": "Slatki program",
-    "redoslijed": 309,
+    "redoslijed": "309",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00489.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "8204457861d24334a96382266bc968c4",
     "katalog_krajina": "DA"
   },
@@ -5210,7 +5210,7 @@
     "vpc": "0,85",
     "mpc": "1,00",
     "pakovanje": "1/12",
-    "redoslijed": "348",
+    "redoslijed": 348,
     "oznaka": "n",
     "akcija_postotak": "",
     "slika": "00977.webp",
@@ -6415,9 +6415,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00052.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "2ab2a82c0d4b4883b5bffb99e329ca4c",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00243",
@@ -9145,9 +9145,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01334.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "fa1a22229a2a48a48abe0fce9a383d50",
-    "katalog_krajina": "NE"
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "01653",
@@ -10150,9 +10150,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00869.1.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "d8e76889ec2d41b1ad8bce2231965f80",
-    "katalog_krajina": "DA"
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T330",
