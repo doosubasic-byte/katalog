@@ -2210,7 +2210,7 @@
     "vpc": "1,19",
     "mpc": "1,40",
     "pakovanje": "1/24",
-    "redoslijed": "148",
+    "redoslijed": 148,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00867.webp",
@@ -2350,7 +2350,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01846.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "9ba772addf6646f9b416f663edd21cd7",
     "katalog_krajina": "DA"
   },
@@ -2395,7 +2395,7 @@
     "akcija_postotak": "",
     "slika": "00793.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "2ea19537f8b440eeac2ad0da545e66f0"
   },
@@ -2832,7 +2832,7 @@
     "slika": "00263.webp",
     "aktivno": "NE",
     "uid": "eb6e0393b9384c78818b319daf95ada3",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00498",
@@ -3400,7 +3400,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00319.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "8522a4f1c8af4412bc4cfeea2776e7a0",
     "katalog_krajina": "DA"
   },
@@ -3966,11 +3966,11 @@
     "mpc": "1,40",
     "pakovanje": "1/2",
     "grupa": "Slane grickalice",
-    "redoslijed": 265,
+    "redoslijed": "265",
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00899.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "88c0ba51703f4fa49921bb0b9aee1e9e",
     "katalog_krajina": "DA"
   },
@@ -6355,7 +6355,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00048.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "bd0752453f474b7189adaf389f7bb931",
     "katalog_krajina": "NE"
   },
@@ -8065,7 +8065,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00762.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "d5d712a4814f4171b198be2454b5ed2a",
     "katalog_krajina": "DA"
   },
@@ -8425,9 +8425,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02081.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "60df03f4752548719484c7f3cfb912ee",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02080",
@@ -8440,9 +8440,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02080.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "763ee8220fcd4d7c89ab7fc2af4be94c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02079",
