@@ -1915,9 +1915,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01618.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "7f3bf873e8164e38aba5f4c7b1ca0f0c",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00144",
@@ -2080,7 +2080,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00907.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "9b4f93943ddc42f7be4c9fccab63c48b",
     "katalog_krajina": "NE"
   },
@@ -2095,7 +2095,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00519.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "50e39829b5ff461b84bd327e12d262b5",
     "katalog_krajina": "NE"
   },
@@ -4345,7 +4345,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00056.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "57b70bf07c254aa28829084c5c6c4779",
     "katalog_krajina": "NE"
   },
@@ -5665,7 +5665,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00999.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "50f00d9318904c6491f4785a3f84a372",
     "katalog_krajina": "NE"
   },
@@ -6160,9 +6160,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00960.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "f830c7b42c1d452ea13753aeec2ffc5b",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01224",
@@ -6730,9 +6730,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00409.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "e98541b6b01648e5a27ff8a99dcce9e2",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00410",
@@ -8290,7 +8290,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "T312.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "484dd7d03a3b48a3b1cacb01ae7b73ab",
     "katalog_krajina": "NE"
   },
@@ -9640,7 +9640,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00452.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "35f6f482c98347ff9543f7fdddcaea43",
     "katalog_krajina": "NE"
   },
@@ -9655,7 +9655,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00445.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "66e95bfc04c14f1299dc5c70ef2dc83e",
     "katalog_krajina": "NE"
   },
@@ -9670,9 +9670,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00451.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a70e8c2cd2e247c7969f152f1f4f06de",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01725",
@@ -9685,9 +9685,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01725.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "d41a898a37254cd690d6c4e4ae826e51",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00090",
