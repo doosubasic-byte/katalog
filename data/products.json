@@ -1300,7 +1300,7 @@
     "oznaka": "AKCIJA",
     "akcija_postotak": "30",
     "slika": "00949.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "53c4f672ad01427c9349feea6a68b9c8",
     "katalog_krajina": "DA"
   },
@@ -2350,7 +2350,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01846.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "9ba772addf6646f9b416f663edd21cd7",
     "katalog_krajina": "DA"
   },
@@ -6025,7 +6025,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01043.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "6774539b91be4844a02291940eb4ef20",
     "katalog_krajina": "NE"
   },
