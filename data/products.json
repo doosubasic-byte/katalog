@@ -2905,7 +2905,7 @@
     "akcija_postotak": "",
     "slika": "00942.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "8b363a65840743068058dfc93df1666f"
   },
@@ -4570,7 +4570,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01139.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "82ab203a61c74d8cbebbfe3d1282e7af",
     "katalog_krajina": "DA"
   },
@@ -4660,7 +4660,7 @@
     "akcija_postotak": "",
     "slika": "01644.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "214c6ca954034c359652d694fe60e1ff"
   },
@@ -4690,7 +4690,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00484.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "580a34b986e547ad99696534637b0f1a",
     "katalog_krajina": "DA"
   },
@@ -4702,7 +4702,7 @@
     "pakovanje": "1/12",
     "grupa": "Slatki program",
     "redoslijed": 314,
-    "oznaka": "NOVO",
+    "oznaka": "",
     "akcija_postotak": "",
     "slika": "01800.webp",
     "aktivno": "DA",
@@ -5350,7 +5350,7 @@
     "akcija_postotak": "",
     "slika": "00972.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "8c913b9761a94c88afa14cc367992b9e"
   },
@@ -5365,7 +5365,7 @@
     "akcija_postotak": "",
     "slika": "00973.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "eeeae8261ed34145982039ae3236dc7e"
   },
@@ -5395,7 +5395,7 @@
     "akcija_postotak": "",
     "slika": "00975.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "a3cc0f4654d54e1d91e876e1c17897af"
   },
@@ -6790,7 +6790,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02058.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "2decf11e5db74644912b1b91a9023307",
     "katalog_krajina": "DA"
   },
