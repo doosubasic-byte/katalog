@@ -1255,7 +1255,7 @@
     "oznaka": "1+1",
     "akcija_postotak": "",
     "slika": "00546n.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "18f794e7d4f1418a824cd6c2d7afc8b5",
     "katalog_krajina": "DA"
   },
@@ -2215,7 +2215,7 @@
     "akcija_postotak": "",
     "slika": "00863.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "b882253573fc493fa01aa5a71e311ca9"
   },
@@ -3805,7 +3805,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01673.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "31ae90746d114d729a96b4701bb31f3b",
     "katalog_krajina": "DA"
   },
@@ -4675,7 +4675,7 @@
     "akcija_postotak": "",
     "slika": "01643.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "a1113eea616b48ac94d82bc5cb2878cf"
   },
@@ -4870,7 +4870,7 @@
     "akcija_postotak": "",
     "slika": "00065.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "aeeafc913d62439aa99d05e8d9f8fe5b"
   },
@@ -5740,7 +5740,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00589.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "34e9498eefba4cd68a20754c67b4bf85",
     "katalog_krajina": "NE"
   },
@@ -5890,7 +5890,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01708.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a5a5ea27e55e40d9b0d59201f35dbe11",
     "katalog_krajina": "DA"
   },
@@ -7300,7 +7300,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01386.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "c77a57b8d6a849598083c37016a9947e",
     "katalog_krajina": "NE"
   },
@@ -7382,17 +7382,17 @@
   {
     "sifra": "00997",
     "naziv": "TANJURI BIJELI PVC 20/1 21cm",
-    "vpc": "1,58",
-    "mpc": "1,85",
+    "vpc": "1,71",
+    "mpc": "2,00",
     "pakovanje": "",
     "grupa": "Kuhinja/Začini",
     "redoslijed": 493,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00997.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "ddfd51f5b06a4c72bf52d5cf5f4d8ab1",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00984",
@@ -7450,9 +7450,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00091.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "e6d520112a324ef19a5b51708d670e91",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01019",
@@ -8155,7 +8155,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00554.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "aa5721fc63254263b95286db58aa56b2",
     "katalog_krajina": "DA"
   },
@@ -8500,7 +8500,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "T312.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "484dd7d03a3b48a3b1cacb01ae7b73ab",
     "katalog_krajina": "NE"
   },
@@ -8695,7 +8695,7 @@
     "akcija_postotak": "",
     "slika": "00787.webp",
     "grupa": "Hemija/Higijena",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "5d1ac45b964f4e1f924c66fedc8568b1"
   },
@@ -8740,7 +8740,7 @@
     "akcija_postotak": "",
     "slika": "00790.webp",
     "grupa": "Hemija/Higijena",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "3ca6f7ae418a4f099e71db8cb1e7a8c9"
   },
@@ -8755,7 +8755,7 @@
     "akcija_postotak": "",
     "slika": "00791.webp",
     "grupa": "Hemija/Higijena",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "0883166480b44f2b96f6b70bf20516ce"
   },
@@ -9595,7 +9595,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01006.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a651be4f922540438f15c4cc428ad2b4",
     "katalog_krajina": "DA"
   },
