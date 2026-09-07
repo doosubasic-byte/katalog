@@ -2845,7 +2845,7 @@
     "akcija_postotak": "",
     "slika": "01994.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "93c04b20cff44c0aa4dd093693fd7ead"
   },
@@ -3175,7 +3175,7 @@
     "akcija_postotak": "",
     "slika": "00130.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "katalog_krajina": "DA",
     "uid": "99c56ae8de1b4180837188102034293a"
   },
@@ -3295,7 +3295,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01746.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "12267efc511e4394b0f09566358a646a",
     "katalog_krajina": "DA"
   },
@@ -3355,7 +3355,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00352.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "5ca3d475213e4c3eb35220d37324d05a",
     "katalog_krajina": "DA"
   },
@@ -4600,7 +4600,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01139.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "82ab203a61c74d8cbebbfe3d1282e7af",
     "katalog_krajina": "DA"
   },
@@ -4810,7 +4810,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00486.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "0b06979d875a4d75b4337d3f2fb7f20f",
     "katalog_krajina": "DA"
   },
@@ -4840,7 +4840,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00489.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "8204457861d24334a96382266bc968c4",
     "katalog_krajina": "DA"
   },
@@ -5972,23 +5972,23 @@
   {
     "sifra": "01424",
     "naziv": "BOMBONE ZELENA MENTA 80g BG",
-    "vpc": "0,68",
-    "mpc": "0,80",
+    "vpc": "0,76",
+    "mpc": "0,90",
     "pakovanje": "1/50",
     "grupa": "Candy",
     "redoslijed": 399,
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01424.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "6e26d33ab77c41859ff0370d3067cd42",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "01425",
     "naziv": "BOMBONE BIJELA MENTA 80g",
-    "vpc": "0,68",
-    "mpc": "0,80",
+    "vpc": "0,76",
+    "mpc": "0,90",
     "pakovanje": "1/50",
     "grupa": "Candy",
     "redoslijed": 400,
@@ -6550,7 +6550,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00048.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "bd0752453f474b7189adaf389f7bb931",
     "katalog_krajina": "NE"
   },
@@ -6625,7 +6625,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01941.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "1670a6d8c961407582fa45bf379c0343",
     "katalog_krajina": "DA"
   },
@@ -6745,7 +6745,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00246.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "7dc77fdd2e3542aa92bf3e29c7df0294",
     "katalog_krajina": "DA"
   },
@@ -6760,7 +6760,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00289.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "71ce9f2bfc9442bb8d298ae9832b758d",
     "katalog_krajina": "DA"
   },
@@ -6805,9 +6805,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00133.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "56c16ee6fd0442e4aa95d12687cbc5f8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00140",
@@ -6835,7 +6835,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02058.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "2decf11e5db74644912b1b91a9023307",
     "katalog_krajina": "DA"
   },
@@ -8500,7 +8500,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "T312.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "484dd7d03a3b48a3b1cacb01ae7b73ab",
     "katalog_krajina": "NE"
   },
@@ -9595,7 +9595,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01006.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a651be4f922540438f15c4cc428ad2b4",
     "katalog_krajina": "DA"
   },
@@ -10135,7 +10135,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01542.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "52f89100c02a4a8b9e843897b44c5470",
     "katalog_krajina": "DA"
   },
