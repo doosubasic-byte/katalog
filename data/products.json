@@ -2305,7 +2305,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00102.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "c765b52d583e477095bf261e108a956c",
     "katalog_krajina": "DA"
   },
@@ -3940,7 +3940,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02161.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a06af75b809b405ab79205e3b99e401e",
     "katalog_krajina": "NE"
   },
@@ -3985,9 +3985,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02160.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "f4017914dca74249b0cdf9dd1ad9460d",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "02162",
@@ -4900,7 +4900,7 @@
     "akcija_postotak": "",
     "slika": "00066.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "6cd03293346f42c89a0496060d44df18"
   },
