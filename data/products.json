@@ -3325,7 +3325,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00134.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "756e40f55a914090b8240e86dcd03e33",
     "katalog_krajina": "DA"
   },
@@ -3940,7 +3940,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02161.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a06af75b809b405ab79205e3b99e401e",
     "katalog_krajina": "NE"
   },
@@ -3985,7 +3985,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02160.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "f4017914dca74249b0cdf9dd1ad9460d",
     "katalog_krajina": "NE"
   },
@@ -5560,7 +5560,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00407.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "d27f904c83b946d0924d528b3c163aa9",
     "katalog_krajina": "NE"
   },
@@ -5575,7 +5575,7 @@
     "akcija_postotak": "",
     "slika": "01795.webp",
     "grupa": "Candy",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "katalog_krajina": "DA",
     "uid": "eed799adf7f244c49623b8f11af2bec4"
   },
@@ -6235,7 +6235,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01043.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "6774539b91be4844a02291940eb4ef20",
     "katalog_krajina": "NE"
   },
@@ -6280,7 +6280,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01049.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "523575930387404299ab7c64a93a3773",
     "katalog_krajina": "NE"
   },
