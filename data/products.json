@@ -4690,7 +4690,7 @@
     "akcija_postotak": "",
     "slika": "01643.webp",
     "grupa": "Slatki program",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "katalog_krajina": "DA",
     "uid": "a1113eea616b48ac94d82bc5cb2878cf"
   },
@@ -4705,7 +4705,7 @@
     "akcija_postotak": "",
     "slika": "01644.webp",
     "grupa": "Slatki program",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "katalog_krajina": "DA",
     "uid": "214c6ca954034c359652d694fe60e1ff"
   },
@@ -5755,7 +5755,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00589.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "34e9498eefba4cd68a20754c67b4bf85",
     "katalog_krajina": "NE"
   },
