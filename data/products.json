@@ -805,7 +805,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "98.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "47980adf05924c06928270f68d1e3943",
     "katalog_krajina": "DA"
   },
@@ -4540,7 +4540,7 @@
     "akcija_postotak": "",
     "slika": "00006.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "22b63a63384641feaf49c2f44a137166"
   },
@@ -4630,7 +4630,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01596.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "9b81f232cc0b4538b21ecf5f02bfd9b3",
     "katalog_krajina": "NE"
   },
@@ -5080,7 +5080,7 @@
     "akcija_postotak": "",
     "slika": "01802.webp",
     "grupa": "Slatki program",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "969d1440a054448dab048bc39729fc39"
   },
@@ -5170,7 +5170,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00956.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "9bedc8f5cc51447b86cf250b23971500",
     "katalog_krajina": "DA"
   },
@@ -6010,7 +6010,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01708.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "a5a5ea27e55e40d9b0d59201f35dbe11",
     "katalog_krajina": "DA"
   },
@@ -7000,7 +7000,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01679.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "7faa6251f8964c1aa8fd54751051ce02",
     "katalog_krajina": "NE"
   },
@@ -8545,9 +8545,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00624.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "b5cc20439f994ec4ac100662531ba045",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00435",
@@ -8590,9 +8590,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00437.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "a062d284ad8c4b599507342435032962",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "T347",
@@ -10045,7 +10045,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00451.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a70e8c2cd2e247c7969f152f1f4f06de",
     "katalog_krajina": "NE"
   },
