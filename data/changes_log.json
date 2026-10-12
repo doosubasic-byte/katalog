@@ -1657326,5 +1657326,117 @@
     "polje": "aktivno",
     "staro": "",
     "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-12 08:24",
+    "sifra": "01468",
+    "naziv": "KOCKE ZA POTPALU VATRENKO 1/26",
+    "polje": "naziv",
+    "staro": "KOCKE ZA POTPALU VATRENKO 1/32",
+    "novo": "KOCKE ZA POTPALU VATRENKO 1/26"
+  },
+  {
+    "vrijeme": "2026-10-12 08:24",
+    "sifra": "01468",
+    "naziv": "KOCKE ZA POTPALU VATRENKO 1/26",
+    "polje": "vpc",
+    "staro": "0,94",
+    "novo": "1,153"
+  },
+  {
+    "vrijeme": "2026-10-12 08:24",
+    "sifra": "01468",
+    "naziv": "KOCKE ZA POTPALU VATRENKO 1/26",
+    "polje": "mpc",
+    "staro": "1,10",
+    "novo": "1,35"
+  },
+  {
+    "vrijeme": "2026-10-12 08:24",
+    "sifra": "01468",
+    "naziv": "KOCKE ZA POTPALU VATRENKO 1/26",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:28",
+    "sifra": "02069",
+    "naziv": "Balon 100/1",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:28",
+    "sifra": "02069",
+    "naziv": "Balon 100/1",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:29",
+    "sifra": "02068",
+    "naziv": "Balon s gumom 50/1",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:30",
+    "sifra": "01725",
+    "naziv": "PUHALICA LOPTICA srednja 1/24",
+    "polje": "slika",
+    "staro": "01725.webp",
+    "novo": "00445.png"
+  },
+  {
+    "vrijeme": "2026-10-12 08:31",
+    "sifra": "00451",
+    "naziv": "PUHALICA PČELICA srednja 1/24",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:31",
+    "sifra": "00451",
+    "naziv": "PUHALICA PČELICA srednja 1/24",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:32",
+    "sifra": "00437",
+    "naziv": "RADNE RUKAVICE CRNE 1/12",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:32",
+    "sifra": "00437",
+    "naziv": "RADNE RUKAVICE CRNE 1/12",
+    "polje": "katalog_krajina",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:32",
+    "sifra": "00435",
+    "naziv": "RADNE RUKAVICE NARANDŽASTE 1/10",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-12 08:32",
+    "sifra": "00435",
+    "naziv": "RADNE RUKAVICE NARANDŽASTE 1/10",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
   }
 ]
