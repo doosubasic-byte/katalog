@@ -1692470,5 +1692470,29 @@
     "polje": "oznaka",
     "staro": "",
     "novo": "NOVO"
+  },
+  {
+    "vrijeme": "2026-10-13 10:44",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "oznaka",
+    "staro": "NOVO",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-10-13 10:44",
+    "sifra": "01597",
+    "naziv": "SLIČICE SVJETSKO PRVENSTVO 2026 100/1",
+    "polje": "oznaka",
+    "staro": "NOVO",
+    "novo": ""
+  },
+  {
+    "vrijeme": "2026-10-13 10:46",
+    "sifra": "01597",
+    "naziv": "SLIČICE LIGA NACIJA 2026/2027 100/1",
+    "polje": "naziv",
+    "staro": "SLIČICE SVJETSKO PRVENSTVO 2026 100/1",
+    "novo": "SLIČICE LIGA NACIJA 2026/2027 100/1"
   }
 ]
