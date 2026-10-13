@@ -1692390,5 +1692390,85 @@
     "polje": "katalog_krajina",
     "staro": "",
     "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-13 10:23",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "vpc",
+    "staro": "2,25",
+    "novo": "2,96"
+  },
+  {
+    "vrijeme": "2026-10-13 10:23",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "mpc",
+    "staro": "2,65",
+    "novo": "3,46"
+  },
+  {
+    "vrijeme": "2026-10-13 10:23",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-13 10:24",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "vpc",
+    "staro": "2,96",
+    "novo": "2,99"
+  },
+  {
+    "vrijeme": "2026-10-13 10:24",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "mpc",
+    "staro": "3,46",
+    "novo": "3,50"
+  },
+  {
+    "vrijeme": "2026-10-13 10:30",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "vpc",
+    "staro": "2,99",
+    "novo": "2,97"
+  },
+  {
+    "vrijeme": "2026-10-13 10:30",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "mpc",
+    "staro": "3,50",
+    "novo": "3,47"
+  },
+  {
+    "vrijeme": "2026-10-13 10:30",
+    "sifra": "01597",
+    "naziv": "SLIČICE SVJETSKO PRVENSTVO 2026 100/1",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-13 10:39",
+    "sifra": "01597",
+    "naziv": "SLIČICE SVJETSKO PRVENSTVO 2026 100/1",
+    "polje": "oznaka",
+    "staro": "",
+    "novo": "NOVO"
+  },
+  {
+    "vrijeme": "2026-10-13 10:41",
+    "sifra": "01598",
+    "naziv": "ALBUM ZA SLIČICE",
+    "polje": "oznaka",
+    "staro": "",
+    "novo": "NOVO"
   }
 ]
