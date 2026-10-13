@@ -1692502,5 +1692502,37 @@
     "polje": "naziv",
     "staro": "ALBUM ZA SLIČICE",
     "novo": "ALBUM ZA SLIČICE LIGA NACIJA 2026/2027"
+  },
+  {
+    "vrijeme": "2026-10-13 15:29",
+    "sifra": "00997",
+    "naziv": "TANJURI BIJELI PVC 20/1 21cm",
+    "polje": "vpc",
+    "staro": "1,71",
+    "novo": "1,79"
+  },
+  {
+    "vrijeme": "2026-10-13 15:29",
+    "sifra": "00997",
+    "naziv": "TANJURI BIJELI PVC 20/1 21cm",
+    "polje": "mpc",
+    "staro": "2,00",
+    "novo": "2,10"
+  },
+  {
+    "vrijeme": "2026-10-13 15:30",
+    "sifra": "01019",
+    "naziv": "PLASTIČNE ČAŠE 50/1 200ml WHITE (MINI)",
+    "polje": "vpc",
+    "staro": "1,06",
+    "novo": "1,11"
+  },
+  {
+    "vrijeme": "2026-10-13 15:30",
+    "sifra": "01019",
+    "naziv": "PLASTIČNE ČAŠE 50/1 200ml WHITE (MINI)",
+    "polje": "mpc",
+    "staro": "1,25",
+    "novo": "1,30"
   }
 ]
