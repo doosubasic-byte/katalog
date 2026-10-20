@@ -1692534,5 +1692534,37 @@
     "polje": "mpc",
     "staro": "1,25",
     "novo": "1,30"
+  },
+  {
+    "vrijeme": "2026-10-15 12:38",
+    "sifra": "01997",
+    "naziv": "VILJUŠKA PLASTIČNA 14cm 24/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-17 13:32",
+    "sifra": "00096",
+    "naziv": "CECEBON BLISTER COCOLIN DRAGEE 22g 24/1",
+    "polje": "vpc",
+    "staro": "8,16",
+    "novo": "9,44"
+  },
+  {
+    "vrijeme": "2026-10-17 13:32",
+    "sifra": "00096",
+    "naziv": "CECEBON BLISTER COCOLIN DRAGEE 22g 24/1",
+    "polje": "mpc",
+    "staro": "9,55",
+    "novo": "11,05"
+  },
+  {
+    "vrijeme": "2026-10-17 13:32",
+    "sifra": "00096",
+    "naziv": "CECEBON BLISTER COCOLIN DRAGEE 22g 24/1",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
   }
 ]
