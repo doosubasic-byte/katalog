@@ -1692566,5 +1692566,37 @@
     "polje": "aktivno",
     "staro": "NE",
     "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-10-22 12:38",
+    "sifra": "01745",
+    "naziv": "ŽVAKE FRESH SMILE STICK JAGODA 14g 24/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-22 12:38",
+    "sifra": "01964",
+    "naziv": "SHOCK 2 VIŠNJA ŽVAKE SAADET 100/1",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-22 12:39",
+    "sifra": "00378",
+    "naziv": "ŠARENA SALATA NATURA 720ml",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-22 12:39",
+    "sifra": "00378",
+    "naziv": "ŠARENA SALATA NATURA 720ml",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
   }
 ]
