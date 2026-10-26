@@ -1883214,5 +1883214,69 @@
     "polje": "slika",
     "staro": "02162.png",
     "novo": "02163.webp"
+  },
+  {
+    "vrijeme": "2026-10-26 16:02",
+    "sifra": "01006",
+    "naziv": "Air fresh SUMMER FLOWER osvj. zraka 500m",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:02",
+    "sifra": "01138",
+    "naziv": "ŠUMSKO VOĆE JELLOPY 30g 12/1 (LJUBIČASTI)",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:02",
+    "sifra": "00628",
+    "naziv": "LOPTA PVC 1/6",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:02",
+    "sifra": "00628",
+    "naziv": "LOPTA PVC 1/6",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:02",
+    "sifra": "02176",
+    "naziv": "CHOCO WAFER LJEŠNJAK 140g",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:02",
+    "sifra": "02176",
+    "naziv": "CHOCO WAFER LJEŠNJAK 140g",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:03",
+    "sifra": "01795",
+    "naziv": "BOMBONE TOFFIX MIX 700g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-10-26 16:03",
+    "sifra": "00408",
+    "naziv": "BOMBONE VOĆNE SOFTIME 500g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
   }
 ]

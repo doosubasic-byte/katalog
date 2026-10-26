@@ -4840,7 +4840,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01138.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "4b3654e2622a47cd89630182de4b9c95",
     "katalog_krajina": "DA"
   },
@@ -5815,7 +5815,7 @@
     "akcija_postotak": "",
     "slika": "01795.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "eed799adf7f244c49623b8f11af2bec4"
   },
@@ -6055,7 +6055,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00408.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "c23f25d2b9a24d919b579605c46a1259",
     "katalog_krajina": "NE"
   },
@@ -7135,9 +7135,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02176.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "ed8bccf2e1a340988a7a2f7591365742",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00578",
@@ -9925,7 +9925,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01006.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "a651be4f922540438f15c4cc428ad2b4",
     "katalog_krajina": "DA"
   },
@@ -10165,9 +10165,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00628.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "066207579f7a4b4caa96fb4a2a7ae9c8",
-    "katalog_krajina": ""
+    "katalog_krajina": "NE"
   },
   {
     "sifra": "00118",
