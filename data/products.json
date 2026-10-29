@@ -2335,7 +2335,7 @@
     "akcija_postotak": "",
     "slika": "00867.webp",
     "grupa": "Bezalkoholna pića",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "17299f212aed46dbb6fd671706048a16"
   },
@@ -4096,7 +4096,7 @@
   },
   {
     "sifra": "02143",
-    "naziv": "ČIPS TORTILJA SLANA HRUSTY 150g ",
+    "naziv": "ČIPS TORTILJA SLANI HRUSTY 150g ",
     "vpc": "1,07",
     "mpc": "1,25",
     "pakovanje": "1/24",
@@ -4126,7 +4126,7 @@
   },
   {
     "sifra": "02145",
-    "naziv": "ČIPS TORTILJA ČILI HRUSTY 150g ",
+    "naziv": "ČIPS TORTILJA BBQ HRUSTY 150g ",
     "vpc": "1,24",
     "mpc": "1,45",
     "pakovanje": "1/24",
@@ -4360,7 +4360,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00374.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "605f04d669284e57aec8b02d82f90101",
     "katalog_krajina": "DA"
   },
@@ -5065,7 +5065,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00486.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "0b06979d875a4d75b4337d3f2fb7f20f",
     "katalog_krajina": "DA"
   },
@@ -5080,7 +5080,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00488.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "b2f6769e328341f78b7a2bdf1ada5c5f",
     "katalog_krajina": "DA"
   },
@@ -5650,7 +5650,7 @@
     "akcija_postotak": "",
     "slika": "00972.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "8c913b9761a94c88afa14cc367992b9e"
   },
@@ -5665,7 +5665,7 @@
     "akcija_postotak": "",
     "slika": "00973.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "eeeae8261ed34145982039ae3236dc7e"
   },
@@ -5695,7 +5695,7 @@
     "akcija_postotak": "",
     "slika": "00975.webp",
     "grupa": "Candy",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "DA",
     "uid": "a3cc0f4654d54e1d91e876e1c17897af"
   },
@@ -7375,7 +7375,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01406.webp",
-    "aktivno": "",
+    "aktivno": "NE",
     "uid": "31326350be254da595139b4032179e0a",
     "katalog_krajina": "DA"
   },
@@ -9160,7 +9160,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02113.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "3fa034a0acc343798f53b931ca264835",
     "katalog_krajina": "DA"
   },
@@ -9205,7 +9205,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "02110.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "edc26823b9d949ba8b6314d7be42cf69",
     "katalog_krajina": "DA"
   },
