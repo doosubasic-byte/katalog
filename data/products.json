@@ -2275,9 +2275,9 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00844.webp",
-    "aktivno": "",
+    "aktivno": "DA",
     "uid": "bcc8fea2e44243609bbe096e52b95667",
-    "katalog_krajina": ""
+    "katalog_krajina": "DA"
   },
   {
     "sifra": "00378",
@@ -8761,7 +8761,7 @@
   },
   {
     "sifra": "00447",
-    "naziv": "RADNE RUKAVICE BREST",
+    "naziv": "ZIMSKE RADNE RUKAVICE BREST",
     "vpc": "3,03",
     "mpc": "3,50",
     "pakovanje": "",

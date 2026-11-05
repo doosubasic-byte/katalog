@@ -1928710,5 +1928710,29 @@
     "polje": "katalog_krajina",
     "staro": "",
     "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-11-03 11:05",
+    "sifra": "00447",
+    "naziv": "ZIMSKE RADNE RUKAVICE BREST",
+    "polje": "naziv",
+    "staro": "RADNE RUKAVICE BREST",
+    "novo": "ZIMSKE RADNE RUKAVICE BREST"
+  },
+  {
+    "vrijeme": "2026-11-05 13:22",
+    "sifra": "00844",
+    "naziv": "SIRĆE 9% 1000ml",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-11-05 13:22",
+    "sifra": "00844",
+    "naziv": "SIRĆE 9% 1000ml",
+    "polje": "katalog_krajina",
+    "staro": "",
+    "novo": "DA"
   }
 ]
