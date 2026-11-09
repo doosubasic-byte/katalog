@@ -1928758,5 +1928758,21 @@
     "polje": "aktivno",
     "staro": "NE",
     "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-11-09 12:59",
+    "sifra": "111",
+    "naziv": "ČOKOLADNE KUGLICE 500g",
+    "polje": "vpc",
+    "staro": "4,10",
+    "novo": "4,35"
+  },
+  {
+    "vrijeme": "2026-11-09 12:59",
+    "sifra": "111",
+    "naziv": "ČOKOLADNE KUGLICE 500g",
+    "polje": "mpc",
+    "staro": "4,80",
+    "novo": "5,10"
   }
 ]
