@@ -1928774,5 +1928774,53 @@
     "polje": "mpc",
     "staro": "4,80",
     "novo": "5,10"
+  },
+  {
+    "vrijeme": "2026-11-18 12:36",
+    "sifra": "00440",
+    "naziv": "TEČNI SAPUN MAGNOLIJA 500ml",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-18 12:36",
+    "sifra": "00958",
+    "naziv": "TWILA CRISPY BOMBONJERA+VREĆICA",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-18 12:36",
+    "sifra": "02040",
+    "naziv": "PUZLE 22x32",
+    "polje": "aktivno",
+    "staro": "",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-18 12:37",
+    "sifra": "00057",
+    "naziv": "MAŠA I MEDO KINDER JAJE 25g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-18 12:37",
+    "sifra": "02138",
+    "naziv": "KIKIRIKI PAPRIKA HRUSTY 150g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-18 12:37",
+    "sifra": "02139",
+    "naziv": "KIKIRIKI ČILI HRUSTY 150g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
   }
 ]
