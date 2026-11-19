@@ -2492,8 +2492,8 @@
   {
     "sifra": "01847",
     "naziv": "SOK TRAUBISODA 330ml",
-    "vpc": "0,89",
-    "mpc": "1,05",
+    "vpc": "0,94",
+    "mpc": "1,10",
     "pakovanje": "1/24",
     "grupa": "Bezalkoholna pića",
     "redoslijed": 167,
@@ -4150,7 +4150,7 @@
     "akcija_postotak": "",
     "slika": "02145.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "07dfc4dedad34d4391b80238c4a9080e"
   },
@@ -4270,7 +4270,7 @@
     "akcija_postotak": "",
     "slika": "00763.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "a048f40eb3844e5f8b0adf80a4cff71b"
   },
@@ -4285,7 +4285,7 @@
     "akcija_postotak": "",
     "slika": "00764.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "c78f306008f145858e1b8d006d524dce"
   },
@@ -4300,7 +4300,7 @@
     "akcija_postotak": "",
     "slika": "00765.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "3fa19970fcca407aa18a1485b4033fad"
   },
@@ -4315,7 +4315,7 @@
     "akcija_postotak": "",
     "slika": "00766.webp",
     "grupa": "Slane grickalice",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "katalog_krajina": "NE",
     "uid": "15a59139f6ae4525a100bed6bff4a666"
   },
@@ -5950,7 +5950,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00585.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "3a28ea20d3c84a8fa36be38a966d3871",
     "katalog_krajina": "NE"
   },
@@ -7270,7 +7270,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "00410.webp",
-    "aktivno": "NE",
+    "aktivno": "DA",
     "uid": "fbd0bcfb65b84b51b7d89fc16102354a",
     "katalog_krajina": "NE"
   },
@@ -9940,7 +9940,7 @@
     "oznaka": "",
     "akcija_postotak": "",
     "slika": "01009.webp",
-    "aktivno": "DA",
+    "aktivno": "NE",
     "uid": "ca9f9620ab204901a8d74414ec59c1c8",
     "katalog_krajina": "DA"
   },

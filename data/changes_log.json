@@ -1943150,5 +1943150,85 @@
     "polje": "slika",
     "staro": "01103.webp",
     "novo": "00063.webp"
+  },
+  {
+    "vrijeme": "2026-11-19 09:09",
+    "sifra": "00585",
+    "naziv": "ŽELE GUMENE JAGODA–MENTA 80g 1/45",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-19 16:15",
+    "sifra": "01009",
+    "naziv": "Air fresh MAGIC FLOWER osvj. zraka 500ml",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-19 16:15",
+    "sifra": "02145",
+    "naziv": "ČIPS TORTILJA BBQ HRUSTY 150g ",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-19 16:24",
+    "sifra": "01847",
+    "naziv": "SOK TRAUBISODA 330ml",
+    "polje": "vpc",
+    "staro": "0,89",
+    "novo": "0,94"
+  },
+  {
+    "vrijeme": "2026-11-19 16:24",
+    "sifra": "01847",
+    "naziv": "SOK TRAUBISODA 330ml",
+    "polje": "mpc",
+    "staro": "1,05",
+    "novo": "1,10"
+  },
+  {
+    "vrijeme": "2026-11-19 16:25",
+    "sifra": "00410",
+    "naziv": "BOMBONJERA ŠKOLJKA MELBON BRULEE 250g",
+    "polje": "aktivno",
+    "staro": "NE",
+    "novo": "DA"
+  },
+  {
+    "vrijeme": "2026-11-19 16:28",
+    "sifra": "00763",
+    "naziv": "CHAPO ČIPS CLASSIC 110g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-19 16:28",
+    "sifra": "00764",
+    "naziv": "CHAPO ČIPS PAPRIKA 110g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-19 16:29",
+    "sifra": "00765",
+    "naziv": "CHAPO ČIPS KEČAP 110g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
+  },
+  {
+    "vrijeme": "2026-11-19 16:29",
+    "sifra": "00766",
+    "naziv": "CHAPO ČIPS ČILI 110g",
+    "polje": "aktivno",
+    "staro": "DA",
+    "novo": "NE"
   }
 ]
