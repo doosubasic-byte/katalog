@@ -1973054,5 +1973054,117 @@
     "polje": "slika",
     "staro": "104.webp",
     "novo": "108.webp"
+  },
+  {
+    "vrijeme": "2026-11-23 10:56",
+    "sifra": "01744",
+    "naziv": "FROZEN KINDER JAJE 25g",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:56",
+    "sifra": "01744",
+    "naziv": "FROZEN KINDER JAJE 25g",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
+  },
+  {
+    "vrijeme": "2026-11-23 10:56",
+    "sifra": "00482",
+    "naziv": "BARBY KINDER JAJE 25g",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:56",
+    "sifra": "00482",
+    "naziv": "BARBY KINDER JAJE 25g",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
+  },
+  {
+    "vrijeme": "2026-11-23 10:56",
+    "sifra": "00514",
+    "naziv": "CECE ČOKO KINDER JAJE 30g 1/24",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:56",
+    "sifra": "00514",
+    "naziv": "CECE ČOKO KINDER JAJE 30g 1/24",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "02021",
+    "naziv": "SPUŽVA BOB KINDER JAJE 25g",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "02021",
+    "naziv": "SPUŽVA BOB KINDER JAJE 25g",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "00057",
+    "naziv": "MAŠA I MEDO KINDER JAJE 25g",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "00057",
+    "naziv": "MAŠA I MEDO KINDER JAJE 25g",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "00493",
+    "naziv": "SPIDERMAN KINDER JAJE 25g",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "00493",
+    "naziv": "SPIDERMAN KINDER JAJE 25g",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "00319",
+    "naziv": "BATMAN KINDER JAJE 25g",
+    "polje": "vpc",
+    "staro": "0,37",
+    "novo": "0,43"
+  },
+  {
+    "vrijeme": "2026-11-23 10:57",
+    "sifra": "00319",
+    "naziv": "BATMAN KINDER JAJE 25g",
+    "polje": "mpc",
+    "staro": "0,45",
+    "novo": "0,50"
   }
 ]
